@@ -123,6 +123,7 @@ var acquisitionMethods = [
     //{ id: "wip", name: "wip", category: "Secrets of the Obscure"},
     //{ id: "wip", name: "wip", category: "Secrets of the Obscure"},
 
+    //{ id: "fractalsofthemists", name: "Fractals of the Mists Reward", category: "Cooperative"},
     { id: "fractalrelic", name: "Fractal Relic", category: "Cooperative"},
     { id: "pristinefractalrelic", name: "Pristine Fractal Relic", category: "Cooperative"},
     { id: "fractalresearchpage", name: "Fractal Research Page", category: "Cooperative"},
@@ -130,7 +131,9 @@ var acquisitionMethods = [
     { id: "goldenfractalrelic", name: "Golden Fractal Relic", category: "Cooperative"},
     { id: "integratedmatrix", name: "Integrated Fractal Matrix", category: "Cooperative"},
     { id: "unstablefractalessence", name: "Unstable Fractal Essence", category: "Cooperative"},
+    //{ id: "raid", name: "Raid Reward", category: "Cooperative"},
     { id: "magnetiteshard", name: "Magnetite Shard", category: "Cooperative"},
+    //{ id: "strikemission", name: "Strike Mission Reward", category: "Cooperative"},
     { id: "blueprophetshard", name: "Blue Prophet Shard", category: "Cooperative"},
     { id: "greenprophetshard", name: "Green Prophet Shard", category: "Cooperative"},
 

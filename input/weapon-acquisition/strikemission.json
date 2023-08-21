@@ -1,0 +1,19 @@
+{
+  "name": "strikemission",
+  "contents": [
+    // Living World Season 1 - Aetherized Arsenite / Aetherized Indigo / Aetherized Vermilion - Tier 1
+    11140,11127,11139,
+    // Living World Season 5 - Ancient Boreal
+    9010,9012,9013,9020,9023,9024,9026,9028,9029,9031,9032,9033,9036,9038,9047,9048,
+    // Living World Season 5 - Blood Legion
+    9244,9295,9310,9313,9324,
+    // Living World Season 5 - Boneskinner
+    9138,9155,
+    // End of Dragons - Living Water
+    10304,10323,10384,10387,10465,10486,10495,10575,10590,10597,10609,10651,10664,10694,10717,10741,
+    // End of Dragons
+    10803,10831,10837,
+    // Festival: Wintersday
+    10194
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "raid",
+  "contents": [
+    // Raid - Spirit Vale
+    368,370,371,372,373,375,376,377,
+    // Raid - Salvation Pass
+    389,390,391,392,393,394,
+    // Raid - Stronghold of the Faithful
+    401,402,403,
+    // Raid - Bastion of the Penitent
+    436,438,440,441,442,447,
+    // Raid - Hall of Chains
+    621,622,623,
+    // Raid - Mythwright Gambit
+    721,722,723,725,
+    // Raid - The Key of Ahdashim
+    763,764,765
+  ]
+}

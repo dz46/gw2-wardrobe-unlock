@@ -1834,18 +1834,18 @@
     },
     "Cooperative: Raid": {
       "Dhuum": [
-        7872,
-        7905,
-        7889,
-        7874,
-        7911,
-        7895,
         7848,
-        7868,
         7854,
         7855,
+        7868,
         7871,
-        7887
+        7872,
+        7874,
+        7887,
+        7889,
+        7895,
+        7905,
+        7911
       ],
       "Experimental Envoy": [
         6790,
@@ -1908,9 +1908,9 @@
         7157
       ],
       "Standalone: Bastion of the Penitent": [
-        7121,
         7077,
-        7115
+        7115,
+        7121
       ]
     },
     "Competitive: Player vs. Player / World vs. World": {
