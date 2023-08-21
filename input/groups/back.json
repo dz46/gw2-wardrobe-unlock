@@ -331,15 +331,9 @@
         9838,
         10183,
         11206
-      ],
-      "Standalone: Annual Customs": [
-      ],
-      "Standalone: Other": [
       ]
     },
     "Festival: Super Adventure Festival": {
-      "Standalone: Annual Customs": [
-      ],
       "Standalone: Other": [
         2359,
         2360,
@@ -350,11 +344,9 @@
       ]
     },
     "Festival: Dragon Bash": {
-      "Standalone: Annual Customs": [
-        2352
-      ],
       "Standalone: Other": [
         2351,
+        2352,
         8833
       ]
     },
@@ -369,15 +361,13 @@
         8218,
         8223
       ],
-      "Standalone: Annual Customs": [
-        8861
-      ],
       "Standalone: Festival Bag": [
         2349,
         2350
       ],
       "Standalone: Other": [
-        5456
+        5456,
+        8861
       ]
     },
     "Festival: Halloween": {
@@ -387,21 +377,17 @@
         2338,
         7775
       ],
-      "Standalone: Annual Customs": [
-        9638
-      ],
       "Standalone: Other": [
+      	9638
       ]
     },
     "Festival: Wintersday": {
-      "Standalone: Annual Customs": [
-        10218
-      ],
       "Standalone: Other": [
         2374,
         2375,
         2382,
-        2383
+        2383,
+        10218
       ]
     },
     "Gem Store": {

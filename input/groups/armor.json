@@ -2132,7 +2132,7 @@
       ]
     },
     "Festival: Lunar New Year": {
-      "Standalone: Annual Customs": [
+      "Standalone: Other": [
         9101,
         9108,
         9111,
@@ -2145,8 +2145,6 @@
         11205,
         11212,
         11226
-      ],
-      "Standalone: Other": [
       ]
     },
     "Festival: Super Adventure Festival": {
@@ -2172,15 +2170,13 @@
         10778,
         10779
       ],
-      "Standalone: Annual Customs": [
+      "Standalone: Other": [
         9335,
         9337,
         9349,
         9352,
         9355,
         9357
-      ],
-      "Standalone: Other": [
       ]
     },
     "Festival: Dragon Bash": {
@@ -2200,8 +2196,6 @@
         11484,
         11486,
         11510
-      ],
-      "Standalone: Annual Customs": [
       ],
       "Standalone: Other": [
         2013,
@@ -2254,12 +2248,10 @@
         1209,
         1210
       ],
-      "Standalone: Annual Customs": [
+      "Standalone: Other": [
         9544,
         9546,
         9555
-      ],
-      "Standalone: Other": [
       ]
     },
     "Festival: Halloween": {
@@ -2285,17 +2277,6 @@
         7773,
         7774
       ],
-      "Standalone: Annual Customs": [
-        8964,
-        8966,
-        8968,
-        10122,
-        10128,
-        10134,
-        11053,
-        11065,
-        11069
-      ],
       "Standalone: Festival Bag": [
         6217,
         6249,
@@ -2318,21 +2299,19 @@
         6273,
         6306,
         6414,
-        6487
+        6487,
+        8964,
+        8966,
+        8968,
+        10122,
+        10128,
+        10134,
+        11053,
+        11065,
+        11069
       ]
     },
     "Festival: Wintersday": {
-      "Standalone: Annual Customs": [
-        9062,
-        9087,
-        9089,
-        9731,
-        9742,
-        9765,
-        11171,
-        11179,
-        11184
-      ],
       "Standalone: Festival Bag": [
         9063,
         9071,
@@ -2344,7 +2323,16 @@
         6586,
         7966,
         7970,
-        7991
+        7991,
+        9062,
+        9087,
+        9089,
+        9731,
+        9742,
+        9765,
+        11171,
+        11179,
+        11184
       ]
     },
     "Gem Store": {

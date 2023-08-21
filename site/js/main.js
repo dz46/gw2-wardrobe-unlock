@@ -15,11 +15,11 @@ var acquisitionMethods = [
     { id: "craft", name: "Crafting", category: "General"},
     { id: "achievement", name: "Achievement", category: "General"},
     { id: "achievementpoint", name: "Achievement Point", category: "General"},
-    { id: "hallofmonuments", name: "Hall of Monuments", category: "General"},
     { id: "story", name: "Story Reward", category: "General"},
     { id: "quest", name: "Quest Reward", category: "General"},
     { id: "event", name: "Event Reward", category: "General"},
     { id: "adventure", name: "Adventure Reward", category: "General"},
+    { id: "hallofmonuments", name: "Hall of Monuments", category: "General"},
 
     { id: "birthday1", name: "First Birthday Gift", category: "Anniversary"},
     //{ id: "birthday2", name: "Second Birthday Gift", category: "Anniversary"},
@@ -36,8 +36,8 @@ var acquisitionMethods = [
 
     { id: "gold", name: "Coins", category: "Common", hideOnIcon: true},
     { id: "karma", name: "Karma", category: "Common"},
-    { id: "laurel", name: "Laurel", category: "Common"},
     { id: "spiritshard", name: "Spirit Shard", category: "Common"},
+    { id: "laurel", name: "Laurel", category: "Common"},
     { id: "globofectoplasm", name: "Glob of Ectoplasm", category: "Common"},
     { id: "guildcommendation", name: "Guild Commendation", category: "Common"},
     { id: "provisionertoken", name: "Provisioner Token", category: "Common"},
@@ -63,9 +63,9 @@ var acquisitionMethods = [
     { id: "airshippart", name: "Airship Part", category: "Heart of Thorns"},
     { id: "aurillium", name: "Lump of Aurillium", category: "Heart of Thorns"},
     { id: "leylinecrystal", name: "Ley Line Crystal", category: "Heart of Thorns"},
-    { id: "reclaimedplate", name: "Reclaimed Metal Plate", category: "Heart of Thorns"},
     { id: "chakegg", name: "Chak Egg", category: "Heart of Thorns"},
     { id: "crystallineore", name: "Crystalline Ore", category: "Heart of Thorns"},
+    { id: "reclaimedplate", name: "Reclaimed Metal Plate", category: "Heart of Thorns"},
 
     { id: "unboundmagic", name: "Unbound Magic", category: "Living World Season 3"},
     { id: "bloodruby", name: "Blood Ruby", category: "Living World Season 3"},
@@ -92,7 +92,6 @@ var acquisitionMethods = [
     { id: "hatchedchili", name: "Hatched Chili", category: "Living World Season 5"},
     { id: "eternaliceshard", name: "Eternal Ice Shard", category: "Living World Season 5"},
     { id: "eitriteingot", name: "Eitrite Ingot", category: "Living World Season 5"},
-    { id: "blueprophetshard", name: "Blue Prophet Shard", category: "Living World Season 5"},
     { id: "ancientdeldrimorgear", name: "Ancient Deldrimor Gear", category: "Living World Season 5"},
     { id: "essentialoilofshadows", name: "Essential Oil of Shadows", category: "Living World Season 5"},
     { id: "icepearl", name: "Ice Pearl", category: "Living World Season 5"},
@@ -111,7 +110,6 @@ var acquisitionMethods = [
     { id: "writofdragonsend", name: "Writ of Dragon's End", category: "End of Dragons"},
     { id: "pieceofcrustaceanmeat", name: "Piece of Crustacean Meat", category: "End of Dragons"},
     { id: "flawlessfishfillet", name: "Flawless Fish Fillet", category: "End of Dragons"},
-    { id: "greenprophetshard", name: "Green Prophet Shard", category: "End of Dragons"},
 
     { id: "fragmentofprismaticpersuasion", name: "Fragment of Prismatic Persuasion", category: "Facet of Aurene"},
     { id: "fragmentofprismaticfury", name: "Fragment of Prismatic Fury", category: "Facet of Aurene"},
@@ -133,6 +131,8 @@ var acquisitionMethods = [
     { id: "integratedmatrix", name: "Integrated Fractal Matrix", category: "Cooperative"},
     { id: "unstablefractalessence", name: "Unstable Fractal Essence", category: "Cooperative"},
     { id: "magnetiteshard", name: "Magnetite Shard", category: "Cooperative"},
+    { id: "blueprophetshard", name: "Blue Prophet Shard", category: "Cooperative"},
+    { id: "greenprophetshard", name: "Green Prophet Shard", category: "Cooperative"},
 
     { id: "pvp", name: "Reward Track", category: "Competitive"},
     { id: "pvpleagueticket", name: "PvP League Ticket", category: "Competitive"},
@@ -165,9 +165,9 @@ var acquisitionMethods = [
     { id: "blt", name: "Black Lion Claim Ticket", category: "Gem Store"},
     { id: "blmt", name: "Black Lion Miniature Claim Ticket", category: "Gem Store"},
     { id: "blsprocket", name: "Black Lion Commemorative Sprocket", category: "Gem Store"},
+    { id: "promotionalevent", name: "Promotional Event", category: "Gem Store"},
     { id: "gwu", name: "Guaranteed Wardrobe Unlock", category: "Gem Store", hideOnIcon: true},
     { id: "bounty", name: "Knife Tail Gang Hunting Bond", category: "Gem Store", hideOnIcon: true},
-    { id: "promotionalevent", name: "Promotional Event", category: "Gem Store"},
 
     { id: "mountlicense01", name: "Mount License", category: "Gem Store - Mount License"},
     { id: "mountlicense02", name: "Istani Isles Mount License", category: "Gem Store - Mount License"},
@@ -269,7 +269,7 @@ function buildSite(data) {
     $('#filter-by-acquisition').change(function() {
         updateFilter(this.value, $('#filter-by-container')[0].value);
     });
-    
+
     $('#filter-by-container')[0].value = 'all';
     $('#filter-by-container').change(function() {
         updateFilter($('#filter-by-acquisition')[0].value, this.value);
@@ -881,7 +881,7 @@ function buildSection(root, sectionData) {
     var bountyCountData = {};
     bountyCountData.total = bountyCount;
     bountyCountData.unlocked = 0;
-    bountyCounts[sectionData.id] = bountyCountData;    
+    bountyCounts[sectionData.id] = bountyCountData;
 
     var tpItems = extractTPItems(sectionData);
 
@@ -900,13 +900,13 @@ function buildSection(root, sectionData) {
     gwuCountData.unlockedBuyValue = 0;
     gwuCountData.unlockedSellValue = 0;
     gwuCountData.prefix = 'gwu-';
-    
+
     bountyCountData.totalBuyValue = calculateTotalValue(tpItems.filter(bountyFilter), getBuyPrice);
     bountyCountData.totalSellValue = calculateTotalValue(tpItems.filter(bountyFilter), getSellPrice);
     bountyCountData.unlockedBuyValue = 0;
     bountyCountData.unlockedSellValue = 0;
     bountyCountData.prefix = 'bounty-'
-    
+
     countTypes = [countData, gwuCountData, bountyCountData];
 
     if (!sectionData.unlockUrl) {
