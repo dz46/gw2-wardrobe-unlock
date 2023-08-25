@@ -87,17 +87,15 @@
         266,
         267
       ],
-      "Standalone: World Boss": [
-        102,
-        214,
-        234
-      ],
       "Standalone: Other": [
+        102,
         106,
         110,
         186,
         198,
+        214,
         228,
+        234,
         241
       ]
     },
@@ -173,17 +171,17 @@
       ]
     },
     "(X4) Guild Wars 2: Secrets of the Obscure": {
+      "Standalone: Strike Mission": [
+      ],
       "Standalone: Other": [
       ]
     },
     "Cooperative: Fractals of the Mists": {
-      "Standalone: Challenge Mode": [
+      "Standalone: Other": [
         115,
+        121,
         141,
         307
-      ],
-      "Standalone: Other": [
-        121
       ]
     },
     "Cooperative: Raid": {

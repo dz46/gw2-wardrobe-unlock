@@ -93,21 +93,19 @@
         2344,
         9051
       ],
-      "Standalone: World Boss": [
-        2358,
-        6621
-      ],
       "Standalone: Other": [
         2318,
         2325,
         2326,
         2341,
+        2358,
         2376,
         5653,
         6242,
         6253,
         6353,
-        6618
+        6618,
+        6621
       ]
     },
     "(LW1) Living World Season 1: Scarlet's War": {
@@ -168,7 +166,7 @@
         7214,
         7218
       ],
-      "Relic of the Six": [
+      "Relic of The Six": [
         7296,
         7319,
         7303,
@@ -262,6 +260,8 @@
     },
     "(X4) Guild Wars 2: Secrets of the Obscure": {
       "Standalone: Other": [
+      	11741,
+      	11804
       ]
     },
     "Cooperative: Fractals of the Mists": {
@@ -334,13 +334,15 @@
       ]
     },
     "Festival: Super Adventure Festival": {
-      "Standalone: Other": [
-        2359,
+      "Super / King Toad / Storm Wizard / Kaiser Snake / Crimson Assassin": [
         2360,
         2361,
         2362,
         6668,
         7201
+      ],
+      "Standalone: Other": [
+        2359
       ]
     },
     "Festival: Dragon Bash": {
@@ -442,7 +444,8 @@
         10805,
         10941,
         11051,
-        11428
+        11428,
+        11780
       ],
       "Standalone: Other + Miniature Combo": [
         6431
@@ -482,7 +485,8 @@
       "Standalone: Other - Cape + Glider Combo": [
         9732,
         10888,
-        11400
+        11400,
+        11716
       ],
       "Standalone: Other - Plush": [
         2363,

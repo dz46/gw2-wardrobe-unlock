@@ -50,9 +50,6 @@
       "Standalone: Racing": [
         321
       ],
-      "Standalone: World Boss": [
-        175
-      ],
       "Standalone: Other": [
         11,
         12,
@@ -61,6 +58,7 @@
         39,
         127,
         160,
+        175,
         184,
         186,
         201,
@@ -80,15 +78,13 @@
       "Standalone: Strike Mission": [
         395
       ],
-      "Standalone: World Boss": [
-        180,
-        181,
-        226
-      ],
       "Standalone: Other": [
         131,
         133,
-        182
+        180,
+        181,
+        182,
+        226
       ]
     },
     "(LW2) Living World Season 2: Glint's Prophecy": {
@@ -235,18 +231,16 @@
         298,
         299
       ],
-      "Standalone: Challenge Mode": [
+      "Standalone: Other": [
+        220,
+        225,
+        248,
         250,
         275,
         277,
         365,
         366,
         399
-      ],
-      "Standalone: Other": [
-        220,
-        225,
-        248
       ]
     },
     "Cooperative: Raid": {

@@ -692,7 +692,19 @@
         // Savage Scale Loincloth
         11100,11124,
         // Rift Warden Helm
-        11063,11078
+        11063,11078,
+        // Holographic Dragon Greaves
+        10851,10866,
+        // Zephyrite Shawl
+        10923,10930,
+        // Serpentine Tattoo Chest
+        11267,11308,
+        // Fire Bloom Tattoo Chest
+        11270,11314,
+        // Rebel Long Boots
+        11354,11357,
+        // Bestial Tides Tattoo Chest
+        11286,11304
       ]
     },
     {
@@ -755,7 +767,11 @@
         // Living Water Longbow, similar icon to Saltspray Longbow
         10590
       ],
-      "gwuIncludeIds": [10275]
+      "gwuIncludeIds": [
+        10275,
+        11180,
+        11196
+      ]
     },
     {
       "id": "back",
@@ -914,8 +930,9 @@
         1704
       ],
       "gwuIncludeIds": [
+        119,
         1456,
-        119
+        1623
       ]
     },
     {
