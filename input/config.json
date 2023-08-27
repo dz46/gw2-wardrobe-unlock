@@ -204,7 +204,9 @@
         // Reliquary of the Bear Ceremonial Garb
         "93585": [9365,9416,9369],
         // Blood Legion Soldier Helm Box
-        "93653": [9429,9436,9439]
+        "93653": [9429,9436,9439],
+        // Visage of Nourys
+        "100010": [11569,11658,11714]
       },
       "gwuIncludeIds": [
         1,
@@ -1236,7 +1238,8 @@
       "/wiki/Black_Lion_Claim_Ticket",
       "/wiki/Black_Lion_Commemorative_Sprocket",
       "/wiki/Black_Lion_Miniature_Claim_Ticket",
-      "/wiki/Black_Lion_Statuette"
+      "/wiki/Black_Lion_Statuette",
+      "/wiki/Wizard's_Vault"
     ],
     "ignorePages": [
       "/wiki/List_of_karma_merchant_items",
@@ -1340,6 +1343,7 @@
     "legendaryluck",
     "imperialfavor",
     "unusualcoin",
+    "ancientcoin",
     "canachcoin",
     "greenprophetshard",
     "writofseitungprovince",
@@ -1373,7 +1377,17 @@
     "spiritwoodplank",
     "pvpleagueticket",
     "orderofshadowsseal",
-    "potionofascalonianmages"
+    "potionofascalonianmages",
+    "pouchofstardust",
+    "purifiedkryptisessence",
+    "caseofcapturedlightning",
+    "giftofbones",
+    "giftoffangs",
+    "giftofdust",
+    "giftofvenom",
+    "giftofscales",
+    "giftofclaws",
+    "astralacclaim"
   ],
   "ignoreCurrencies": [
     "ascaloniantear",

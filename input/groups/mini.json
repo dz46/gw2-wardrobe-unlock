@@ -348,6 +348,14 @@
       ]
     },
     "(X4) Guild Wars 2: Secrets of the Obscure": {
+      "Standalone: Faction Provisioner": [
+        893,
+        895,
+        897,
+        903,
+        904,
+        909
+      ],
       "Standalone: Rift Hunting": [
         892,
         894,
@@ -361,16 +369,10 @@
         908
       ],
       "Standalone: Other": [
-        893,
-        895,
         896,
-        897,
         901,
         902,
-        903,
-        904,
-        905,
-        909
+        905
       ]
     },
     "Cooperative: Fractals of the Mists": {

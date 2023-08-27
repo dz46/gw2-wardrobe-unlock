@@ -1,5 +1,10 @@
 {
   "topLevelCategories": {
+    "Core": {
+      "Standalone: Other": [
+        "Bless"
+      ]
+    },
     "(LW5) Living World Season 5: The Icebrood Saga": {
       "Standalone: Grothmar Valley": [
         "rockout"
@@ -26,11 +31,6 @@
       "Standalone: Other": [
         "Heroic",
         "Possessed"
-      ]
-    },
-    "Wizard's Vault": {
-      "Standalone: Other": [
-        "Bless"
       ]
     },
     "Gem Store": {
