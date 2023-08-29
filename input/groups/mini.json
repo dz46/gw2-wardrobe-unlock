@@ -87,6 +87,13 @@
       ]
     },
     "(LW3) Living World Season 3: Glint's Legacy": {
+      "Dragon's Watch": [
+        462,
+        465,
+        467,
+        468,
+        469
+      ],
       "Standalone: Bloodstone Fen": [
         406,
         407,
@@ -119,14 +126,9 @@
       "Standalone: Draconis Mons": [
         460,
         461,
-        462,
         463,
         464,
-        465,
-        466,
-        467,
-        468,
-        469
+        466
       ],
       "Standalone: Siren's Landing": [
         488,
@@ -139,6 +141,23 @@
       ]
     },
     "(X2) Guild Wars 2: Path of Fire": {
+      "Djinn": [
+        503,
+        505,
+        563,
+        572
+      ],
+      "Elite Specialization Mentor": [
+        506,
+        518,
+        531,
+        541,
+        545,
+        558,
+        565,
+        566,
+        569
+      ],
       "Standalone: Casino Blitz": [
         537,
         595
@@ -218,23 +237,6 @@
         575,
         579,
         585
-      ],
-      "Standalone: Other - Djinn": [
-        503,
-        505,
-        563,
-        572
-      ],
-      "Standalone: Other - Elite Specialization Mentor": [
-        506,
-        518,
-        531,
-        541,
-        545,
-        558,
-        565,
-        566,
-        569
       ]
     },
     "(LW4) Living World Season 4: Rise of Kralkatorrik": {
@@ -285,6 +287,18 @@
       ]
     },
     "(LW5) Living World Season 5: The Icebrood Saga": {
+      "Corrupted Lost Spirit": [
+        799,
+        802,
+        803
+      ],
+      "Steel Warband": [
+        805,
+        806,
+        807,
+        808,
+        809
+      ],
       "Standalone: Grothmar Valley": [
         777,
         778,
@@ -296,18 +310,8 @@
         788,
         789,
         790,
-        799,
         800,
-        801,
-        802,
-        803
-      ],
-      "Standalone: Eye of the North": [
-        805,
-        806,
-        807,
-        808,
-        809
+        801
       ],
       "Standalone: Drizzlewood Coast": [
         812,
@@ -320,6 +324,11 @@
       ]
     },
     "(X3) Guild Wars 2: End of Dragons": {
+      "Void Minion": [
+        842,
+        849,
+        851
+      ],
       "Standalone: Fishing": [
         844,
         845,
@@ -338,25 +347,14 @@
       ],
       "Standalone: Other": [
         839,
-        842,
         847,
-        849,
-        851,
         875,
         884,
         885
       ]
     },
     "(X4) Guild Wars 2: Secrets of the Obscure": {
-      "Standalone: Faction Provisioner": [
-        893,
-        895,
-        897,
-        903,
-        904,
-        909
-      ],
-      "Standalone: Rift Hunting": [
+      "Avatar of Sin": [
         892,
         894,
         898,
@@ -369,10 +367,16 @@
         908
       ],
       "Standalone: Other": [
+        893,
+        895,
         896,
+        897,
         901,
         902,
-        905
+        903,
+        904,
+        905,
+        909
       ]
     },
     "Cooperative: Fractals of the Mists": {
@@ -438,55 +442,55 @@
       ]
     },
     "Competitive: Player vs. Player / World vs. World": {
-      "Black Llama": [
-        427,
-        429,
-        431,
-        432
-      ],
-      "Bronze Llama": [
-        476,
-        479,
-        483,
-        485
-      ],
-      "Emperor Llama": [
-        449,
-        450,
-        451,
-        453
-      ],
-      "Gold Llama": [
-        480,
-        481,
-        484,
-        486
-      ],
-      "Llama": [
+      "PvP League Series 1 - Llama": [
         228,
         321,
         322,
         323
       ],
-      "Princess Llama": [
+      "PvP League Series 2 - Black Llama": [
+        427,
+        429,
+        431,
+        432
+      ],
+      "PvP League Series 3 - Emperor Llama": [
+        449,
+        450,
+        451,
+        453
+      ],
+      "PvP League Series 4 - Princess Llama": [
         471,
         472,
         473,
         474
       ],
-      "Silver Llama": [
+      "PvP Tournament Series 1 - Bronze Llama": [
+        476,
+        479,
+        483,
+        485
+      ],
+      "PvP Tournament Series 2 - Silver Llama": [
         477,
         478,
         482,
         487
       ],
-      "Standalone: Player vs. Player": [
+      "PvP Tournament Series 3 - Gold Llama": [
+        480,
+        481,
+        484,
+        486
+      ],
+      "Mist Champion": [
         362,
         366,
         379,
         388
       ],
-      "Standalone: World vs. World": [
+      "Standalone: Other": [
         204,
         571,
         543

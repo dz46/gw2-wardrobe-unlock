@@ -1,7 +1,13 @@
 {
   "topLevelCategories": {
     "Core": {
-      "Ley-Line Anomaly": [
+      "Elemental Potion": [
+        72,
+        120,
+        179,
+        231
+      ],
+      "Ley-Line Anomaly Tonic": [
         191,
         202
       ],
@@ -25,16 +31,14 @@
       "Standalone: Other": [
         12,
         29,
-        34,
-        41,
-        72,
-        120,
-        179,
         219,
         222,
-        231,
         237,
         289
+      ],
+      "Standalone: Other + Weapon Combo": [
+        34,
+        41
       ]
     },
     "(LW1) Living World Season 1: Scarlet's War": {
@@ -81,6 +85,11 @@
       ]
     },
     "(X1) Guild Wars 2: Heart of Thorns": {
+      "Chak Tonic": [
+        102,
+        214,
+        234
+      ],
       "Mushroom Tonic": [
         96,
         135,
@@ -88,14 +97,11 @@
         267
       ],
       "Standalone: Other": [
-        102,
         106,
         110,
         186,
         198,
-        214,
         228,
-        234,
         241
       ]
     },
@@ -201,7 +207,7 @@
     "Competitive: Player vs. Player / World vs. World": {
       "Champion's Gizmo": [
       ],
-      "Standalone: World vs. World": [
+      "Standalone: Other": [
         147
       ]
     },

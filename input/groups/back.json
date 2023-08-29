@@ -76,6 +76,13 @@
         6361,
         6495
       ],
+      "Ascended Series": [
+        2318,
+        2325,
+        2326,
+        2341,
+        2376
+      ],
       "Capital City": [
         6890,
         6892,
@@ -94,12 +101,7 @@
         9051
       ],
       "Standalone: Other": [
-        2318,
-        2325,
-        2326,
-        2341,
         2358,
-        2376,
         5653,
         6242,
         6253,
@@ -211,11 +213,17 @@
       ]
     },
     "(LW5) Living World Season 5: The Icebrood Saga": {
-      "Standalone: Grothmar Valley": [
+      "Banner of the Charr Legion": [
         8924,
         8931,
         8933,
         8937
+      ],
+      "Charr Legion Backpack": [
+        9387,
+        9407,
+        9413,
+        9431
       ],
       "Standalone: Bjora Marches": [
         9017
@@ -223,12 +231,6 @@
       "Standalone: Eye of the North": [
         9249,
         9252
-      ],
-      "Standalone: Drizzlewood Coast": [
-        9387,
-        9407,
-        9413,
-        9431
       ],
       "Standalone: Dragonstorm": [
         9991
@@ -305,7 +307,7 @@
         7276,
         7246
       ],
-      "Standalone: Player vs. Player": [
+      "Standalone: Other": [
         2380
       ]
     },
