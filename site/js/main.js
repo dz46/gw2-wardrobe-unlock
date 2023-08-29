@@ -119,9 +119,9 @@ var acquisitionMethods = [
     { id: "fragmentofprismaticlife", name: "Fragment of Prismatic Life", category: "End of Dragons - Facet of Aurene"},
     { id: "fragmentofprismaticshadows", name: "Fragment of Prismatic Shadows", category: "End of Dragons - Facet of Aurene"},
 
-    { id: "staticcharge", name: "Static Charge", category: "Secrets of the Obscure"},
+    //{ id: "staticcharge", name: "Static Charge", category: "Secrets of the Obscure"},
     { id: "caseofcapturedlightning", name: "Case of Captured Lightning", category: "Secrets of the Obscure"},
-    { id: "pinchofstardust", name: "Pinch of Stardust", category: "Secrets of the Obscure"},
+    //{ id: "pinchofstardust", name: "Pinch of Stardust", category: "Secrets of the Obscure"},
     { id: "pouchofstardust", name: "Pouch of Stardust", category: "Secrets of the Obscure"},
     { id: "amalgamatedkryptisessence", name: "Amalgamated Kryptis Essence", category: "Secrets of the Obscure"},
     { id: "purifiedkryptisessence", name: "Purified Kryptis Essence", category: "Secrets of the Obscure"},

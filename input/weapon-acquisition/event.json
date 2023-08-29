@@ -1,6 +1,16 @@
 {
   "name": "event",
   "contents": [
+    // Core - Ascalon / Charr Series 2 - Flame
+    5086,5128,
+    // Core - Ascalon Series 3 - Legionnaire
+    5126,
+    // Core - Sylvari Series 3 - Warden
+    4262,
+    // Core - Modniir
+    4613,
+    // Core - Pirate
+    4591,4606,
     // Core - Sunless
     5269,5304,5336,5247,5302,5286,5275,5263,5257,5283,5297,5317,5276,5268,5254,5329,5262,5291,5315,
     // Core
@@ -34,6 +44,8 @@
     // End of Dragons - Living Water
     10304,10323,10384,10387,10465,10486,10495,10575,10590,10597,10609,10651,10664,10694,10717,10741,
     // End of Dragons - Tahkayun
-    11325,11340,11344
+    11325,11340,11344,
+    // Secrets of the Obscure - Skyscale
+    11581,11603,11609,11618,11635,11642,11647,11662,11663,11673,11704,11717,11724,11731,11746,11801
   ]
 }
