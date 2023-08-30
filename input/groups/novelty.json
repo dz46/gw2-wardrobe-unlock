@@ -68,17 +68,15 @@
       ]
     },
     "(LW2) Living World Season 2: Glint's Prophecy": {
-      "Standalone: Dry Top": [
+      "Standalone: Other": [
         11,
         14,
         48,
-        195
-      ],
-      "Standalone: The Silverwastes": [
         81,
         90,
         117,
         138,
+        195,
         201,
         230,
         243
@@ -106,16 +104,10 @@
       ]
     },
     "(LW3) Living World Season 3: Glint's Legacy": {
-      "Standalone: Ember Bay": [
-        132
-      ],
-      "Standalone: Bitterfrost Frontier": [
-        158
-      ],
-      "Standalone: Lake Doric": [
-        255
-      ],
-      "Standalone: Draconis Mons": [
+      "Standalone: Renown Heart": [
+        132,
+        158,
+        255,
         92
       ]
     },
@@ -134,30 +126,24 @@
       ]
     },
     "(LW4) Living World Season 4: Rise of Kralkatorrik": {
-      "Standalone: Domain of Istan": [
+      "Standalone: Renown Heart": [
+        86,
+        89,
+        246,
         248
       ],
-      "Standalone: Sandswept Isles": [
-        246
-      ],
-      "Standalone: Domain of Kourna": [
-        86,
-        89
-      ],
-      "Standalone: Jahai Bluffs": [
-        233
-      ],
-      "Standalone: Dragonfall": [
+      "Standalone: Other": [
+        233,
         281,
         282
       ]
     },
     "(LW5) Living World Season 5: The Icebrood Saga": {
-      "Standalone: Grothmar Valley": [
-        292,
+      "Standalone: Strike Mission": [
         293
       ],
-      "Standalone: Bjora Marches": [
+      "Standalone: Other": [
+        292,
         297,
         299
       ]

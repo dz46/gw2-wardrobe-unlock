@@ -176,16 +176,10 @@
         7321,
         7323
       ],
-      "Standalone: Bloodstone Fen": [
-        6875
-      ],
-      "Standalone: Ember Bay": [
-        6956
-      ],
-      "Standalone: Bitterfrost Frontier": [
-        7017
-      ],
-      "Standalone: Lake Doric": [
+      "Standalone: Other": [
+        6875,
+        6956,
+        7017,
         7089
       ]
     },
@@ -208,7 +202,7 @@
         8149,
         8165
       ],
-      "Standalone: Domain of Kourna": [
+      "Standalone: Other": [
         8169
       ]
     },
@@ -225,14 +219,10 @@
         9413,
         9431
       ],
-      "Standalone: Bjora Marches": [
-        9017
-      ],
-      "Standalone: Eye of the North": [
+      "Standalone: Other": [
+        9017,
         9249,
-        9252
-      ],
-      "Standalone: Dragonstorm": [
+        9252,
         9991
       ]
     },

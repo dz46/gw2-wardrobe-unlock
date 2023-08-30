@@ -1848,7 +1848,7 @@
         5530,
         5531
       ],
-      "Standalone: The Silverwastes": [
+      "Standalone: Other": [
         5770,
         5790
       ]
@@ -2057,12 +2057,12 @@
         6939,
         6941
       ],
-      "Standalone: Ember Bay": [
-        4987
-      ],
-      "Standalone: Lake Doric": [
+      "Standalone: Renown Heart": [
         7118,
         7135
+      ],
+      "Standalone: Other": [
+        4987
       ]
     },
     "(X2) Guild Wars 2: Path of Fire": {
@@ -2297,19 +2297,13 @@
         8749,
         8756
       ],
-      "Standalone: Domain of Istan": [
+      "Standalone: Other": [
         7862,
         7888,
-        7913
-      ],
-      "Standalone: Sandswept Isles": [
-        8040
-      ],
-      "Standalone: Jahai Bluffs": [
+        7913,
+        8040,
         8347,
-        8406
-      ],
-      "Standalone: Thunderhead Peaks": [
+        8406,
         8577,
         8587
       ]
@@ -2625,19 +2619,13 @@
         9710,
         9712
       ],
-      "Standalone: Grothmar Valley": [
-        8942
-      ],
-      "Standalone: Bjora Marches": [
+      "Standalone: Other": [
+        8942,
         9014,
-        9172
-      ],
-      "Standalone: Drizzlewood Coast": [
+        9172,
         9386,
         9397,
-        9500
-      ],
-      "Standalone: Dragonstorm": [
+        9500,
         9713,
         9800,
         9943,
