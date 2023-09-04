@@ -787,7 +787,7 @@
         253,
         254
       ],
-      "Black Lion Series 1 - Raptor Hatchling": [
+      "Black Lion Chest Series 1 - Raptor Hatchling": [
         591,
         592,
         593,
@@ -799,7 +799,7 @@
         589,
         590
       ],
-      "Black Lion Series 2 - Jackal Pup": [
+      "Black Lion Chest Series 2 - Jackal Pup": [
         637,
         638,
         639,
@@ -811,7 +811,7 @@
         645,
         646
       ],
-      "Black Lion Series 3 - Griffon Hatchling": [
+      "Black Lion Chest Series 3 - Griffon Hatchling": [
         679,
         680,
         681,
@@ -823,7 +823,7 @@
         687,
         688
       ],
-      "Black Lion Series 4 - Springer Kit": [
+      "Black Lion Chest Series 4 - Springer Kit": [
         702,
         703,
         704,
@@ -836,7 +836,7 @@
         712,
         716
       ],
-      "Black Lion Series 5 - Skimmer Pup": [
+      "Black Lion Chest Series 5 - Skimmer Pup": [
         750,
         751,
         752,
@@ -848,7 +848,7 @@
         758,
         759
       ],
-      "Black Lion Series 6 - Skyscale Hatchling": [
+      "Black Lion Chest Series 6 - Skyscale Hatchling": [
         766,
         767,
         768,
@@ -860,7 +860,7 @@
         775,
         776
       ],
-      "Black Lion Series 7 - Shiba Inu": [
+      "Black Lion Chest Series 7 - Shiba Inu": [
         821,
         822,
         823,
@@ -872,7 +872,7 @@
         829,
         830
       ],
-      "Black Lion Series 8 - Tigris Cub": [
+      "Black Lion Chest Series 8 - Tigris Cub": [
         860,
         861,
         862,
@@ -884,89 +884,72 @@
         868,
         869
       ],
-      "Avian": [
-        237,
-        238,
-        239
-      ],
-      "Baby - Set 1": [
-        139,
-        140,
-        143,
-        148,
-        154
-      ],
-      "Baby - Set 2": [
-        141,
-        144,
-        147,
-        149,
-        151
-      ],
-      "Bazaar Quaggan": [
-        164,
-        165,
-        166
-      ],
-      "Costumed": [
-        197,
-        198,
-        199,
-        200
-      ],
-      "Creepy": [
-        208,
-        229,
-        299
-      ],
-      "Great Jungle Wurm": [
-        215,
-        216,
-        218
-      ],
-      "Mounts - Set 1 / Spooky": [
+      "Black Lion Chest Exclusives Series 1 - Spooky Mount": [
         599,
         605,
         609,
         610,
         611
       ],
-      "Mounts - Set 2 / Cozy Wintersday": [
+      "Black Lion Chest Exclusives Series 2 - Cozy Wintersday Mount": [
         627,
         629,
         631,
         633,
         635
       ],
-      "Mounts - Set 3 / Branded": [
+      "Black Lion Chest Exclusives Series 3 - Branded Mount": [
         657,
         660,
         661,
         662,
         663
       ],
-      "Mounts - Set 4 / Awakened": [
+      "Black Lion Chest Exclusives Series 4 - Awakened Mount": [
         689,
         691,
         693,
         694,
         699
       ],
-      "Mounts - Set 5 / Exo-Suit": [
+      "Black Lion Chest Exclusives Series 5 - Exo-Suit Mount": [
         709,
         713,
         714,
         715,
         717
       ],
-      "Scarlet's Champions": [
+      "Costumed Trick-or-Treater / Ghost Carlotta": [
+        197,
+        198,
+        199,
+        200
+      ],
+      "Dolyak Calf": [
+        209,
+        210,
+        211,
+        212
+      ],
+      "Great Jungle Wurm": [
+        215,
+        216,
+        218
+      ],
+      "Risen": [
+        189,
+        190,
+        191,
+        192
+      ],
+      "Scarlet's Champion / Armored Scarlet Briar": [
         219,
         220,
         224,
         225,
         226
       ],
-      "Spooky": [
+      "Spooky / Chainsaw the Skeleton": [
         107,
         109,
         110,
@@ -996,27 +979,10 @@
         677,
         678
       ],
-      "Tequatl Rising": [
-        189,
-        190,
-        191,
-        192
-      ],
-      "Wintersday": [
-        209,
-        210,
-        211,
-        212
-      ],
       "Standalone: Consortium Chest": [
         112,
         113,
         114
-      ],
-      "Standalone: Extra Life": [
-        785,
-        816,
-        835
       ],
       "Standalone: Funko POP!": [
         792,
@@ -1029,17 +995,26 @@
       ],
       "Standalone: Other": [
         1,
+        164,
+        165,
+        166,
         181,
         182,
         201,
         203,
+        208,
         222,
+        229,
+        299,
+        237,
+        238,
+        239,
         289,
         293,
         294,
-        297,
         295,
         296,
+        297,
         304,
         305,
         306,
@@ -1054,10 +1029,6 @@
         318,
         319,
         320,
-        324,
-        326,
-        327,
-        328,
         329,
         330,
         331,
@@ -1101,11 +1072,30 @@
         630,
         654,
         781,
+        785,
         796,
-        815
+        815,
+        816,
+        835
       ],
       "Standalone: Other + Back Item Combo": [
         342
+      ],
+      "Standalone: Other - Baby": [
+        139,
+        140,
+        141,
+        143,
+        144,
+        147,
+        148,
+        149,
+        151,
+        154,
+        324,
+        326,
+        327,
+        328
       ],
       "Standalone: Other - Mount": [
         648,

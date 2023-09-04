@@ -27,8 +27,18 @@
     6205,6244,6247,6271,6476,6336,6338,6381,6229,6377,6275,6378,6428,6387,6345,6262,6166,6254,
     // Heart of Thorns - Leystone
     6148,6185,6339,6426,6308,6420,6248,6154,6146,6332,6317,6436,6151,6315,6354,6241,6232,6433,
-    // Living World Season 3
-    6856,6858,6881,6951,6955,6964,6968,6969,6970,7006,7028,7032,7073,7074,7102,7106,7119,7139,7210,7211,7213,7297,7299,7316,
+    // Living World Season 3 - Bloodstone Fen
+    6856,6858,6881,
+    // Living World Season 3 - Ember Bay
+    6951,6955,6964,6968,6969,6970,
+    // Living World Season 3 - Bitterfrost Frontier
+    7006,7028,7032,
+    // Living World Season 3 - Lake Doric
+    7073,7074,7102,7106,7119,7139,
+    // Living World Season 3 - Draconis Mons
+    7210,7211,7213,
+    // Living World Season 3 - Siren's Landing
+    7297,7299,7316,
     // Path of Fire - Bounty Hunter
     7695,7570,7455,7493,7504,7701,7390,7703,7653,7648,7550,7639,7509,7467,7635,7426,7675,7640,
     // Path of Fire - Elonian
@@ -39,12 +49,14 @@
     8181,7844,8171,7836,8167,7873,8349,8401,8413,8740,8702,8752,
     // Living World Season 4 - Elegy
     8334,8365,8405,
-    // Living World Season 4
+    // Living World Season 4 - Sandswept Isles
     8028,8030,8032,
     // Living World Season 5 - Bear Ceremonial
     9365,9368,9369,9382,9385,9389,9390,9401,9408,9412,9416,9433,
-    // Living World Season 5
-    8923,8943,8947,9016,9034,9037,
+    // Living World Season 5 - Grothmar Valley
+    8923,8943,8947,
+    // Living World Season 5 - Bjora Marches
+    9016,9034,9037,
     // End of Dragons - Ancient Canthan
     10283,10306,10352,10383,10423,10456,10469,10514,10518,10588,10591,10644,10706,10725,10731,10734,10743,10757,
     // End of Dragons - Antique
