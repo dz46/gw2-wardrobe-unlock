@@ -177,16 +177,10 @@
       ]
     },
     "Cooperative: Raid": {
-      "Standalone: Salvation Pass": [
-        258
-      ],
-      "Standalone: Hall of Chains": [
-        50
-      ],
-      "Standalone: Mythwright Gambit": [
-        69
-      ],
-      "Standalone: The Key of Ahdashim": [
+      "Standalone: Other": [
+        50,
+        69,
+        258,
         285
       ]
     },

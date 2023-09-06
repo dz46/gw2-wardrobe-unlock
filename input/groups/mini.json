@@ -1,7 +1,7 @@
 {
   "topLevelCategories": {
     "Core": {
-      "Standalone: Guild": [
+      "Siege Golem": [
         130,
         131,
         132
@@ -27,14 +27,14 @@
       ]
     },
     "(LW1) Living World Season 1: Scarlet's War": {
-      "Standalone: Dungeon": [
-        136,
-        195
-      ],
-      "Standalone: Strike Mission": [
+      "Assault Knight": [
         877,
         878,
         879
+      ],
+      "Standalone: Dungeon": [
+        136,
+        195
       ],
       "Standalone: Other": [
         156,
@@ -59,18 +59,20 @@
       ]
     },
     "(X1) Guild Wars 2: Heart of Thorns": {
-      "Standalone: Guild": [
-        337,
+      "Guild Initiative Proprietor": [
         338,
         339,
-        340,
         347,
         348,
         349,
+        365
+      ],
+      "Standalone: Guild": [
+        337,
+        340,
         359,
         363,
-        364,
-        365
+        364
       ],
       "Standalone: Other": [
         341,
@@ -371,17 +373,19 @@
       ]
     },
     "Cooperative: Raid": {
-      "Standalone: Spirit Vale": [
+      "Vale Guardian": [
         368,
-        370,
         371,
-        372,
         373,
+        376
+      ],
+      "Standalone: Other - Spirit Vale": [
+        370,
+        372,
         375,
-        376,
         377
       ],
-      "Standalone: Salvation Pass": [
+      "Standalone: Other - Salvation Pass": [
         389,
         390,
         391,
@@ -389,12 +393,12 @@
         393,
         394
       ],
-      "Standalone: Stronghold of the Faithful": [
+      "Standalone: Other - Stronghold of the Faithful": [
         401,
         402,
         403
       ],
-      "Standalone: Bastion of the Penitent": [
+      "Standalone: Other - Bastion of the Penitent": [
         436,
         438,
         440,
@@ -402,18 +406,18 @@
         442,
         447
       ],
-      "Standalone: Hall of Chains": [
+      "Standalone: Other - Hall of Chains": [
         621,
         622,
         623
       ],
-      "Standalone: Mythwright Gambit": [
+      "Standalone: Other - Mythwright Gambit": [
         721,
         722,
         723,
         725
       ],
-      "Standalone: The Key of Ahdashim": [
+      "Standalone: Other - The Key of Ahdashim": [
         763,
         764,
         765

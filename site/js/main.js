@@ -11,6 +11,7 @@ var imageMap = {};
 var acquisitionMethods = [
 
     { id: "tp", name: "Trading Post", category: "General", hideOnIcon: true},
+    //{ id: "loot", name: "Loot", category: "General", hideOnIcon: true},
     { id: "vendor", name: "Vendor", category: "General", hideOnIcon: true},
     { id: "craft", name: "Crafting", category: "General"},
     { id: "achievement", name: "Achievement", category: "General"},
@@ -98,6 +99,7 @@ var acquisitionMethods = [
     { id: "blessedravenstatuette", name: "Blessed Raven Statuette", category: "Living World Season 5"},
     { id: "frozensparkoflife", name: "Frozen Spark of Life", category: "Living World Season 5"},
     { id: "pristinefangofthewhisper", name: "Pristine Fang of the Whisper", category: "Living World Season 5"},
+    //{ id: "dragonresponsemission", name: "Dragon Response Mission Reward", category: "Living World Season 5"},
     { id: "tyriandefenseseal", name: "Tyrian Defense Seal", category: "Living World Season 5"},
 
     { id: "imperialfavor", name: "Imperial Favor", category: "End of Dragons"},
@@ -119,9 +121,7 @@ var acquisitionMethods = [
     { id: "fragmentofprismaticlife", name: "Fragment of Prismatic Life", category: "End of Dragons - Facet of Aurene"},
     { id: "fragmentofprismaticshadows", name: "Fragment of Prismatic Shadows", category: "End of Dragons - Facet of Aurene"},
 
-    //{ id: "staticcharge", name: "Static Charge", category: "Secrets of the Obscure"},
     { id: "caseofcapturedlightning", name: "Case of Captured Lightning", category: "Secrets of the Obscure"},
-    //{ id: "pinchofstardust", name: "Pinch of Stardust", category: "Secrets of the Obscure"},
     { id: "pouchofstardust", name: "Pouch of Stardust", category: "Secrets of the Obscure"},
     { id: "amalgamatedkryptisessence", name: "Amalgamated Kryptis Essence", category: "Secrets of the Obscure"},
     { id: "purifiedkryptisessence", name: "Purified Kryptis Essence", category: "Secrets of the Obscure"},

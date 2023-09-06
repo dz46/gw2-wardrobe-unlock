@@ -2619,6 +2619,11 @@
         9710,
         9712
       ],
+      "Standalone: Dragon Response Mission": [
+        9713,
+        9800,
+        9943
+      ],
       "Standalone: Other": [
         8942,
         9014,
@@ -2626,9 +2631,6 @@
         9386,
         9397,
         9500,
-        9713,
-        9800,
-        9943,
         9993
       ]
     },
@@ -3274,6 +3276,14 @@
       ]
     },
     "Cooperative: Raid": {
+      "Sabir / Adina / Peerless": [
+        8783,
+        8793,
+        8797,
+        8800,
+        8802,
+        8803
+      ],
       "Shiny": [
         8782,
         8787,
@@ -3306,23 +3316,23 @@
         6652,
         6815
       ],
-      "Standalone: Spirit Vale": [
+      "Standalone: Other - Spirit Vale": [
         6141,
         6528,
         6531,
         6532,
         6536
       ],
-      "Standalone: Salvation Pass": [
+      "Standalone: Other - Salvation Pass": [
         6639,
         6642,
         6645
       ],
-      "Standalone: Stronghold of the Faithful": [
+      "Standalone: Other - Stronghold of the Faithful": [
         6813,
         6836
       ],
-      "Standalone: Bastion of the Penitent": [
+      "Standalone: Other - Bastion of the Penitent": [
         7076,
         7091,
         7097,
@@ -3334,7 +3344,7 @@
         7151,
         7155
       ],
-      "Standalone: Hall of Chains": [
+      "Standalone: Other - Hall of Chains": [
         7845,
         7863,
         7867,
@@ -3343,21 +3353,13 @@
         7909,
         7910
       ],
-      "Standalone: Mythwright Gambit": [
+      "Standalone: Other - Mythwright Gambit": [
         8337,
         8344,
         8363,
         8398,
         8409,
         8412
-      ],
-      "Standalone: The Key of Ahdashim": [
-        8783,
-        8793,
-        8797,
-        8800,
-        8802,
-        8803
       ]
     },
     "Competitive: Player vs. Player / World vs. World": {

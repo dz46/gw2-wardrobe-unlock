@@ -270,13 +270,9 @@
       ]
     },
     "Cooperative: Raid": {
-      "Standalone: Spirit Vale": [
-        6135
-      ],
-      "Standalone: Stronghold of the Faithful": [
-        6809
-      ],
-      "Standalone: Bastion of the Penitent": [
+      "Standalone: Other": [
+        6135,
+        6809,
         7114
       ]
     },
