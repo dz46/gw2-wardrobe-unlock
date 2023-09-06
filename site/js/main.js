@@ -32,7 +32,7 @@ var acquisitionMethods = [
     { id: "birthday8", name: "Eighth Birthday Gift", category: "General - Anniversary"},
     { id: "birthday9", name: "Ninth Birthday Gift", category: "General - Anniversary"},
     { id: "birthday10", name: "Tenth Birthday Gift", category: "General - Anniversary"},
-    //{ id: "birthday11", name: "Anniversary Birthday Gift", category: "General - Anniversary"},
+    //{ id: "birthdayanniversary", name: "Anniversary Birthday Gift", category: "General - Anniversary"},
 
     { id: "gold", name: "Coins", category: "Common", hideOnIcon: true},
     { id: "karma", name: "Karma", category: "Common"},

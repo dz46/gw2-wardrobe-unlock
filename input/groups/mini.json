@@ -27,7 +27,7 @@
       ]
     },
     "(LW1) Living World Season 1: Scarlet's War": {
-      "Assault Knight": [
+      "Prototype Assault Knight": [
         877,
         878,
         879
@@ -133,7 +133,7 @@
       ]
     },
     "(X2) Guild Wars 2: Path of Fire": {
-      "Djinn": [
+      "Elemental Djinn": [
         503,
         505,
         563,
@@ -935,12 +935,17 @@
         211,
         212
       ],
+      "Funko POP!": [
+        792,
+        793,
+        795
+      ],
       "Great Jungle Wurm": [
         215,
         216,
         218
       ],
-      "Risen": [
+      "Risen Minion": [
         189,
         190,
         191,
@@ -987,11 +992,6 @@
         112,
         113,
         114
-      ],
-      "Standalone: Funko POP!": [
-        792,
-        793,
-        795
       ],
       "Standalone: Southsun Supply Crate": [
         137,
