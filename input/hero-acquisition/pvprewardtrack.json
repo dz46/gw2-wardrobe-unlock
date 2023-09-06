@@ -1,11 +1,11 @@
 {
   "name": "pvprewardtrack",
   "contents": [
-    // Standalone: Player vs. Player - Grymm Svaard
+    // Competitive - Grymm Svaard
     2,
-    // Standalone: Player vs. Player - Nika
+    // Competitive - Nika
     1,
-    // Standalone: Player vs. Player - Lightbringer Tybalt Leftpaw
+    // Competitive - Lightbringer Tybalt Leftpaw
     5
   ]
 }

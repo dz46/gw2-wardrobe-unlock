@@ -5,20 +5,20 @@
     669,
     // Fractals of the Mists - Old Tom
     344,355,361,
-    // Competitive - Black Llama
-    427,429,431,
-    // Competitive - Bronze Llama
-    479,483,485,
-    // Competitive - Emperor Llama
-    449,451,453,
-    // Competitive - Gold Llama
-    480,481,484,
-    // Competitive - Llama
+    // Competitive - PvP League Series 1 - Llama
     321,322,323,
-    // Competitive - Princess Llama
+    // Competitive - PvP League Series 2 - Black Llama
+    427,429,431,
+    // Competitive - PvP League Series 3 - Emperor Llama
+    449,451,453,
+    // Competitive - PvP League Series 4 - Princess Llama
     471,472,473,
-    // Competitive - Silver Llama
+    // Competitive - PvP Tournament Series 1 - Bronze Llama
+    479,483,485,
+    // Competitive - PvP Tournament Series 2 - Silver Llama
     477,482,487,
+    // Competitive - PvP Tournament Series 3 - Gold Llama
+    480,481,484,
     // Festival: Lunar New Year - Lantern
     745,746,
     // Festival: Super Adventure Festival - Princess Miya
