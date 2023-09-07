@@ -32,7 +32,7 @@ var acquisitionMethods = [
     { id: "birthday8", name: "Eighth Birthday Gift", category: "General - Anniversary"},
     { id: "birthday9", name: "Ninth Birthday Gift", category: "General - Anniversary"},
     { id: "birthday10", name: "Tenth Birthday Gift", category: "General - Anniversary"},
-    //{ id: "birthdayanniversary", name: "Anniversary Birthday Gift", category: "General - Anniversary"},
+    //{ id: "birthday11", name: "Anniversary Birthday Gift", category: "General - Anniversary"},
 
     { id: "gold", name: "Coins", category: "Common", hideOnIcon: true},
     { id: "karma", name: "Karma", category: "Common"},
@@ -53,6 +53,7 @@ var acquisitionMethods = [
     { id: "grandmasterhuntsmanmark", name: "Grandmaster Huntsman's Mark", category: "Common - Crafting Component"},
     { id: "grandmasterweaponmark", name: "Grandmaster Weaponsmith's Mark", category: "Common - Crafting Component"},
 
+    //{ id: "dungeon", name: "Dungeon Reward", category: "Core / Season 1 / Season 2"},
     { id: "taleofdungeondelving", name: "Tales of Dungeon Delving", category: "Core / Season 1 / Season 2"},
     { id: "swimspeedinfusion", name: "Swim-Speed Infusion +10", category: "Core / Season 1 / Season 2"},
     { id: "racingmedallion", name: "Racing Medallion", category: "Core / Season 1 / Season 2"},
