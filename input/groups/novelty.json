@@ -68,18 +68,20 @@
       ]
     },
     "(LW2) Living World Season 2: Glint's Prophecy": {
+      "Mordrem Minion Tonic": [
+        81,
+        90,
+        201,
+        243
+      ],
       "Standalone: Other": [
         11,
         14,
         48,
-        81,
-        90,
         117,
         138,
         195,
-        201,
-        230,
-        243
+        230
       ]
     },
     "(X1) Guild Wars 2: Heart of Thorns": {
@@ -112,6 +114,8 @@
       ]
     },
     "(X2) Guild Wars 2: Path of Fire": {
+      "Music Box": [
+      ],
       "Standalone: Casino Blitz": [
         10,
         17,
@@ -121,8 +125,6 @@
         43,
         51,
         218
-      ],
-      "Standalone: Other": [
       ]
     },
     "(LW4) Living World Season 4: Rise of Kralkatorrik": {

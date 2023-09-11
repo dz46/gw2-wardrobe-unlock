@@ -12,7 +12,7 @@
       ]
     },
     "(LW2) Living World Season 2: Glint's Prophecy": {
-      "Standalone: The Silverwastes": [
+      "Standalone: Other": [
         "bandit_chest"
       ]
     },
@@ -25,57 +25,31 @@
       ]
     },
     "(LW3) Living World Season 3: Glint's Legacy": {
-      "Standalone: Bloodstone Fen": [
-        "bloodstone_crystals"
-      ],
-      "Standalone: Ember Bay": [
-        "petrified_stump"
-      ],
-      "Standalone: Bitterfrost Frontier": [
+      "Standalone: Other": [
+        "bloodstone_crystals",
+        "jade_fragment",
+        "orrian_oyster_node",
+        "petrified_stump",
+        "primordial_orchid",
         "winterberry_bush"
-      ],
-      "Standalone: Lake Doric": [
-        "jade_fragment"
-      ],
-      "Standalone: Draconis Mons": [
-        "primordial_orchid"
-      ],
-      "Standalone: Siren's Landing": [
-        "orrian_oyster_node"
       ]
     },
     "(LW4) Living World Season 4: Rise of Kralkatorrik": {
-      "Standalone: Domain of Istan": [
-        "brandstone_node"
-      ],
-      "Standalone: Sandswept Isles": [
-        "difluorite_crystal_cluster_node"
-      ],
-      "Standalone: Domain of Kourna": [
-        "kournan_supply_cache"
-      ],
-      "Standalone: Jahai Bluffs": [
-        "mistborn_mote"
-      ],
-      "Standalone: Thunderhead Peaks": [
-        "dragon_crystal"
-      ],
-      "Standalone: Dragonfall": [
+      "Standalone: Other": [
+        "brandstone_node",
+        "difluorite_crystal_cluster_node",
+        "dragon_crystal",
+        "kournan_supply_cache",
+        "mistborn_mote",
         "mistonium_node"
       ]
     },
     "(LW5) Living World Season 5: The Icebrood Saga": {
-      "Standalone: Grothmar Valley": [
-        "bound_hatched_chili_pepper_node"
-      ],
-      "Standalone: Bjora Marches": [
-        "eternal_ice_shard_node"
-      ],
-      "Standalone: Drizzlewood Coast": [
+      "Standalone: Other": [
+        "bound_hatched_chili_pepper_node",
+        "eternal_ice_shard_node",
+        "prismaticite_node",
         "salvage_pile"
-      ],
-      "Standalone: Dragonstorm": [
-        "prismaticite_node"
       ]
     },
     "Festival: Super Adventure Festival": {

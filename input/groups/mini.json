@@ -6,12 +6,6 @@
         131,
         132
       ],
-      "Standalone: Hall of Monuments": [
-        2,
-        3,
-        4,
-        5
-      ],
       "Standalone: Racing": [
         734
       ],
@@ -50,12 +44,14 @@
       ]
     },
     "(LW2) Living World Season 2: Glint's Prophecy": {
-      "Standalone: Other": [
-        298,
+      "Mordrem Minion": [
         292,
         303,
         311,
         312
+      ],
+      "Standalone: Other": [
+        298
       ]
     },
     "(X1) Guild Wars 2: Heart of Thorns": {
@@ -154,6 +150,10 @@
         537,
         595
       ],
+      "Standalone: Champion Bag": [
+        522,
+        536
+      ],
       "Standalone: Renown Heart": [
         498,
         502,
@@ -207,14 +207,12 @@
         508,
         509,
         510,
-        522,
         524,
         525,
         527,
         532,
         534,
         535,
-        536,
         539,
         540,
         547,
@@ -992,6 +990,12 @@
         112,
         113,
         114
+      ],
+      "Standalone: Hall of Monuments": [
+        2,
+        3,
+        4,
+        5
       ],
       "Standalone: Southsun Supply Crate": [
         137,
