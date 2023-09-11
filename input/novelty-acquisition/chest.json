@@ -1,8 +1,8 @@
 {
   "name": "chest",
   "contents": [
-  	// Living World Season 2 - Mordrem Minion Tonic
-  	81,201,
+    // Living World Season 2 - Mordrem Minion Tonic
+    81,201,
     // Living World Season 2
     11,14,48,117,
     // Heart of Thorns - Mushroom Tonic
@@ -12,7 +12,7 @@
     // Path of Fire - Music Box
     
     // Living World Season 5
-    292,299,
+    299,
     // End of Dragons
     330
   ]

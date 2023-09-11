@@ -20,6 +20,7 @@ var acquisitionMethods = [
     { id: "event", name: "Event Reward", category: "General"},
     //{ id: "chest", name: "Chest Reward", category: "General"},
     { id: "adventure", name: "Adventure Reward", category: "General"},
+    //{ id: "jumpingpuzzle", name: "Jumping Puzzle Reward", category: "General"},
     { id: "quest", name: "Quest Reward", category: "General"},
 
     { id: "birthday1", name: "First Birthday Gift", category: "General - Anniversary"},
