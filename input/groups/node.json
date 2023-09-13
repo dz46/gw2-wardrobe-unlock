@@ -16,7 +16,7 @@
         "bandit_chest"
       ]
     },
-    "(X1) Guild Wars 2: Heart of Thorns": {
+    "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
       "Standalone: Other": [
         "airship_cargo",
         "aurilium_node",
@@ -44,7 +44,7 @@
         "mistonium_node"
       ]
     },
-    "(LW5) Living World Season 5: The Icebrood Saga": {
+    "(LW5) Living World Season 5: The Icebrood Saga (IBS)": {
       "Standalone: Other": [
         "bound_hatched_chili_pepper_node",
         "eternal_ice_shard_node",
@@ -52,7 +52,7 @@
         "salvage_pile"
       ]
     },
-    "Festival: Super Adventure Festival": {
+    "Festival: Super Adventure Festival (SAB)": {
       "Standalone: Other": [
         "bauble_gathering_system"
       ]
@@ -62,7 +62,7 @@
         "commemorative_dragon_pinata"
       ]
     },
-    "Festival: Festival of the Four Winds": {
+    "Festival: Festival of the Four Winds (FotFW)": {
       "Standalone: Other": [
         "quartz_node"
       ]

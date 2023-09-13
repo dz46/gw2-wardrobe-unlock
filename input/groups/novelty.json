@@ -84,7 +84,7 @@
         230
       ]
     },
-    "(X1) Guild Wars 2: Heart of Thorns": {
+    "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
       "Chak Tonic": [
         102,
         214,
@@ -113,7 +113,7 @@
         92
       ]
     },
-    "(X2) Guild Wars 2: Path of Fire": {
+    "(X2) Guild Wars 2: Path of Fire (PoF)": {
       "Music Box": [
       ],
       "Standalone: Casino Blitz": [
@@ -140,7 +140,7 @@
         282
       ]
     },
-    "(LW5) Living World Season 5: The Icebrood Saga": {
+    "(LW5) Living World Season 5: The Icebrood Saga (IBS)": {
       "Standalone: Strike Mission": [
         293
       ],
@@ -150,7 +150,7 @@
         299
       ]
     },
-    "(X3) Guild Wars 2: End of Dragons": {
+    "(X3) Guild Wars 2: End of Dragons (EoD)": {
       "Standalone: Fishing": [
       ],
       "Standalone: Strike Mission": [
@@ -164,13 +164,13 @@
         330
       ]
     },
-    "(X4) Guild Wars 2: Secrets of the Obscure": {
+    "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
       "Standalone: Strike Mission": [
       ],
       "Standalone: Other": [
       ]
     },
-    "Cooperative: Fractals of the Mists": {
+    "Cooperative: Fractals of the Mists (FotM)": {
       "Standalone: Other": [
         115,
         121,
@@ -186,14 +186,14 @@
         285
       ]
     },
-    "Competitive: Player vs. Player / World vs. World": {
+    "Competitive: Player vs. Player (PvP) / World vs. World (WvW)": {
       "Champion's Gizmo": [
       ],
       "Standalone: Other": [
         147
       ]
     },
-    "Festival: Super Adventure Festival": {
+    "Festival: Super Adventure Festival (SAB)": {
       "Duskk's Super Boom Box": [
         3,
         30
@@ -203,7 +203,7 @@
         25
       ]
     },
-    "Festival: Festival of the Four Winds": {
+    "Festival: Festival of the Four Winds (FotFW)": {
       "Standalone: Festival Bag": [
         223
       ],

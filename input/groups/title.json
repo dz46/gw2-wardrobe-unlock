@@ -85,7 +85,7 @@
         213
       ]
     },
-    "(X1) Guild Wars 2: Heart of Thorns": {
+    "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
       "Standalone: Other": [
         218,
         219,
@@ -107,7 +107,7 @@
         278
       ]
     },
-    "(X2) Guild Wars 2: Path of Fire": {
+    "(X2) Guild Wars 2: Path of Fire (PoF)": {
       "Banners of Elona": [
         281,
         283,
@@ -138,7 +138,7 @@
         324
       ]
     },
-    "(LW5) Living World Season 5: The Icebrood Saga": {
+    "(LW5) Living World Season 5: The Icebrood Saga (IBS)": {
       "Standalone: Other": [
         345,
         346,
@@ -157,7 +157,7 @@
         369
       ]
     },
-    "(X3) Guild Wars 2: End of Dragons": {
+    "(X3) Guild Wars 2: End of Dragons (EoD)": {
       "Facet of Aurene": [
         390,
         391,
@@ -187,7 +187,7 @@
         384
       ]
     },
-    "(X4) Guild Wars 2: Secrets of the Obscure": {
+    "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
       "Standalone: Rift Hunting": [
       ],
       "Standalone: Strike Mission": [
@@ -195,7 +195,7 @@
       "Standalone: Other": [
       ]
     },
-    "Cooperative: Fractals of the Mists": {
+    "Cooperative: Fractals of the Mists (FotM)": {
       "Fractal": [
         296,
         297,
@@ -229,7 +229,7 @@
         330
       ]
     },
-    "Competitive: Player vs. Player / World vs. World": {
+    "Competitive: Player vs. Player (PvP) / World vs. World (WvW)": {
       "Arena": [
         327,
         329,
@@ -317,13 +317,13 @@
         364
       ]
     },
-    "Festival: Super Adventure Festival": {
+    "Festival: Super Adventure Festival (SAB)": {
       "Standalone: Other": [
         134,
         174
       ]
     },
-    "Festival: Festival of the Four Winds": {
+    "Festival: Festival of the Four Winds (FotFW)": {
       "Standalone: Queen's Gauntlet": [
         185,
         310
