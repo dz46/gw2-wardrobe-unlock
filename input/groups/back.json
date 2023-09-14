@@ -297,7 +297,7 @@
         2380
       ]
     },
-    "Festival: Lunar New Year (LNY)": {
+    "(F1) Festival: Lunar New Year (LNY)": {
       "Lucky Celestial Lantern": [
         5856,
         6619,
@@ -321,7 +321,7 @@
         11206
       ]
     },
-    "Festival: Super Adventure Festival (SAB)": {
+    "(F2) Festival: Super Adventure Festival (SAB)": {
       "Super / King Toad / Storm Wizard / Kaiser Snake / Crimson Assassin": [
         2360,
         2361,
@@ -333,14 +333,14 @@
         2359
       ]
     },
-    "Festival: Dragon Bash": {
+    "(F3) Festival: Dragon Bash": {
       "Standalone: Other": [
         2351,
         2352,
         8833
       ]
     },
-    "Festival: Festival of the Four Winds (FotFW)": {
+    "(F4) Festival: Festival of the Four Winds (FotFW)": {
       "Aspect Catcher": [
         2346,
         2347,
@@ -360,7 +360,7 @@
         8861
       ]
     },
-    "Festival: Halloween": {
+    "(F5) Festival: Halloween": {
       "Mad Memoires": [
         2336,
         7760,
@@ -371,7 +371,7 @@
       	9638
       ]
     },
-    "Festival: Wintersday": {
+    "(F6) Festival: Wintersday": {
       "Standalone: Other": [
         2374,
         2375,

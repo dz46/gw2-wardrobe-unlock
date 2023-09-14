@@ -3510,26 +3510,8 @@
         11021
       ]
     },
-    "Festival: Lunar New Year (LNY)": {
-      "Firework": [
-        11201,
-        11202,
-        11203,
-        11207,
-        11208,
-        11211,
-        11213,
-        11214,
-        11215,
-        11217,
-        11218,
-        11219,
-        11220,
-        11225,
-        11230,
-        11232
-      ],
-      "Shining Aureate": [
+    "(F1) Festival: Lunar New Year (LNY)": {
+      "Festival Daily Completion Series 1 - Shining Aureate": [
         9095,
         9096,
         9098,
@@ -3547,7 +3529,7 @@
         9127,
         9132
       ],
-      "Shining Aureate > Fortune-Shining Aureate": [
+      "Festival Daily Completion Series 1 - Shining Aureate > Fortune-Shining Aureate": [
         9840,
         9847,
         9848,
@@ -3565,7 +3547,7 @@
         9877,
         9885
       ],
-      "Shining Aureate > Refitted Aureate": [
+      "Festival Daily Completion Series 1 - Shining Aureate > Refitted Aureate": [
         9832,
         9833,
         9837,
@@ -3583,6 +3565,26 @@
         9886,
         9889
       ],
+      "Festival Weekly Completion Series 1 - WIP": [
+      ],
+      "Festival Champion Bag Series 1 - Firework": [
+        11201,
+        11202,
+        11203,
+        11207,
+        11208,
+        11211,
+        11213,
+        11214,
+        11215,
+        11217,
+        11218,
+        11219,
+        11220,
+        11225,
+        11230,
+        11232
+      ],
       "Standalone: Festival Bag": [
         8769,
         10195,
@@ -3595,8 +3597,8 @@
         6295
       ]
     },
-    "Festival: Super Adventure Festival (SAB)": {
-      "Crimson Assassin": [
+    "(F2) Festival: Super Adventure Festival (SAB)": {
+      "Festival Daily Completion Series 2 - Crimson Assassin": [
         7169,
         7170,
         7172,
@@ -3614,7 +3616,7 @@
         7166,
         7167
       ],
-      "Crimson Assassin / Kaiser Snake > Crimson Vanquisher": [
+      "Festival Daily Completion Series 2 - Crimson Assassin / Kaiser Snake > Crimson Vanquisher": [
         9967,
         9968,
         9970,
@@ -3632,7 +3634,7 @@
         9987,
         9988
       ],
-      "Generation One": [
+      "Festival Weekly Completion Series 2 - Generation One": [
         11364,
         11366,
         11368,
@@ -3649,6 +3651,24 @@
         11396,
         11401,
         11402
+      ],
+      "Festival Champion Bag Series 2 - Hardlight": [
+        10767,
+        10768,
+        10771,
+        10772,
+        10773,
+        10774,
+        10775,
+        10776,
+        10783,
+        10785,
+        10787,
+        10788,
+        10794,
+        10796,
+        10798,
+        10799
       ],
       "Glitched Adventure": [
         9336,
@@ -3667,24 +3687,6 @@
         9358,
         9359,
         9360
-      ],
-      "Hardlight": [
-        10767,
-        10768,
-        10771,
-        10772,
-        10773,
-        10774,
-        10775,
-        10776,
-        10783,
-        10785,
-        10787,
-        10788,
-        10794,
-        10796,
-        10798,
-        10799
       ],
       "Kaiser Snake": [
         6663,
@@ -3769,55 +3771,8 @@
       "Standalone: Festival Bag": [
       ]
     },
-    "Festival: Dragon Bash": {
-      "Candy-Packed Dragon": [
-        11469,
-        11481,
-        11497,
-        11511
-      ],
-      "Dragonbone": [
-        10844,
-        10845,
-        10848,
-        10850,
-        10855,
-        10859,
-        10860,
-        10861,
-        10863,
-        10864,
-        10868,
-        10869,
-        10871,
-        10872,
-        10873,
-        10874
-      ],
-      "Dragonrender": [
-        11474,
-        11475,
-        11476,
-        11482,
-        11483,
-        11487,
-        11488,
-        11493,
-        11494,
-        11496,
-        11498,
-        11500,
-        11503,
-        11504,
-        11507,
-        11508
-      ],
-      "Draketalon": [
-        10857,
-        10858,
-        10870
-      ],
-      "Holographic": [
+    "(F3) Festival: Dragon Bash": {
+      "Festival Daily Completion Series 3 - Holographic": [
         8804,
         8805,
         8806,
@@ -3835,7 +3790,7 @@
         8845,
         8846
       ],
-      "Holographic > Imbued Holographic": [
+      "Festival Daily Completion Series 3 - Holographic > Imbued Holographic": [
         9451,
         9453,
         9454,
@@ -3853,19 +3808,91 @@
         9471,
         9473
       ],
+      "Festival Weekly Completion Series 3 - Dragonrender": [
+        11474,
+        11475,
+        11476,
+        11482,
+        11483,
+        11487,
+        11488,
+        11493,
+        11494,
+        11496,
+        11498,
+        11500,
+        11503,
+        11504,
+        11507,
+        11508
+      ],
+      "Festival Champion Bag Series 3 - Dragonbone": [
+        10844,
+        10845,
+        10848,
+        10850,
+        10855,
+        10859,
+        10860,
+        10861,
+        10863,
+        10864,
+        10868,
+        10869,
+        10871,
+        10872,
+        10873,
+        10874
+      ],
+      "Candy-Packed Dragon": [
+        11469,
+        11481,
+        11497,
+        11511
+      ],
+      "Draketalon": [
+        10857,
+        10858,
+        10870
+      ],
       "Standalone: Festival Bag": [
         10023,
         10032,
         10033
       ]
     },
-    "Festival: Festival of the Four Winds (FotFW)": {
-      "Suncatcher": [
-        11546,
-        11554,
-        11568
+    "(F4) Festival: Festival of the Four Winds (FotFW)": {
+      "Festival Daily Completion Series 4 - Zephyrite": [
+        8224,
+        8232,
+        8200,
+        8203,
+        8188,
+        8850,
+        8855,
+        8860,
+        8862,
+        8876,
+        8856,
+        8870,
+        8874
       ],
-      "Sun-Grown": [
+      "Festival Daily Completion Series 4 - Zephyrite > Sun-Blessed Zephyrite": [
+        9537,
+        9540,
+        9541,
+        9542,
+        9543,
+        9545,
+        9547,
+        9549,
+        9550,
+        9552,
+        9556,
+        9557,
+        9558
+      ],
+      "Festival Weekly Completion Series 4 - Sun-Grown": [
         11544,
         11545,
         11547,
@@ -3882,6 +3909,24 @@
         11563,
         11565,
         11566
+      ],
+      "Festival Champion Bag Series 4 - Watchwork": [
+        10910,
+        10913,
+        10915,
+        10917,
+        10919,
+        10921,
+        10926,
+        10931,
+        10937,
+        10938,
+        10945,
+        10948,
+        10954,
+        10955,
+        10958,
+        10963
       ],
       "Sovereign": [
         5248,
@@ -3919,23 +3964,10 @@
         8875,
         8877
       ],
-      "Watchwork": [
-        10910,
-        10913,
-        10915,
-        10917,
-        10919,
-        10921,
-        10926,
-        10931,
-        10937,
-        10938,
-        10945,
-        10948,
-        10954,
-        10955,
-        10958,
-        10963
+      "Suncatcher": [
+        11546,
+        11554,
+        11568
       ],
       "Windswept": [
         10911,
@@ -3943,62 +3975,14 @@
         10949,
         10962
       ],
-      "Zephyrite": [
-        8224,
-        8232,
-        8200,
-        8203,
-        8188,
-        8850,
-        8855,
-        8860,
-        8862,
-        8876,
-        8856,
-        8870,
-        8874
-      ],
-      "Zephyrite > Sun-Blessed Zephyrite": [
-        9537,
-        9540,
-        9541,
-        9542,
-        9543,
-        9545,
-        9547,
-        9549,
-        9550,
-        9552,
-        9556,
-        9557,
-        9558
-      ],
       "Standalone: Festival Bag": [
         10099,
         10101,
         10108
       ]
     },
-    "Festival: Halloween": {
-      "Chained": [
-        11054,
-        11061,
-        11064,
-        11067,
-        11073,
-        11076,
-        11079,
-        11082,
-        11084,
-        11085,
-        11088,
-        11089,
-        11090,
-        11093,
-        11094,
-        11098
-      ],
-      "Haunted": [
+    "(F5) Festival: Halloween": {
+      "Festival Daily Completion Series 5 - Haunted": [
         7777,
         7779,
         7785,
@@ -4016,7 +4000,7 @@
         7801,
         7772
       ],
-      "Haunted > Demon-Haunted": [
+      "Festival Daily Completion Series 5 - Haunted > Demon-Haunted": [
         9619,
         9620,
         9622,
@@ -4033,6 +4017,26 @@
         9648,
         9650,
         9652
+      ],
+      "Festival Weekly Completion Series 5 - WIP": [
+      ],
+      "Festival Champion Bag Series 5 - Chained": [
+        11054,
+        11061,
+        11064,
+        11067,
+        11073,
+        11076,
+        11079,
+        11082,
+        11084,
+        11085,
+        11088,
+        11089,
+        11090,
+        11093,
+        11094,
+        11098
       ],
       "Royal Flame": [
         8973,
@@ -4082,7 +4086,63 @@
         8999
       ]
     },
-    "Festival: Wintersday": {
+    "(F6) Festival: Wintersday": {
+      "Festival Daily Completion Series 6 - Wrapped": [
+        7043,
+        7943,
+        7948,
+        7917,
+        7983,
+        7952,
+        7920,
+        7058,
+        7988,
+        7989,
+        7061,
+        7925,
+        7927,
+        7959,
+        7063,
+        7037
+      ],
+      "Festival Daily Completion Series 6 - Wrapped > Sparkling Wrapped": [
+        9730,
+        9734,
+        9736,
+        9739,
+        9745,
+        9752,
+        9753,
+        9755,
+        9761,
+        9770,
+        9771,
+        9773,
+        9778,
+        9782,
+        9787,
+        9788
+      ],
+      "Festival Weekly Completion Series 6 - WIP": [
+      ],
+      "Festival Champion Bag Series 6 - Snowdrift": [
+        11172,
+        11173,
+        11174,
+        11175,
+        11178,
+        11180,
+        11183,
+        11185,
+        11186,
+        11191,
+        11193,
+        11194,
+        11195,
+        11196,
+        11197,
+        11198
+      ],
       "Candy Cane": [
         8534,
         8535,
@@ -4119,24 +4179,6 @@
         9091,
         9092
       ],
-      "Snowdrift": [
-        11172,
-        11173,
-        11174,
-        11175,
-        11178,
-        11180,
-        11183,
-        11185,
-        11186,
-        11191,
-        11193,
-        11194,
-        11195,
-        11196,
-        11197,
-        11198
-      ],
       "Toy": [
         5312,
         5345,
@@ -4164,42 +4206,6 @@
         9777,
         9780,
         9786
-      ],
-      "Wrapped": [
-        7043,
-        7943,
-        7948,
-        7917,
-        7983,
-        7952,
-        7920,
-        7058,
-        7988,
-        7989,
-        7061,
-        7925,
-        7927,
-        7959,
-        7063,
-        7037
-      ],
-      "Wrapped > Sparkling Wrapped": [
-        9730,
-        9734,
-        9736,
-        9739,
-        9745,
-        9752,
-        9753,
-        9755,
-        9761,
-        9770,
-        9771,
-        9773,
-        9778,
-        9782,
-        9787,
-        9788
       ],
       "Standalone: Festival Bag": [
         10185,
