@@ -1052,7 +1052,7 @@
         8123
       ]
     },
-    "(LW1) Living World Season 1: Scarlet's War": {
+    "Core > (LW1) Living World Season 1: Scarlet's War": {
       "Wurmslayer": [
         2000,
         2001,
@@ -1107,7 +1107,7 @@
         11132
       ]
     },
-    "(LW2) Living World Season 2: Glint's Prophecy": {
+    "Core > (LW2) Living World Season 2: Glint's Prophecy": {
       "Adventurer": [
         5488,
         5480,
@@ -1160,7 +1160,7 @@
         5727
       ]
     },
-    "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
+    "(X1) Expansion 1: Heart of Thorns (HoT)": {
       "Elite Specialization Series 1": [
         6418,
         6050,
@@ -1191,6 +1191,66 @@
         6387,
         6428,
         6476
+      ],
+      "Experimental Envoy": [
+        6790,
+        6791,
+        6792,
+        6794,
+        6796,
+        6799,
+        6802,
+        6811,
+        6818,
+        6820,
+        6824,
+        6828,
+        6829,
+        6833,
+        6834,
+        6838,
+        6839,
+        6840
+      ],
+      "Experimental Envoy > Refined Envoy": [
+        7072,
+        7075,
+        7082,
+        7088,
+        7093,
+        7095,
+        7098,
+        7099,
+        7103,
+        7109,
+        7110,
+        7120,
+        7123,
+        7127,
+        7128,
+        7141,
+        7150,
+        7153
+      ],
+      "Experimental Envoy > Refined Envoy > Perfected Envoy": [
+        7083,
+        7084,
+        7085,
+        7087,
+        7094,
+        7100,
+        7107,
+        7108,
+        7116,
+        7126,
+        7130,
+        7133,
+        7136,
+        7142,
+        7143,
+        7145,
+        7156,
+        7157
       ],
       "Leystone": [
         6241,
@@ -1240,6 +1300,11 @@
         6334,
         6302
       ],
+      "Standalone: Raid": [
+        7077,
+        7115,
+        7121
+      ],
       "Standalone: Other": [
         6283,
         6456,
@@ -1249,7 +1314,7 @@
         6896
       ]
     },
-    "(LW3) Living World Season 3: Glint's Legacy": {
+    "(X1) Expansion 1: Heart of Thorns (HoT) > (LW3) Living World Season 3: Glint's Legacy": {
       "Standalone: Other": [
         6856,
         6858,
@@ -1277,7 +1342,7 @@
         7316
       ]
     },
-    "(X2) Guild Wars 2: Path of Fire (PoF)": {
+    "(X2) Expansion 2: Path of Fire (PoF)": {
       "Elite Specialization Series 2": [
         7441,
         7411,
@@ -1308,6 +1373,20 @@
         7390,
         7550,
         7455
+      ],
+      "Dhuum": [
+        7848,
+        7854,
+        7855,
+        7868,
+        7871,
+        7872,
+        7874,
+        7887,
+        7889,
+        7895,
+        7905,
+        7911
       ],
       "Elonian": [
         7713,
@@ -1390,7 +1469,7 @@
         7679
       ]
     },
-    "(LW4) Living World Season 4: Rise of Kralkatorrik": {
+    "(X2) Expansion 2: Path of Fire (PoF) > (LW4) Living World Season 4: Rise of Kralkatorrik": {
       "Corsair": [
         7836,
         7844,
@@ -1491,7 +1570,7 @@
         8032
       ]
     },
-    "(LW5) Living World Season 5: The Icebrood Saga (IBS)": {
+    "(X2) Expansion 2: Path of Fire (PoF) > (LW5) Living World Season 5: The Icebrood Saga (IBS)": {
       "Bear Ceremonial": [
         9365,
         9368,
@@ -1586,7 +1665,7 @@
         9526
       ]
     },
-    "(X3) Guild Wars 2: End of Dragons (EoD)": {
+    "(X3) Expansion 3: End of Dragons (EoD)": {
       "Elite Specialization Series 3": [
         10297,
         10321,
@@ -1774,7 +1853,7 @@
         11343
       ]
     },
-    "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
+    "(X4) Expansion 4: Secrets of the Obscure (SotO)": {
       "Astral Ward": [
         11580,
         11585,
@@ -1841,87 +1920,6 @@
         11569,
         11658,
         11714
-      ]
-    },
-    "Cooperative: Raid": {
-      "Dhuum": [
-        7848,
-        7854,
-        7855,
-        7868,
-        7871,
-        7872,
-        7874,
-        7887,
-        7889,
-        7895,
-        7905,
-        7911
-      ],
-      "Experimental Envoy": [
-        6790,
-        6791,
-        6792,
-        6794,
-        6796,
-        6799,
-        6802,
-        6811,
-        6818,
-        6820,
-        6824,
-        6828,
-        6829,
-        6833,
-        6834,
-        6838,
-        6839,
-        6840
-      ],
-      "Experimental Envoy > Refined Envoy": [
-        7072,
-        7075,
-        7082,
-        7088,
-        7093,
-        7095,
-        7098,
-        7099,
-        7103,
-        7109,
-        7110,
-        7120,
-        7123,
-        7127,
-        7128,
-        7141,
-        7150,
-        7153
-      ],
-      "Experimental Envoy > Refined Envoy > Perfected Envoy": [
-        7083,
-        7084,
-        7085,
-        7087,
-        7094,
-        7100,
-        7107,
-        7108,
-        7116,
-        7126,
-        7130,
-        7133,
-        7136,
-        7142,
-        7143,
-        7145,
-        7156,
-        7157
-      ],
-      "Standalone: Other": [
-        7077,
-        7115,
-        7121
       ]
     },
     "Competitive: Player vs. Player (PvP) / World vs. World (WvW)": {
@@ -2142,7 +2140,7 @@
         9217
       ]
     },
-    "(F1) Festival: Lunar New Year (LNY)": {
+    "(F1) Festival 1: Lunar New Year (LNY)": {
       "Standalone: Other": [
         9101,
         9108,
@@ -2158,7 +2156,7 @@
         11226
       ]
     },
-    "(F2) Festival: Super Adventure Festival (SAB)": {
+    "(F2) Festival 2: Super Adventure Festival (SAB)": {
       "Powered": [
         11367,
         11371,
@@ -2190,7 +2188,7 @@
         9357
       ]
     },
-    "(F3) Festival: Dragon Bash": {
+    "(F3) Festival 3: Dragon Bash": {
       "Holographic Dragon": [
         8817,
         8826,
@@ -2214,7 +2212,7 @@
         2016
       ]
     },
-    "(F4) Festival: Festival of the Four Winds (FotFW)": {
+    "(F4) Festival 4: Festival of the Four Winds (FotFW)": {
       "Aspect-Touched Zephyrite": [
         8189,
         8190,
@@ -2265,7 +2263,7 @@
         9555
       ]
     },
-    "(F5) Festival: Halloween": {
+    "(F5) Festival 5: Halloween": {
       "Lunatic Acolyte / Lunatic Noble / Lunatic Templar": [
         7776,
         7780,
@@ -2322,7 +2320,7 @@
         11069
       ]
     },
-    "(F6) Festival: Wintersday": {
+    "(F6) Festival 6: Wintersday": {
       "Standalone: Festival Bag": [
         9063,
         9071,

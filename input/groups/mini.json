@@ -20,7 +20,7 @@
         582
       ]
     },
-    "(LW1) Living World Season 1: Scarlet's War": {
+    "Core > (LW1) Living World Season 1: Scarlet's War": {
       "Prototype Assault Knight": [
         877,
         878,
@@ -43,7 +43,7 @@
         223
       ]
     },
-    "(LW2) Living World Season 2: Glint's Prophecy": {
+    "Core > (LW2) Living World Season 2: Glint's Prophecy": {
       "Mordrem Minion": [
         292,
         303,
@@ -54,7 +54,7 @@
         298
       ]
     },
-    "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
+    "(X1) Expansion 1: Heart of Thorns (HoT)": {
       "Guild Initiative Proprietor": [
         338,
         339,
@@ -63,12 +63,39 @@
         349,
         365
       ],
+      "Vale Guardian": [
+        368,
+        371,
+        373,
+        376
+      ],
       "Standalone: Guild": [
         337,
         340,
         359,
         363,
         364
+      ],
+      "Standalone: Raid": [
+        370,
+        372,
+        375,
+        377,
+        389,
+        390,
+        391,
+        392,
+        393,
+        394,
+        401,
+        402,
+        403,
+        436,
+        438,
+        440,
+        441,
+        442,
+        447
       ],
       "Standalone: Other": [
         341,
@@ -82,7 +109,7 @@
         396
       ]
     },
-    "(LW3) Living World Season 3: Glint's Legacy": {
+    "(X1) Expansion 1: Heart of Thorns (HoT) > (LW3) Living World Season 3: Glint's Legacy": {
       "Dragon's Watch": [
         462,
         465,
@@ -128,7 +155,7 @@
         492
       ]
     },
-    "(X2) Guild Wars 2: Path of Fire (PoF)": {
+    "(X2) Expansion 2: Path of Fire (PoF)": {
       "Elemental Djinn": [
         503,
         505,
@@ -153,6 +180,18 @@
       "Standalone: Champion Bag": [
         522,
         536
+      ],
+      "Standalone: Raid": [
+        621,
+        622,
+        623,
+        721,
+        722,
+        723,
+        725,
+        763,
+        764,
+        765
       ],
       "Standalone: Renown Heart": [
         498,
@@ -229,7 +268,7 @@
         585
       ]
     },
-    "(LW4) Living World Season 4: Rise of Kralkatorrik": {
+    "(X2) Expansion 2: Path of Fire (PoF) > (LW4) Living World Season 4: Rise of Kralkatorrik": {
       "Elemental Hydra Head / Elemental Hydra": [
         658,
         668,
@@ -268,7 +307,7 @@
         762
       ]
     },
-    "(LW5) Living World Season 5: The Icebrood Saga (IBS)": {
+    "(X2) Expansion 2: Path of Fire (PoF) > (LW5) Living World Season 5: The Icebrood Saga (IBS)": {
       "Corrupted Lost Spirit": [
         799,
         802,
@@ -301,7 +340,7 @@
         818
       ]
     },
-    "(X3) Guild Wars 2: End of Dragons (EoD)": {
+    "(X3) Expansion 3: End of Dragons (EoD)": {
       "Void Minion": [
         842,
         849,
@@ -331,7 +370,7 @@
         885
       ]
     },
-    "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
+    "(X4) Expansion 4: Secrets of the Obscure (SotO)": {
       "Avatar of Sin": [
         892,
         894,
@@ -370,57 +409,6 @@
       "Standalone: Other": [
         494,
         890
-      ]
-    },
-    "Cooperative: Raid": {
-      "Vale Guardian": [
-        368,
-        371,
-        373,
-        376
-      ],
-      "Standalone: Other - Spirit Vale": [
-        370,
-        372,
-        375,
-        377
-      ],
-      "Standalone: Other - Salvation Pass": [
-        389,
-        390,
-        391,
-        392,
-        393,
-        394
-      ],
-      "Standalone: Other - Stronghold of the Faithful": [
-        401,
-        402,
-        403
-      ],
-      "Standalone: Other - Bastion of the Penitent": [
-        436,
-        438,
-        440,
-        441,
-        442,
-        447
-      ],
-      "Standalone: Other - Hall of Chains": [
-        621,
-        622,
-        623
-      ],
-      "Standalone: Other - Mythwright Gambit": [
-        721,
-        722,
-        723,
-        725
-      ],
-      "Standalone: Other - The Key of Ahdashim": [
-        763,
-        764,
-        765
       ]
     },
     "Competitive: Player vs. Player (PvP) / World vs. World (WvW)": {
@@ -478,7 +466,7 @@
         543
       ]
     },
-    "(F1) Festival: Lunar New Year (LNY)": {
+    "(F1) Festival 1: Lunar New Year (LNY)": {
       "Lantern": [
         745,
         746,
@@ -495,7 +483,7 @@
         883
       ]
     },
-    "(F2) Festival: Super Adventure Festival (SAB)": {
+    "(F2) Festival 2: Super Adventure Festival (SAB)": {
       "Princess Miya": [
         183,
         184
@@ -508,7 +496,7 @@
         887
       ]
     },
-    "(F3) Festival: Dragon Bash": {
+    "(F3) Festival 3: Dragon Bash": {
       "Holographic Dragon Minion": [
         158,
         157,
@@ -527,7 +515,7 @@
         889
       ]
     },
-    "(F4) Festival: Festival of the Four Winds (FotFW)": {
+    "(F4) Festival 4: Festival of the Four Winds (FotFW)": {
       "Standalone: Queen's Gauntlet": [
         170
       ],
@@ -544,7 +532,7 @@
         891
       ]
     },
-    "(F5) Festival: Halloween": {
+    "(F5) Festival 5: Halloween": {
       "Mad Memoires": [
         783,
         784,
@@ -583,7 +571,7 @@
         876
       ]
     },
-    "(F6) Festival: Wintersday": {
+    "(F6) Festival 6: Wintersday": {
       "Angry Snowball": [
         626,
         628,

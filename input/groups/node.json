@@ -5,18 +5,18 @@
         "enchanted_treasure_chest"
       ]
     },
-    "(LW1) Living World Season 1: Scarlet's War": {
+    "Core > (LW1) Living World Season 1: Scarlet's War": {
       "Standalone: Other": [
         "krait_obelisk",
         "sprocket_generator"
       ]
     },
-    "(LW2) Living World Season 2: Glint's Prophecy": {
+    "Core > (LW2) Living World Season 2: Glint's Prophecy": {
       "Standalone: Other": [
         "bandit_chest"
       ]
     },
-    "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
+    "(X1) Expansion 1: Heart of Thorns (HoT)": {
       "Standalone: Other": [
         "airship_cargo",
         "aurilium_node",
@@ -24,7 +24,7 @@
         "exalted_chest"
       ]
     },
-    "(LW3) Living World Season 3: Glint's Legacy": {
+    "(X1) Expansion 1: Heart of Thorns (HoT) > (LW3) Living World Season 3: Glint's Legacy": {
       "Standalone: Other": [
         "bloodstone_crystals",
         "jade_fragment",
@@ -34,7 +34,7 @@
         "winterberry_bush"
       ]
     },
-    "(LW4) Living World Season 4: Rise of Kralkatorrik": {
+    "(X2) Expansion 2: Path of Fire (PoF) > (LW4) Living World Season 4: Rise of Kralkatorrik": {
       "Standalone: Other": [
         "brandstone_node",
         "difluorite_crystal_cluster_node",
@@ -44,7 +44,7 @@
         "mistonium_node"
       ]
     },
-    "(LW5) Living World Season 5: The Icebrood Saga (IBS)": {
+    "(X2) Expansion 2: Path of Fire (PoF) > (LW5) Living World Season 5: The Icebrood Saga (IBS)": {
       "Standalone: Other": [
         "bound_hatched_chili_pepper_node",
         "eternal_ice_shard_node",
@@ -52,28 +52,28 @@
         "salvage_pile"
       ]
     },
-    "(F2) Festival: Super Adventure Festival (SAB)": {
+    "(F2) Festival 2: Super Adventure Festival (SAB)": {
       "Standalone: Other": [
         "bauble_gathering_system"
       ]
     },
-    "(F3) Festival: Dragon Bash": {
+    "(F3) Festival 3: Dragon Bash": {
       "Standalone: Other": [
         "commemorative_dragon_pinata"
       ]
     },
-    "(F4) Festival: Festival of the Four Winds (FotFW)": {
+    "(F4) Festival 4: Festival of the Four Winds (FotFW)": {
       "Standalone: Other": [
         "quartz_node"
       ]
     },
-    "(F5) Festival: Halloween": {
+    "(F5) Festival 5: Halloween": {
       "Standalone: Other": [
         "candy_corn_node",
         "king_sized_candy_corn"
       ]
     },
-    "(F6) Festival: Wintersday": {
+    "(F6) Festival 6: Wintersday": {
       "Standalone: Other": [
         "wintersday_tree"
       ]

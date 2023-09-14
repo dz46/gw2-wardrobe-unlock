@@ -41,7 +41,7 @@
         41
       ]
     },
-    "(LW1) Living World Season 1: Scarlet's War": {
+    "Core > (LW1) Living World Season 1: Scarlet's War": {
       "Quaggan Tonic": [
         88,
         131,
@@ -67,7 +67,7 @@
         156
       ]
     },
-    "(LW2) Living World Season 2: Glint's Prophecy": {
+    "Core > (LW2) Living World Season 2: Glint's Prophecy": {
       "Mordrem Minion Tonic": [
         81,
         90,
@@ -84,7 +84,7 @@
         230
       ]
     },
-    "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
+    "(X1) Expansion 1: Heart of Thorns (HoT)": {
       "Chak Tonic": [
         102,
         214,
@@ -96,6 +96,9 @@
         266,
         267
       ],
+      "Standalone: Raid": [
+        258
+      ],
       "Standalone: Other": [
         106,
         110,
@@ -105,7 +108,7 @@
         241
       ]
     },
-    "(LW3) Living World Season 3: Glint's Legacy": {
+    "(X1) Expansion 1: Heart of Thorns (HoT) > (LW3) Living World Season 3: Glint's Legacy": {
       "Standalone: Renown Heart": [
         132,
         158,
@@ -113,7 +116,7 @@
         92
       ]
     },
-    "(X2) Guild Wars 2: Path of Fire (PoF)": {
+    "(X2) Expansion 2: Path of Fire (PoF)": {
       "Music Box": [
       ],
       "Standalone: Casino Blitz": [
@@ -125,9 +128,14 @@
         43,
         51,
         218
+      ],
+      "Standalone: Raid": [
+        50,
+        69,
+        285
       ]
     },
-    "(LW4) Living World Season 4: Rise of Kralkatorrik": {
+    "(X2) Expansion 2: Path of Fire (PoF) > (LW4) Living World Season 4: Rise of Kralkatorrik": {
       "Standalone: Renown Heart": [
         86,
         89,
@@ -140,7 +148,7 @@
         282
       ]
     },
-    "(LW5) Living World Season 5: The Icebrood Saga (IBS)": {
+    "(X2) Expansion 2: Path of Fire (PoF) > (LW5) Living World Season 5: The Icebrood Saga (IBS)": {
       "Standalone: Strike Mission": [
         293
       ],
@@ -150,7 +158,7 @@
         299
       ]
     },
-    "(X3) Guild Wars 2: End of Dragons (EoD)": {
+    "(X3) Expansion 3: End of Dragons (EoD)": {
       "Standalone: Fishing": [
       ],
       "Standalone: Strike Mission": [
@@ -164,7 +172,7 @@
         330
       ]
     },
-    "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
+    "(X4) Expansion 4: Secrets of the Obscure (SotO)": {
       "Standalone: Strike Mission": [
       ],
       "Standalone: Other": [
@@ -178,14 +186,6 @@
         307
       ]
     },
-    "Cooperative: Raid": {
-      "Standalone: Other": [
-        50,
-        69,
-        258,
-        285
-      ]
-    },
     "Competitive: Player vs. Player (PvP) / World vs. World (WvW)": {
       "Champion's Gizmo": [
       ],
@@ -193,7 +193,7 @@
         147
       ]
     },
-    "(F2) Festival: Super Adventure Festival (SAB)": {
+    "(F2) Festival 2: Super Adventure Festival (SAB)": {
       "Duskk's Super Boom Box": [
         3,
         30
@@ -203,7 +203,7 @@
         25
       ]
     },
-    "(F4) Festival: Festival of the Four Winds (FotFW)": {
+    "(F4) Festival 4: Festival of the Four Winds (FotFW)": {
       "Standalone: Festival Bag": [
         223
       ],
@@ -218,7 +218,7 @@
         150
       ]
     },
-    "(F5) Festival: Halloween": {
+    "(F5) Festival 5: Halloween": {
       "Ignited Wraith Tonic": [
         84,
         94,
@@ -230,7 +230,7 @@
         180
       ]
     },
-    "(F6) Festival: Wintersday": {
+    "(F6) Festival 6: Wintersday": {
       "Enchanted Snowball": [
         93,
         217
