@@ -6,27 +6,23 @@
         3,
         2,
         5
-      ]
-    },
-    "Competitive: Player vs. Player (PvP) / World vs. World (WvW)": {
-      "Standalone: Other - Turai Ossa": [
+      ],
+      "Mist Champion Series 1 - Phalanx / Rogue / Strider / Steampunk": [
         8,
-        9,
-        14
-      ],
-      "Standalone: Other - Grymm Svaard": [
-        4,
         10,
-        13
+        12,
+        18
       ],
-      "Standalone: Other - Nika": [
-        7,
+      "Mist Champion Series 2 - Rampart / Priory / Sneakthief / Orrian": [
         11,
-        12
+        13,
+        14,
+        19
       ],
-      "Standalone: Other - Lightbringer Tybalt Leftpaw": [
-        18,
-        19,
+      "Mist Champion Series 3 - Radiant / Flamewalker / Shadow Assassin / Elite Glorious": [
+        4,
+        7,
+        9,
         20
       ]
     },
