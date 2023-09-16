@@ -80,12 +80,6 @@
         2341,
         2376
       ],
-      "Ad Infinitum + Glider Combo": [
-        6202,
-        6234,
-        6344,
-        6474
-      ],
       "Capital City": [
         6890,
         6892,
@@ -101,6 +95,12 @@
         2377,
         2378,
         2379
+      ],
+      "Fractal Capacitor > Ad Infinitum + Glider Combo": [
+        6202,
+        6234,
+        6344,
+        6474
       ],
       "Wings of Glory / The Ascension + Glider Combo": [
         6560,
@@ -338,7 +338,7 @@
         2347,
         2348
       ],
-      "Grand Aspect Catcher": [
+      "Aspect Catcher > Grand Aspect Catcher": [
         8216,
         8218,
         8223

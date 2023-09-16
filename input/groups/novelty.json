@@ -182,13 +182,13 @@
       ]
     },
     "(F2) Festival 2: Super Adventure Festival (SAB)": {
-      "Duskk's Super Boom Box": [
-        3,
-        30
-      ],
       "Super Boom Box": [
         23,
         25
+      ],
+      "Super Boom Box > Duskk's Super Boom Box": [
+        3,
+        30
       ]
     },
     "(F4) Festival 4: Festival of the Four Winds (FotFW)": {
