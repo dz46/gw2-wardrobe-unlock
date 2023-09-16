@@ -438,24 +438,6 @@
         473,
         474
       ],
-      "PvP Tournament Series 1 - Bronze Llama": [
-        476,
-        479,
-        483,
-        485
-      ],
-      "PvP Tournament Series 2 - Silver Llama": [
-        477,
-        478,
-        482,
-        487
-      ],
-      "PvP Tournament Series 3 - Gold Llama": [
-        480,
-        481,
-        484,
-        486
-      ],
       "Mist Champion": [
         362,
         366,
@@ -620,6 +602,26 @@
         738,
         880,
         881
+      ]
+    },
+    "Special Event": {
+      "PvP Tournament Series 1 - Bronze Llama": [
+        476,
+        479,
+        483,
+        485
+      ],
+      "PvP Tournament Series 2 - Silver Llama": [
+        477,
+        478,
+        482,
+        487
+      ],
+      "PvP Tournament Series 3 - Gold Llama": [
+        480,
+        481,
+        484,
+        486
       ]
     },
     "Gem Store": {

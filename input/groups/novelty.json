@@ -11,11 +11,11 @@
         191,
         202
       ],
-      "Standalone: Community Goal Reward": [
-        283,
-        288,
-        304,
-        308
+      "Standalone: Fractals of the Mists": [
+        115,
+        121,
+        141,
+        307
       ],
       "Standalone: Guild": [
         122
@@ -27,6 +27,9 @@
         274,
         275,
         276
+      ],
+      "Standalone: World vs. World": [
+        147
       ],
       "Standalone: Other": [
         12,
@@ -178,21 +181,6 @@
       "Standalone: Other": [
       ]
     },
-    "Cooperative: Fractals of the Mists (FotM)": {
-      "Standalone: Other": [
-        115,
-        121,
-        141,
-        307
-      ]
-    },
-    "Competitive: Player vs. Player (PvP) / World vs. World (WvW)": {
-      "Champion's Gizmo": [
-      ],
-      "Standalone: Other": [
-        147
-      ]
-    },
     "(F2) Festival 2: Super Adventure Festival (SAB)": {
       "Duskk's Super Boom Box": [
         3,
@@ -253,6 +241,18 @@
       ],
       "Standalone: Other": [
         277
+      ]
+    },
+    "Special Event": {
+      "Champion's Gizmo": [
+      ],
+      "Standalone: Fractals of the Mists": [
+        308
+      ],
+      "Standalone: Other": [
+        283,
+        288,
+        304
       ]
     },
     "Gem Store": {
