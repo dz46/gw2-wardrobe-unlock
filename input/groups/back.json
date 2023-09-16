@@ -1,9 +1,6 @@
 {
   "topLevelCategories": {
     "Core": {
-      "Starter": [
-        2340
-      ],
       "Crafting Discipline Series 1: Armorsmith": [
         2304,
         2305,
@@ -101,6 +98,7 @@
         9051
       ],
       "Standalone: Other": [
+        2340,
         2358,
         5653,
         6242,

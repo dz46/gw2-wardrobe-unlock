@@ -1,37 +1,37 @@
 {
   "topLevelCategories": {
-    "(X2) Expansion 2: Path of Fire (PoF)": {
+    "Core": {
       "Starter": [
         1
-      ],
-      "Standalone: Renown Heart": [
+      ]
+    },
+    "(X2) Expansion 2: Path of Fire (PoF)": {
+      "Starter": [
         2,
         3,
-        6
+        4,
+        6,
+        161
       ],
-      "Standalone: Other": [
-        4
+      "Standalone: World vs. World": [
+        251
       ]
     },
     "(X2) Expansion 2: Path of Fire (PoF) > (LW4) Living World Season 4: Rise of Kralkatorrik": {
-      "Standalone: Other": [
+      "Starter": [
         103,
         186
       ]
     },
     "(X3) Expansion 3: End of Dragons (EoD)": {
-      "Standalone: Other": [
+      "Starter": [
         397
       ]
     },
     "(X4) Expansion 4: Secrets of the Obscure (SotO)": {
-      "Standalone: Other + Miniature Combo": [
-      ]
-    },
-    "Competitive: Player vs. Player (PvP) / World vs. World (WvW)": {
       "Standalone: Other": [
-        161,
-        251
+      ],
+      "Standalone: Other + Miniature Combo": [
       ]
     },
     "Gem Store": {

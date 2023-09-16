@@ -1,18 +1,16 @@
 {
   "topLevelCategories": {
-    "(X1) Expansion 1: Heart of Thorns (HoT)": {
+    "Core": {
       "Starter": [
         2
-      ]
-    },
-    "Cooperative: Fractals of the Mists (FotM)": {
-      "Standalone: Other + Back Item Combo": [
+      ],
+      "Standalone: Fractals of the Mists + Back Item Combo": [
         22
-      ]
-    },
-    "Competitive: Player vs. Player (PvP) / World vs. World (WvW)": {
-      "Standalone: Other + Back Item Combo": [
-        11,
+      ],
+      "Standalone: Player vs. Player + Back Item Combo": [
+        11
+      ],
+      "Standalone: World vs. World + Back Item Combo": [
         43
       ]
     },

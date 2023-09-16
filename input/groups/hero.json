@@ -2,7 +2,10 @@
   "topLevelCategories": {
     "Core": {
       "Starter": [
-        3
+        1,
+        3,
+        2,
+        5
       ]
     },
     "Competitive: Player vs. Player (PvP) / World vs. World (WvW)": {
@@ -12,19 +15,16 @@
         14
       ],
       "Standalone: Other - Grymm Svaard": [
-        2,
         4,
         10,
         13
       ],
       "Standalone: Other - Nika": [
-        1,
         7,
         11,
         12
       ],
       "Standalone: Other - Lightbringer Tybalt Leftpaw": [
-        5,
         18,
         19,
         20
