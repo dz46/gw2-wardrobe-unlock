@@ -1,13 +1,59 @@
 {
   "topLevelCategories": {
     "Core": {
+      "PvP League Series 1 - Llama": [
+        228,
+        321,
+        322,
+        323
+      ],
+      "PvP League Series 2 - Black Llama": [
+        427,
+        429,
+        431,
+        432
+      ],
+      "PvP League Series 3 - Emperor Llama": [
+        449,
+        450,
+        451,
+        453
+      ],
+      "PvP League Series 4 - Princess Llama": [
+        471,
+        472,
+        473,
+        474
+      ],
+      "Mist Champion": [
+        362,
+        366,
+        379,
+        388
+      ],
+      "Old Tom": [
+        344,
+        352,
+        355,
+        360,
+        361
+      ],
       "Siege Golem": [
         130,
         131,
         132
       ],
+      "Standalone: Fractals of the Mists": [
+        494,
+        890
+      ],
       "Standalone: Racing": [
         734
+      ],
+      "Standalone: World vs. World": [
+        204,
+        571,
+        543
       ],
       "Standalone: Other": [
         66,
@@ -398,56 +444,6 @@
       ],
       "Standalone: Other + Mount Combo": [
         905
-      ]
-    },
-    "Cooperative: Fractals of the Mists (FotM)": {
-      "Old Tom": [
-        344,
-        352,
-        355,
-        360,
-        361
-      ],
-      "Standalone: Other": [
-        494,
-        890
-      ]
-    },
-    "Competitive: Player vs. Player (PvP) / World vs. World (WvW)": {
-      "PvP League Series 1 - Llama": [
-        228,
-        321,
-        322,
-        323
-      ],
-      "PvP League Series 2 - Black Llama": [
-        427,
-        429,
-        431,
-        432
-      ],
-      "PvP League Series 3 - Emperor Llama": [
-        449,
-        450,
-        451,
-        453
-      ],
-      "PvP League Series 4 - Princess Llama": [
-        471,
-        472,
-        473,
-        474
-      ],
-      "Mist Champion": [
-        362,
-        366,
-        379,
-        388
-      ],
-      "Standalone: Other": [
-        204,
-        571,
-        543
       ]
     },
     "(F1) Festival 1: Lunar New Year (LNY)": {

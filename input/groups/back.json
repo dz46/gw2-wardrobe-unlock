@@ -80,6 +80,12 @@
         2341,
         2376
       ],
+      "Ad Infinitum + Glider Combo": [
+        6202,
+        6234,
+        6344,
+        6474
+      ],
       "Capital City": [
         6890,
         6892,
@@ -91,11 +97,35 @@
         11025,
         11027
       ],
+      "Fractal Capacitor": [
+        2377,
+        2378,
+        2379
+      ],
+      "Wings of Glory / The Ascension + Glider Combo": [
+        6560,
+        6561,
+        6562,
+        6556,
+        6573,
+        6558
+      ],
+      "Wings of War / Warbringer + Glider Combo": [
+        7248,
+        7252,
+        7256,
+        7272,
+        7276,
+        7246
+      ],
       "Standalone: Guild": [
         2342,
         2343,
         2344,
         9051
+      ],
+      "Standalone: Player vs. Player": [
+        2380
       ],
       "Standalone: Other": [
         2340,
@@ -257,40 +287,6 @@
       "Standalone: Other": [
       	11741,
       	11804
-      ]
-    },
-    "Cooperative: Fractals of the Mists (FotM)": {
-      "Fractal Capacitor": [
-        2377,
-        2378,
-        2379
-      ],
-      "Ad Infinitum + Glider Combo": [
-        6202,
-        6234,
-        6344,
-        6474
-      ]
-    },
-    "Competitive: Player vs. Player (PvP) / World vs. World (WvW)": {
-      "Wings of Glory / The Ascension + Glider Combo": [
-        6560,
-        6561,
-        6562,
-        6556,
-        6573,
-        6558
-      ],
-      "Wings of War / Warbringer + Glider Combo": [
-        7248,
-        7252,
-        7256,
-        7272,
-        7276,
-        7246
-      ],
-      "Standalone: Other": [
-        2380
       ]
     },
     "(F1) Festival 1: Lunar New Year (LNY)": {
