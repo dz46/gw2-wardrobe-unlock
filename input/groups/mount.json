@@ -2,33 +2,21 @@
   "topLevelCategories": {
     "Core": {
       "Starter": [
-        1
-      ]
-    },
-    "(X2) Expansion 2: Path of Fire (PoF)": {
-      "Starter": [
+        1,
         2,
         3,
         4,
         6,
-        161
+        103,
+        161,
+        186,
+        397
       ],
       "Standalone: World vs. World": [
         251
       ]
     },
-    "(X2) Expansion 2: Path of Fire (PoF) > (LW4) Living World Season 4: Rise of Kralkatorrik": {
-      "Starter": [
-        103,
-        186
-      ]
-    },
-    "(X3) Expansion 3: End of Dragons (EoD)": {
-      "Starter": [
-        397
-      ]
-    },
-    "(X4) Expansion 4: Secrets of the Obscure (SotO)": {
+    "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
       "Standalone: Other": [
       ],
       "Standalone: Other + Miniature Combo": [

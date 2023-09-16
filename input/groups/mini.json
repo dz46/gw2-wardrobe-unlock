@@ -66,7 +66,7 @@
         582
       ]
     },
-    "Core > (LW1) Living World Season 1: Scarlet's War": {
+    "(Core > LW1) Living World Season 1: Scarlet's War": {
       "Prototype Assault Knight": [
         877,
         878,
@@ -89,7 +89,7 @@
         223
       ]
     },
-    "Core > (LW2) Living World Season 2: Glint's Prophecy": {
+    "(Core > LW2) Living World Season 2: Glint's Prophecy": {
       "Mordrem Minion": [
         292,
         303,
@@ -100,7 +100,7 @@
         298
       ]
     },
-    "(X1) Expansion 1: Heart of Thorns (HoT)": {
+    "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
       "Guild Initiative Proprietor": [
         338,
         339,
@@ -157,7 +157,7 @@
         396
       ]
     },
-    "(X1) Expansion 1: Heart of Thorns (HoT) > (LW3) Living World Season 3: Glint's Legacy": {
+    "(X1 > LW3) Living World Season 3: Glint's Legacy": {
       "Dragon's Watch": [
         462,
         465,
@@ -203,7 +203,7 @@
         492
       ]
     },
-    "(X2) Expansion 2: Path of Fire (PoF)": {
+    "(X2) Guild Wars 2: Path of Fire (PoF)": {
       "Elemental Djinn": [
         503,
         505,
@@ -316,7 +316,7 @@
         585
       ]
     },
-    "(X2) Expansion 2: Path of Fire (PoF) > (LW4) Living World Season 4: Rise of Kralkatorrik": {
+    "(X2 > LW4) Living World Season 4: Rise of Kralkatorrik": {
       "Elemental Hydra Head / Elemental Hydra": [
         658,
         668,
@@ -355,7 +355,7 @@
         762
       ]
     },
-    "(X2) Expansion 2: Path of Fire (PoF) > (LW5) Living World Season 5: The Icebrood Saga (IBS)": {
+    "(X2 > LW5) Living World Season 5: The Icebrood Saga (IBS)": {
       "Corrupted Lost Spirit": [
         799,
         802,
@@ -388,7 +388,7 @@
         818
       ]
     },
-    "(X3) Expansion 3: End of Dragons (EoD)": {
+    "(X3) Guild Wars 2: End of Dragons (EoD)": {
       "Void Minion": [
         842,
         849,
@@ -418,7 +418,7 @@
         885
       ]
     },
-    "(X4) Expansion 4: Secrets of the Obscure (SotO)": {
+    "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
       "Avatar of Sin": [
         892,
         894,
@@ -446,7 +446,7 @@
         905
       ]
     },
-    "(F1) Festival 1: Lunar New Year (LNY)": {
+    "Special Event: Lunar New Year (LNY)": {
       "Lantern": [
         745,
         746,
@@ -463,7 +463,7 @@
         883
       ]
     },
-    "(F2) Festival 2: Super Adventure Festival (SAB)": {
+    "Special Event: Super Adventure Festival (SAB)": {
       "Princess Miya": [
         183,
         184
@@ -476,7 +476,7 @@
         887
       ]
     },
-    "(F3) Festival 3: Dragon Bash": {
+    "Special Event: Dragon Bash": {
       "Holographic Dragon Minion": [
         158,
         157,
@@ -495,7 +495,7 @@
         889
       ]
     },
-    "(F4) Festival 4: Festival of the Four Winds (FotFW)": {
+    "Special Event: Festival of the Four Winds (FotFW)": {
       "Standalone: Queen's Gauntlet": [
         170
       ],
@@ -512,7 +512,7 @@
         891
       ]
     },
-    "(F5) Festival 5: Halloween": {
+    "Special Event: Shadow of the Mad King (Halloween)": {
       "Mad Memoires": [
         783,
         784,
@@ -551,7 +551,7 @@
         876
       ]
     },
-    "(F6) Festival 6: Wintersday": {
+    "Special Event: A Very Merry Wintersday": {
       "Angry Snowball": [
         626,
         628,
@@ -600,7 +600,7 @@
         881
       ]
     },
-    "Special Event": {
+    "Special Event: Other": {
       "PvP Tournament Series 1 - Bronze Llama": [
         476,
         479,

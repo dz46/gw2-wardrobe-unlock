@@ -44,7 +44,7 @@
         41
       ]
     },
-    "Core > (LW1) Living World Season 1: Scarlet's War": {
+    "(Core > LW1) Living World Season 1: Scarlet's War": {
       "Quaggan Tonic": [
         88,
         131,
@@ -70,7 +70,7 @@
         156
       ]
     },
-    "Core > (LW2) Living World Season 2: Glint's Prophecy": {
+    "(Core > LW2) Living World Season 2: Glint's Prophecy": {
       "Mordrem Minion Tonic": [
         81,
         90,
@@ -87,7 +87,7 @@
         230
       ]
     },
-    "(X1) Expansion 1: Heart of Thorns (HoT)": {
+    "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
       "Chak Tonic": [
         102,
         214,
@@ -111,7 +111,7 @@
         241
       ]
     },
-    "(X1) Expansion 1: Heart of Thorns (HoT) > (LW3) Living World Season 3: Glint's Legacy": {
+    "(X1 > LW3) Living World Season 3: Glint's Legacy": {
       "Standalone: Renown Heart": [
         132,
         158,
@@ -119,7 +119,7 @@
         92
       ]
     },
-    "(X2) Expansion 2: Path of Fire (PoF)": {
+    "(X2) Guild Wars 2: Path of Fire (PoF)": {
       "Music Box": [
       ],
       "Standalone: Casino Blitz": [
@@ -138,7 +138,7 @@
         285
       ]
     },
-    "(X2) Expansion 2: Path of Fire (PoF) > (LW4) Living World Season 4: Rise of Kralkatorrik": {
+    "(X2 > LW4) Living World Season 4: Rise of Kralkatorrik": {
       "Standalone: Renown Heart": [
         86,
         89,
@@ -151,7 +151,7 @@
         282
       ]
     },
-    "(X2) Expansion 2: Path of Fire (PoF) > (LW5) Living World Season 5: The Icebrood Saga (IBS)": {
+    "(X2 > LW5) Living World Season 5: The Icebrood Saga (IBS)": {
       "Standalone: Strike Mission": [
         293
       ],
@@ -161,7 +161,7 @@
         299
       ]
     },
-    "(X3) Expansion 3: End of Dragons (EoD)": {
+    "(X3) Guild Wars 2: End of Dragons (EoD)": {
       "Standalone: Fishing": [
       ],
       "Standalone: Strike Mission": [
@@ -175,13 +175,13 @@
         330
       ]
     },
-    "(X4) Expansion 4: Secrets of the Obscure (SotO)": {
+    "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
       "Standalone: Strike Mission": [
       ],
       "Standalone: Other": [
       ]
     },
-    "(F2) Festival 2: Super Adventure Festival (SAB)": {
+    "Special Event: Super Adventure Festival (SAB)": {
       "Super Boom Box": [
         23,
         25
@@ -191,7 +191,7 @@
         30
       ]
     },
-    "(F4) Festival 4: Festival of the Four Winds (FotFW)": {
+    "Special Event: Festival of the Four Winds (FotFW)": {
       "Standalone: Festival Bag": [
         223
       ],
@@ -206,7 +206,7 @@
         150
       ]
     },
-    "(F5) Festival 5: Halloween": {
+    "Special Event: Shadow of the Mad King (Halloween)": {
       "Ignited Wraith Tonic": [
         84,
         94,
@@ -218,7 +218,7 @@
         180
       ]
     },
-    "(F6) Festival 6: Wintersday": {
+    "Special Event: A Very Merry Wintersday": {
       "Enchanted Snowball": [
         93,
         217
@@ -243,7 +243,7 @@
         277
       ]
     },
-    "Special Event": {
+    "Special Event: Other": {
       "Champion's Gizmo": [
       ],
       "Standalone: Fractals of the Mists": [

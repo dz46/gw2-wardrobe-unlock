@@ -1243,7 +1243,7 @@
         8123
       ]
     },
-    "Core > (LW1) Living World Season 1: Scarlet's War": {
+    "(Core > LW1) Living World Season 1: Scarlet's War": {
       "Wurmslayer": [
         2000,
         2001,
@@ -1298,7 +1298,7 @@
         11132
       ]
     },
-    "Core > (LW2) Living World Season 2: Glint's Prophecy": {
+    "(Core > LW2) Living World Season 2: Glint's Prophecy": {
       "Adventurer": [
         5488,
         5480,
@@ -1351,7 +1351,7 @@
         5727
       ]
     },
-    "(X1) Expansion 1: Heart of Thorns (HoT)": {
+    "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
       "Elite Specialization Series 1": [
         6418,
         6050,
@@ -1508,7 +1508,7 @@
         6896
       ]
     },
-    "(X1) Expansion 1: Heart of Thorns (HoT) > (LW3) Living World Season 3: Glint's Legacy": {
+    "(X1 > LW3) Living World Season 3: Glint's Legacy": {
       "Standalone: Other": [
         6856,
         6858,
@@ -1536,7 +1536,7 @@
         7316
       ]
     },
-    "(X2) Expansion 2: Path of Fire (PoF)": {
+    "(X2) Guild Wars 2: Path of Fire (PoF)": {
       "Elite Specialization Series 2": [
         7441,
         7411,
@@ -1663,7 +1663,7 @@
         7679
       ]
     },
-    "(X2) Expansion 2: Path of Fire (PoF) > (LW4) Living World Season 4: Rise of Kralkatorrik": {
+    "(X2 > LW4) Living World Season 4: Rise of Kralkatorrik": {
       "Corsair": [
         7836,
         7844,
@@ -1764,7 +1764,7 @@
         8032
       ]
     },
-    "(X2) Expansion 2: Path of Fire (PoF) > (LW5) Living World Season 5: The Icebrood Saga (IBS)": {
+    "(X2 > LW5) Living World Season 5: The Icebrood Saga (IBS)": {
       "Bear Ceremonial": [
         9365,
         9368,
@@ -1859,7 +1859,7 @@
         9526
       ]
     },
-    "(X3) Expansion 3: End of Dragons (EoD)": {
+    "(X3) Guild Wars 2: End of Dragons (EoD)": {
       "Elite Specialization Series 3": [
         10297,
         10321,
@@ -2047,7 +2047,7 @@
         11343
       ]
     },
-    "(X4) Expansion 4: Secrets of the Obscure (SotO)": {
+    "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
       "Astral Ward": [
         11580,
         11585,
@@ -2116,7 +2116,7 @@
         11714
       ]
     },
-    "(F1) Festival 1: Lunar New Year (LNY)": {
+    "Special Event: Lunar New Year (LNY)": {
       "Standalone: Other": [
         9101,
         9108,
@@ -2132,7 +2132,7 @@
         11226
       ]
     },
-    "(F2) Festival 2: Super Adventure Festival (SAB)": {
+    "Special Event: Super Adventure Festival (SAB)": {
       "Powered": [
         11367,
         11371,
@@ -2164,7 +2164,7 @@
         9357
       ]
     },
-    "(F3) Festival 3: Dragon Bash": {
+    "Special Event: Dragon Bash": {
       "Holographic Dragon": [
         8817,
         8826,
@@ -2188,7 +2188,7 @@
         2016
       ]
     },
-    "(F4) Festival 4: Festival of the Four Winds (FotFW)": {
+    "Special Event: Festival of the Four Winds (FotFW)": {
       "Aspect-Touched Zephyrite": [
         8189,
         8190,
@@ -2239,7 +2239,7 @@
         9555
       ]
     },
-    "(F5) Festival 5: Halloween": {
+    "Special Event: Shadow of the Mad King (Halloween)": {
       "Lunatic Acolyte / Lunatic Noble / Lunatic Templar": [
         7776,
         7780,
@@ -2296,7 +2296,7 @@
         11069
       ]
     },
-    "(F6) Festival 6: Wintersday": {
+    "Special Event: A Very Merry Wintersday": {
       "Standalone: Festival Bag": [
         9063,
         9071,
@@ -2320,8 +2320,8 @@
         11184
       ]
     },
-    "Special Event": {
-      "Glorious Hero": [
+    "Special Event: Other": {
+      "PvP Tournament Series - Glorious Hero": [
         5600,
         5601,
         5603,
