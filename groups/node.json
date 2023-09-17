@@ -1,0 +1,125 @@
+{
+  "topLevelCategories": {
+    "Core": {
+      "Standalone: Other": [
+        "enchanted_treasure_chest"
+      ]
+    },
+    "(Core > LW1) Living World Season 1: Scarlet's War": {
+      "Standalone: Other": [
+        "krait_obelisk",
+        "sprocket_generator"
+      ]
+    },
+    "(Core > LW2) Living World Season 2: Glint's Prophecy": {
+      "Standalone: Other": [
+        "bandit_chest"
+      ]
+    },
+    "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
+      "Standalone: Other": [
+        "airship_cargo",
+        "aurilium_node",
+        "crystallized_supply_cache",
+        "exalted_chest"
+      ]
+    },
+    "(X1 > LW3) Living World Season 3: Glint's Legacy": {
+      "Standalone: Other": [
+        "bloodstone_crystals",
+        "jade_fragment",
+        "orrian_oyster_node",
+        "petrified_stump",
+        "primordial_orchid",
+        "winterberry_bush"
+      ]
+    },
+    "(X2 > LW4) Living World Season 4: Rise of Kralkatorrik": {
+      "Standalone: Other": [
+        "brandstone_node",
+        "difluorite_crystal_cluster_node",
+        "dragon_crystal",
+        "kournan_supply_cache",
+        "mistborn_mote",
+        "mistonium_node"
+      ]
+    },
+    "(X2 > LW5) Living World Season 5: The Icebrood Saga (IBS)": {
+      "Standalone: Other": [
+        "bound_hatched_chili_pepper_node",
+        "eternal_ice_shard_node",
+        "prismaticite_node",
+        "salvage_pile"
+      ]
+    },
+    "Special Event: Super Adventure Festival (SAB)": {
+      "Standalone: Other": [
+        "bauble_gathering_system"
+      ]
+    },
+    "Special Event: Dragon Bash": {
+      "Standalone: Other": [
+        "commemorative_dragon_pinata"
+      ]
+    },
+    "Special Event: Festival of the Four Winds (FotFW)": {
+      "Standalone: Other": [
+        "quartz_node"
+      ]
+    },
+    "Special Event: Shadow of the Mad King (Halloween)": {
+      "Standalone: Other": [
+        "candy_corn_node",
+        "king_sized_candy_corn"
+      ]
+    },
+    "Special Event: A Very Merry Wintersday": {
+      "Standalone: Other": [
+        "wintersday_tree"
+      ]
+    },
+    "Gem Store": {
+      "Black Lion Board": [
+        "black_lion_expedition_board",
+        "black_lion_expedition_board_s4",
+        "black_lion_hunters_board",
+        "black_lion_industry_board"
+      ],
+      "Garden Plot": [
+        "garden_plot_01",
+        "garden_plot_02",
+        "garden_plot_03"
+      ],
+      "Standalone: Other": [
+        "advanced_cloth_rack",
+        "advanced_leather_rack",
+        "basic_cloth_rack",
+        "basic_leather_rack"
+      ],
+      "Standalone: Other - Harvesting": [
+        "basic_harvesting_nodes",
+        "flaxseed_node",
+        "ghost_pepper_node",
+        "lotus_node",
+        "omnomberry_node",
+        "orrian_truffle_node",
+        "snow_truffle_node"
+      ],
+      "Standalone: Other - Logging": [
+        "ancient_wood_node",
+        "basic_lumber_nodes",
+        "elder_wood_node",
+        "hard_wood_node"
+      ],
+      "Standalone: Other - Mining": [
+        "basic_ore_nodes",
+        "iron_ore_node",
+        "mithril_ore_node",
+        "orichalcum_ore_node",
+        "platinum_ore_node"
+      ],
+      "Standalone: Other - Fishing": [
+      ]
+    }
+  }
+}

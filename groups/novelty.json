@@ -1,0 +1,351 @@
+{
+  "topLevelCategories": {
+    "Core": {
+      "Elemental Potion": [
+        72,
+        120,
+        179,
+        231
+      ],
+      "Ley-Line Anomaly Tonic": [
+        191,
+        202
+      ],
+      "Standalone: Fractals of the Mists": [
+        115,
+        121,
+        141,
+        307
+      ],
+      "Standalone: Racing": [
+        271,
+        272,
+        273,
+        274,
+        275,
+        276
+      ],
+      "Standalone: World vs. World": [
+        147
+      ],
+      "Standalone: Other": [
+        12,
+        29,
+        122,
+        219,
+        222,
+        237,
+        289
+      ],
+      "Standalone: Other + Weapon Combo": [
+        34,
+        41
+      ]
+    },
+    "(Core > LW1) Living World Season 1: Scarlet's War": {
+      "Quaggan Tonic": [
+        88,
+        131,
+        184,
+        200,
+        215
+      ],
+      "Standalone: Dungeon": [
+        173,
+        175
+      ],
+      "Standalone: Strike Mission": [
+        325
+      ],
+      "Standalone: Other": [
+        47,
+        49,
+        58,
+        64,
+        112,
+        140,
+        149,
+        156
+      ]
+    },
+    "(Core > LW2) Living World Season 2: Glint's Prophecy": {
+      "Crystal Shard Kite / Prosperity Mine Kite / Ventari Follower Kite": [
+        11,
+        14,
+        48
+      ],
+      "Mordrem Minion Tonic": [
+        81,
+        90,
+        201,
+        243
+      ],
+      "Standalone: Other": [
+        117,
+        138,
+        195,
+        230
+      ]
+    },
+    "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
+      "Chak Tonic": [
+        102,
+        214,
+        234
+      ],
+      "Mushroom Tonic": [
+        96,
+        135,
+        266,
+        267
+      ],
+      "Standalone: Raid": [
+        258
+      ],
+      "Standalone: Other": [
+        106,
+        110,
+        186,
+        198,
+        228,
+        241
+      ]
+    },
+    "(X1 > LW3) Living World Season 3: Glint's Legacy": {
+      "Standalone: Renown Heart": [
+        132,
+        158,
+        255,
+        92
+      ]
+    },
+    "(X2) Guild Wars 2: Path of Fire (PoF)": {
+      "Choya Kite": [
+        10,
+        26,
+        43
+      ],
+      "Music Box": [
+      ],
+      "Standalone: Other": [
+        17,
+        22,
+        39,
+        51,
+        218
+      ],
+      "Standalone: Raid": [
+        50,
+        69,
+        285
+      ]
+    },
+    "(X2 > LW4) Living World Season 4: Rise of Kralkatorrik": {
+      "Standalone: Renown Heart": [
+        86,
+        89,
+        246,
+        248
+      ],
+      "Standalone: Other": [
+        233,
+        281,
+        282
+      ]
+    },
+    "(X2 > LW5) Living World Season 5: The Icebrood Saga (IBS)": {
+      "Standalone: Strike Mission": [
+        293
+      ],
+      "Standalone: Other": [
+        292,
+        297,
+        299
+      ]
+    },
+    "(X3) Guild Wars 2: End of Dragons (EoD)": {
+      "Standalone: Fishing": [
+      ],
+      "Standalone: Strike Mission": [
+        316,
+        318,
+        319,
+        320
+      ],
+      "Standalone: Other": [
+        317,
+        330
+      ]
+    },
+    "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
+      "Standalone: Strike Mission": [
+      ],
+      "Standalone: Other": [
+      ]
+    },
+    "Special Event: Super Adventure Festival (SAB)": {
+      "Super Boom Box": [
+        23,
+        25
+      ],
+      "Super Boom Box > Duskk's Super Boom Box": [
+        3,
+        30
+      ]
+    },
+    "Special Event: Festival of the Four Winds (FotFW)": {
+      "Embellished Kite / Mark of Peace Kite / Ornamental Kite": [
+        1,
+        31,
+        46
+      ],
+      "Standalone: Festival Bag": [
+        223
+      ],
+      "Standalone: Other": [
+        28,
+        142,
+        150
+      ]
+    },
+    "Special Event: Shadow of the Mad King (Halloween)": {
+      "Ignited Wraith Tonic": [
+        84,
+        94,
+        166,
+        178
+      ],
+      "Standalone: Festival Bag": [
+        170,
+        180
+      ]
+    },
+    "Special Event: A Very Merry Wintersday": {
+      "Enchanted Snowball": [
+        93,
+        217
+      ],
+      "Toy Tonic / Gift Box Tonic / Gift Dolyak Tonic / Toymaker's Tonic": [
+        119,
+        136,
+        145,
+        151,
+        171,
+        188,
+        206,
+        257
+      ],
+      "Standalone: Festival Bag": [
+        38,
+        42,
+        75,
+        133
+      ],
+      "Standalone: Other": [
+        277
+      ]
+    },
+    "Special Event: Other": {
+      "Champion's Gizmo": [
+      ],
+      "Standalone: Fractals of the Mists": [
+        308
+      ],
+      "Standalone: Other": [
+        283,
+        288,
+        304
+      ]
+    },
+    "Gem Store": {
+      "Aspect Kite": [
+        7,
+        13,
+        36,
+        40
+      ],
+      "Standalone: Other - Chair": [
+        24,
+        262,
+        268,
+        269,
+        278,
+        279,
+        280,
+        284,
+        287,
+        294,
+        301,
+        302,
+        303,
+        305,
+        309,
+        310,
+        312,
+        313,
+        314,
+        315,
+        322,
+        323,
+        326,
+        327,
+        329
+      ],
+      "Standalone: Other - Chair + Glider Combo": [
+        286,
+        311
+      ],
+      "Standalone: Other - Musical Instrument": [
+        2,
+        6,
+        8,
+        18,
+        35,
+        37,
+        45
+      ],
+      "Standalone: Other - Held Item": [
+        15,
+        21,
+        32,
+        53
+      ],
+      "Standalone: Other - Toy": [
+        4,
+        5,
+        9,
+        19,
+        52,
+        54,
+        55,
+        300
+      ],
+      "Standalone: Other - Toy + Outfit Combo": [
+        78,
+        111,
+        126,
+        128,
+        144,
+        226,
+        265
+      ],
+      "Standalone: Other - Toy + Glider Combo": [
+        16,
+        20,
+        27,
+        33
+      ],
+      "Standalone: Other - Toy + Emote Combo": [
+        44
+      ],
+      "Standalone: Other - Tonic": [
+        80,
+        103,
+        159,
+        172,
+        185,
+        236
+      ]
+    }
+  }
+}
