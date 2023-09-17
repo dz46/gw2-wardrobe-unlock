@@ -283,10 +283,6 @@
         397,
         398
       ],
-      "Standalone: Club Canach": [
-        377,
-        383
-      ],
       "Standalone: Fishing": [
         374,
         376,
@@ -300,8 +296,10 @@
       ],
       "Standalone: Other": [
         375,
+        377,
         378,
         381,
+        383,
         384
       ]
     },

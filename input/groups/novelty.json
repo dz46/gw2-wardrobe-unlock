@@ -17,9 +17,6 @@
         141,
         307
       ],
-      "Standalone: Guild": [
-        122
-      ],
       "Standalone: Racing": [
         271,
         272,
@@ -34,6 +31,7 @@
       "Standalone: Other": [
         12,
         29,
+        122,
         219,
         222,
         237,
@@ -71,6 +69,11 @@
       ]
     },
     "(Core > LW2) Living World Season 2: Glint's Prophecy": {
+      "Crystal Shard Kite / Prosperity Mine Kite / Ventari Follower Kite": [
+        11,
+        14,
+        48
+      ],
       "Mordrem Minion Tonic": [
         81,
         90,
@@ -78,9 +81,6 @@
         243
       ],
       "Standalone: Other": [
-        11,
-        14,
-        48,
         117,
         138,
         195,
@@ -120,15 +120,17 @@
       ]
     },
     "(X2) Guild Wars 2: Path of Fire (PoF)": {
+      "Choya Kite": [
+        10,
+        26,
+        43
+      ],
       "Music Box": [
       ],
-      "Standalone: Casino Blitz": [
-        10,
+      "Standalone: Other": [
         17,
         22,
-        26,
         39,
-        43,
         51,
         218
       ],
@@ -192,13 +194,13 @@
       ]
     },
     "Special Event: Festival of the Four Winds (FotFW)": {
-      "Standalone: Festival Bag": [
-        223
-      ],
-      "Standalone: Treasure Hunt": [
+      "Embellished Kite / Mark of Peace Kite / Ornamental Kite": [
         1,
         31,
         46
+      ],
+      "Standalone: Festival Bag": [
+        223
       ],
       "Standalone: Other": [
         28,
@@ -256,6 +258,12 @@
       ]
     },
     "Gem Store": {
+      "Aspect Kite": [
+        7,
+        13,
+        36,
+        40
+      ],
       "Standalone: Other - Chair": [
         24,
         262,
@@ -297,13 +305,9 @@
         45
       ],
       "Standalone: Other - Held Item": [
-        7,
-        13,
         15,
         21,
         32,
-        36,
-        40,
         53
       ],
       "Standalone: Other - Toy": [

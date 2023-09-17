@@ -123,13 +123,6 @@
         373,
         376
       ],
-      "Standalone: Guild": [
-        337,
-        340,
-        359,
-        363,
-        364
-      ],
       "Standalone: Raid": [
         372,
         389,
@@ -146,6 +139,8 @@
         447
       ],
       "Standalone: Other": [
+        337,
+        340,
         341,
         343,
         346,
@@ -153,6 +148,9 @@
         351,
         354,
         358,
+        359,
+        363,
+        364,
         367,
         396
       ]
@@ -221,10 +219,6 @@
         566,
         569
       ],
-      "Standalone: Casino Blitz": [
-        537,
-        595
-      ],
       "Standalone: Champion Bag": [
         522,
         536
@@ -256,6 +250,7 @@
         526,
         528,
         529,
+        537,
         542,
         544,
         546,
@@ -267,7 +262,8 @@
         578,
         580,
         583,
-        584
+        584,
+        595
       ],
       "Standalone: Sunspear Redemption Wish": [
         499,
@@ -499,12 +495,10 @@
       "Standalone: Queen's Gauntlet": [
         170
       ],
-      "Standalone: Treasure Hunt": [
-        701
-      ],
       "Standalone: Other": [
         291,
         700,
+        701,
         831,
         832,
         872,
