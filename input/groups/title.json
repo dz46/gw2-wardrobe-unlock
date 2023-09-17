@@ -345,6 +345,13 @@
       ]
     },
     "Gem Store": {
+      "Standalone: Other": [
+        18,
+        319,
+        348
+      ]
+    },
+    "Promotional Event": {
       "Standalone: ArenaNet Partner": [
         362,
         370,
@@ -360,18 +367,11 @@
         7,
         8,
         9,
-        10,
-        26
+        10
       ],
       "Standalone: Other": [
-        18,
-        319,
-        348,
+        26,
         400
-      ]
-    },
-    "Promotional Event": {
-      "Standalone: Other": [
       ]
     }
   }
