@@ -9,23 +9,7 @@
         2301,
         2303
       ],
-      "Crafting Discipline Series 2: Leatherworker": [
-        2292,
-        2293,
-        2294,
-        2295,
-        2296,
-        2315
-      ],
-      "Crafting Discipline Series 3: Tailor": [
-        2307,
-        2309,
-        2282,
-        2283,
-        2316,
-        2286
-      ],
-      "Crafting Discipline Series 4: Artificer": [
+      "Crafting Discipline Series 2: Artificer": [
         2320,
         2297,
         2298,
@@ -33,23 +17,7 @@
         2284,
         2300
       ],
-      "Crafting Discipline Series 5: Huntsman": [
-        2321,
-        2322,
-        2323,
-        2310,
-        2311,
-        2312
-      ],
-      "Crafting Discipline Series 6: Weaponsmith": [
-        2288,
-        2290,
-        2306,
-        2291,
-        2317,
-        2287
-      ],
-      "Crafting Discipline Series 7: Chef": [
+      "Crafting Discipline Series 3: Chef": [
         2289,
         2324,
         2277,
@@ -57,7 +25,15 @@
         2302,
         2319
       ],
-      "Crafting Discipline Series 8: Jeweler": [
+      "Crafting Discipline Series 4: Huntsman": [
+        2321,
+        2322,
+        2323,
+        2310,
+        2311,
+        2312
+      ],
+      "Crafting Discipline Series 5: Jeweler": [
         2276,
         2278,
         2280,
@@ -65,13 +41,29 @@
         2313,
         2285
       ],
-      "Crafting Discipline Series 9: Scribe": [
-        6512,
-        6402,
-        6341,
-        6503,
-        6361,
-        6495
+      "Crafting Discipline Series 6: Leatherworker": [
+        2292,
+        2293,
+        2294,
+        2295,
+        2296,
+        2315
+      ],
+      "Crafting Discipline Series 7: Tailor": [
+        2307,
+        2309,
+        2282,
+        2283,
+        2316,
+        2286
+      ],
+      "Crafting Discipline Series 8: Weaponsmith": [
+        2288,
+        2290,
+        2306,
+        2291,
+        2317,
+        2287
       ],
       "Ascended Series": [
         2318,
@@ -193,6 +185,14 @@
       ]
     },
     "(X1 > LW3) Living World Season 3: Glint's Legacy": {
+      "Crafting Discipline Series 9: Scribe": [
+        6512,
+        6402,
+        6341,
+        6503,
+        6361,
+        6495
+      ],
       "Druid Stone / The Wayfarer's Henge": [
         7209,
         7216,
@@ -440,8 +440,6 @@
         9717,
         9918,
         10005,
-        10059,
-        10084,
         10088,
         10104,
         10164,
@@ -471,7 +469,6 @@
         2355,
         2365,
         2367,
-        2370,
         2372,
         1048,
         7000
@@ -525,6 +522,13 @@
         11125,
         11246,
         11253
+      ]
+    },
+    "Promotional Event": {
+      "Standalone: Other": [
+        2370,
+        10084,
+        10059
       ]
     }
   }

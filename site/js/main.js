@@ -176,15 +176,13 @@ var acquisitionMethods = [
     { id: "enchantedsnowball", name: "Enchanted Snowball", category: "Special Event"},
 
     { id: "gem", name: "Gem", category: "Gem Store"},
-    { id: "deluxe", name: "Purchase Bonus", category: "Gem Store"},
+    { id: "deluxe", name: "Deluxe Upgrade Reward", category: "Gem Store"},
     { id: "bls", name: "Black Lion Statuette", category: "Gem Store"},
     { id: "blt", name: "Black Lion Claim Ticket", category: "Gem Store"},
     { id: "blmt", name: "Black Lion Miniature Claim Ticket", category: "Gem Store"},
     { id: "blsprocket", name: "Black Lion Commemorative Sprocket", category: "Gem Store"},
     { id: "gwu", name: "Guaranteed Wardrobe Unlock", category: "Gem Store", hideOnIcon: true},
     { id: "bounty", name: "Knife Tail Gang Hunting Bond", category: "Gem Store", hideOnIcon: true},
-    { id: "hallofmonuments", name: "Hall of Monuments Points Reward", category: "General"},
-    { id: "promotionalevent", name: "Promotional Event", category: "Gem Store"},
 
     { id: "mountlicense01", name: "Mount License", category: "Gem Store - Mount License"},
     { id: "mountlicense02", name: "Istani Isles Mount License", category: "Gem Store - Mount License"},
@@ -201,6 +199,10 @@ var acquisitionMethods = [
     { id: "mountlicense13", name: "Imperial Wonders Mount License", category: "Gem Store - Mount License"},
     { id: "mountlicense14", name: "Eternal Crossings Mount License", category: "Gem Store - Mount License"},
     //{ id: "mountlicense15", name: "Kaineng Lights Mount License", category: "Gem Store - Mount License"},
+
+    { id: "hallofmonuments", name: "Guild Wars Reward", category: "Promotional Event"},
+    //{ id: "prepurchase", name: "Pre-purchase Reward", category: "Promotional Event"},
+    { id: "promotionalevent", name: "Promotional Reward", category: "Promotional Event"},
 
     { id: "eod", name: "End of Dragons", category: "Highlights", hideOnIcon: true, hideOnDetails: true},
     { id: "soto", name: "Secrets of the Obscure", category: "Highlights", hideOnIcon: true, hideOnDetails: true}

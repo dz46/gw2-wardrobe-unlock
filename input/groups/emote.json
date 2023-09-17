@@ -39,7 +39,11 @@
         "Serve",
         "Hiss",
         "MagicJuggle",
-        "Readbook",
+        "Readbook"
+      ]
+    },
+    "Promotional Event": {
+      "Standalone: Other": [
         "sipcoffee"
       ]
     }
