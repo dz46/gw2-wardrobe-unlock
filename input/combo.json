@@ -166,17 +166,6 @@
         "name": "Pointed Ears Package",
         "armor": [11032,11035,11038,11039,11040,11041,11044,11045,11047]
       },
-      // Armor - Head + Back Item
-      {
-        "name": "Battlelord's Cape Hood Combo",
-        "armor": [11143,11150,11151,11158,11162,11167],
-        "back": [11144]
-      },
-      {
-        "name": "Artisan Zharra's Cape and Hood Combo",
-        "armor": [11418,11419,11431],
-        "back": [11435]
-      },
       // Armor - Shoulder
       // Armor - Chest
       {
@@ -225,6 +214,18 @@
       {
         "name": "Rebel Long and Short Boots Package",
         "armor": [11350,11354,11355,11357,11360,11363]
+      },
+      // Outfit + Armor - Head
+      {
+        "name": "Fallen Balthazar Package",
+        "outfit": [57],
+        "armor": [7782,7800,7804]
+      },
+      // Outfit + Armor - Shoulder
+      {
+        "name": "Ebon Vanguard Elite Outfit and Shoulders Package",
+        "outfit": [101],
+        "armor": [9577,9580,9581]
       }
     ]
   },
@@ -257,23 +258,6 @@
       {
         "name": "Shiro's Legacy Blades Package",
         "weapon": [10818,10824]
-      },
-      // Weapon + Back Item
-      {
-        "name": "Fire-Breathing Package",
-        "weapon": [8010],
-        "back": [8021]
-      },
-      // Weapon + Novelty - Musical Instrument
-      {
-        "name": "The Minstrel",
-        "weapon": [4672],
-        "novelty": [41]
-      },
-      {
-        "name": "Verdarach",
-        "weapon": [8145],
-        "novelty": [34]
       }
     ]
   },
@@ -290,6 +274,23 @@
       {
         "name": "Decade's War",
         "back": [11025,11027]
+      },
+      // Armor + Back Item
+      {
+        "name": "Battlelord's Cape Hood Combo",
+        "armor": [11143,11150,11151,11158,11162,11167],
+        "back": [11144]
+      },
+      {
+        "name": "Artisan Zharra's Cape and Hood Combo",
+        "armor": [11418,11419,11431],
+        "back": [11435]
+      },
+      // Weapon + Back Item
+      {
+        "name": "Fire-Breathing Package",
+        "weapon": [8010],
+        "back": [8021]
       }
     ]
   },
@@ -322,116 +323,28 @@
     ]
   },
   // ------------------------------
-  // -------- OUTFIT COMBO --------
-  // ------------------------------
-  {
-    "name": "outfitcombo",
-    "contents": [
-      // Outfit + Armor - Head
-      {
-        "name": "Fallen Balthazar Package",
-        "outfit": [57],
-        "armor": [7782,7800,7804]
-      },
-      // Outfit + Armor - Shoulder
-      {
-        "name": "Ebon Vanguard Elite Outfit and Shoulders Package",
-        "outfit": [101],
-        "armor": [9577,9580,9581]
-      },
-      // Outfit + Novelty - Toy
-      {
-        "name": "Cook's Outfit",
-        "outfit": [1],
-        "novelty": [226]
-      },
-      {
-        "name": "Mad King's Outfit",
-        "outfit": [2],
-        "novelty": [111]
-      },
-      {
-        "name": "Pirate Captain's Outfit",
-        "outfit": [3],
-        "novelty": [128]
-      },
-      {
-        "name": "Witch's Outfit",
-        "outfit": [4],
-        "novelty": [265]
-      },
-      {
-        "name": "Executioner's Outfit",
-        "outfit": [5],
-        "novelty": [78]
-      },
-      {
-        "name": "Bloody Prince's Outfit",
-        "outfit": [6],
-        "novelty": [144]
-      },
-      {
-        "name": "Fancy Winter Outfit",
-        "outfit": [7],
-        "novelty": [126]
-      }
-    ]
-  },
-  // ------------------------------
   // -------- GLIDER COMBO --------
   // ------------------------------
   {
     "name": "glidercombo",
     "contents": [
-      // Glider + Back Item
+      // Back Item + Glider
       {
         "name": "Ad Infinitum",
-        "glider": [22],
-        "back": [6344]
+        "back": [6344],
+        "glider": [22]
       },
       {
         "name": "The Ascension",
-        "glider": [11],
-        "back": [6561]
+        "back": [6561],
+        "glider": [11]
       },
       {
         "name": "Warbringer",
-        "glider": [43],
-        "back": [7272]
-      },
-      // TODO: WIP
-      // Glider + Novelty - Chair
-      {
-        "name": "Inquest Overseer Chair Glider Combo",
-        "glider": [73],
-        "novelty": [286]
-      },
-      {
-        "name": "Wandering Cloud Chair and Glider Combo",
-        "glider": [97],
-        "novelty": [311]
-      },
-      // Glider + Novelty - Toy
-      {
-        "name": "Electromagnetic Ascender-Descender Glider Combo",
-        "glider": [16],
-        "novelty": [27]
-      },
-      {
-        "name": "Magic Carpet Glider Combo",
-        "glider": [44],
-        "novelty": [16]
-      },
-      {
-        "name": "Riding Broom and Glider Combo",
-        "glider": [53],
-        "novelty": [20]
-      },
-      {
-        "name": "Shattered Bloodstone Ascender Combo",
-        "glider": [39],
-        "novelty": [33]
+        "back": [7272],
+        "glider": [43]
       }
+      // TODO: WIP
     ]
   },
   // -----------------------------
@@ -520,6 +433,93 @@
       }
     ]
   },
+  // -------------------------------
+  // -------- NOVELTY COMBO --------
+  // -------------------------------
+  {
+    "name": "noveltycombo",
+    "contents": [
+      // Weapon + Novelty - Musical Instrument
+      {
+        "name": "The Minstrel",
+        "weapon": [4672],
+        "novelty": [41]
+      },
+      {
+        "name": "Verdarach",
+        "weapon": [8145],
+        "novelty": [34]
+      },
+      // Outfit + Novelty - Toy
+      {
+        "name": "Cook's Outfit",
+        "outfit": [1],
+        "novelty": [226]
+      },
+      {
+        "name": "Mad King's Outfit",
+        "outfit": [2],
+        "novelty": [111]
+      },
+      {
+        "name": "Pirate Captain's Outfit",
+        "outfit": [3],
+        "novelty": [128]
+      },
+      {
+        "name": "Witch's Outfit",
+        "outfit": [4],
+        "novelty": [265]
+      },
+      {
+        "name": "Executioner's Outfit",
+        "outfit": [5],
+        "novelty": [78]
+      },
+      {
+        "name": "Bloody Prince's Outfit",
+        "outfit": [6],
+        "novelty": [144]
+      },
+      {
+        "name": "Fancy Winter Outfit",
+        "outfit": [7],
+        "novelty": [126]
+      },
+      // Glider + Novelty - Chair
+      {
+        "name": "Inquest Overseer Chair Glider Combo",
+        "glider": [73],
+        "novelty": [286]
+      },
+      {
+        "name": "Wandering Cloud Chair and Glider Combo",
+        "glider": [97],
+        "novelty": [311]
+      },
+      // Glider + Novelty - Toy
+      {
+        "name": "Electromagnetic Ascender-Descender Glider Combo",
+        "glider": [16],
+        "novelty": [27]
+      },
+      {
+        "name": "Magic Carpet Glider Combo",
+        "glider": [44],
+        "novelty": [16]
+      },
+      {
+        "name": "Riding Broom and Glider Combo",
+        "glider": [53],
+        "novelty": [20]
+      },
+      {
+        "name": "Shattered Bloodstone Ascender Combo",
+        "glider": [39],
+        "novelty": [33]
+      }
+    ]
+  },
   // ---------------------------------
   // -------- MINIATURE COMBO --------
   // ---------------------------------
@@ -542,17 +542,17 @@
         "name": "Mini Super Trio—Series 4",
         "mini": [676,677,678]
       },
-      // Miniature + Back Item
+      // Back Item + Miniature
       {
         "name": "Ghoul Backpack and Mini Set",
-        "mini": [342],
-        "back": [6431]
+        "back": [6431],
+        "mini": [342]
       },
-      // Miniature + Mount
+      // Mount + Miniature
       {
         "name": "Kryptis Skyscale",
-        "mini": [905],
-        "mount": []
+        "mount": [],
+        "mini": [905]
       }
     ]
   },
@@ -562,12 +562,11 @@
   {
     "name": "emotecombo",
     "contents": [
-      // Emote
-      // Emote + Novelty - Toy
+      // Novelty + Emote
       {
         "name": "How to Dance, Volume 1",
-        "emote": ["geargrind","shuffle","step"],
-        "novelty": [44]
+        "novelty": [44],
+        "emote": ["geargrind","shuffle","step"]
       }
     ]
   }

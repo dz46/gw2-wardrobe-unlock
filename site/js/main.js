@@ -208,9 +208,9 @@ var acquisitionMethods = [
     //{ id: "weaponcombo", name: "Weapon Combo", category: "Combo"},
     //{ id: "backcombo", name: "Back Item Combo", category: "Combo"},
     //{ id: "toolcombo", name: "Gathering Tool Combo", category: "Combo"},
-    //{ id: "outfitcombo", name: "Outfit Combo", category: "Combo"},
     //{ id: "glidercombo", name: "Glider Combo", category: "Combo"},
     //{ id: "mountcombo", name: "Mount Combo", category: "Combo"},
+    //{ id: "noveltycombo", name: "Novelty Combo", category: "Combo"},
     //{ id: "minicombo", name: "Miniature Combo", category: "Combo"},
     //{ id: "emotecombo", name: "Emote Combo", category: "Combo"},
 
