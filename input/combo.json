@@ -236,12 +236,268 @@
     "name": "weaponcombo",
     "contents": [
       {
+        "name": "Cavalier Axe",
+        "weapon": [6773,6749]
+      },
+      {
+        "name": "Cavalier Dagger",
+        "weapon": [6781,6751]
+      },
+      {
+        "name": "Cavalier Mace",
+        "weapon": [6766,6747]
+      },
+      {
+        "name": "Cavalier Pistol",
+        "weapon": [6762,6756]
+      },
+      {
+        "name": "Cavalier Scepter",
+        "weapon": [6782,6746]
+      },
+      {
+        "name": "Cavalier Sword",
+        "weapon": [6770,6772]
+      },
+      {
+        "name": "Cavalier Focus",
+        "weapon": [6769,6767]
+      },
+      {
+        "name": "Cavalier Shield",
+        "weapon": [6778,6768]
+      },
+      {
+        "name": "Cavalier Torch",
+        "weapon": [6776,6780]
+      },
+      {
+        "name": "Cavalier Warhorn",
+        "weapon": [6754,6777]
+      },
+      {
+        "name": "Cavalier Greatsword",
+        "weapon": [6755,6765]
+      },
+      {
+        "name": "Cavalier Hammer",
+        "weapon": [6761,6764]
+      },
+      {
+        "name": "Cavalier Longbow",
+        "weapon": [6748,6758]
+      },
+      {
+        "name": "Cavalier Rifle",
+        "weapon": [6750,6757]
+      },
+      {
+        "name": "Cavalier Short Bow",
+        "weapon": [6771,6753]
+      },
+      {
+        "name": "Cavalier Staff",
+        "weapon": [6763,6783]
+      },
+      {
         "name": "God-Slayer Bow Pack",
         "weapon": [7281,7284]
       },
       {
         "name": "Rival Skies Package",
         "weapon": [7450,7651]
+      },
+      {
+        "name": "Obsidian Axe",
+        "weapon": [8324,8302]
+      },
+      {
+        "name": "Obsidian Dagger",
+        "weapon": [7921,7946]
+      },
+      {
+        "name": "Obsidian Mace",
+        "weapon": [8079,8074]
+      },
+      {
+        "name": "Obsidian Pistol",
+        "weapon": [8075,8078]
+      },
+      {
+        "name": "Obsidian Scepter",
+        "weapon": [8080,8065]
+      },
+      {
+        "name": "Obsidian Sword",
+        "weapon": [7962,7992]
+      },
+      {
+        "name": "Obsidian Focus",
+        "weapon": [8132,8136]
+      },
+      {
+        "name": "Obsidian Shield",
+        "weapon": [7918,7928]
+      },
+      {
+        "name": "Obsidian Torch",
+        "weapon": [7933,7971]
+      },
+      {
+        "name": "Obsidian Warhorn",
+        "weapon": [8310,8304]
+      },
+      {
+        "name": "Obsidian Greatsword",
+        "weapon": [8131,8140]
+      },
+      {
+        "name": "Obsidian Hammer",
+        "weapon": [8127,8130]
+      },
+      {
+        "name": "Obsidian Longbow",
+        "weapon": [7936,7980]
+      },
+      {
+        "name": "Obsidian Rifle",
+        "weapon": [8306,8323]
+      },
+      {
+        "name": "Obsidian Short Bow",
+        "weapon": [8312,8308]
+      },
+      {
+        "name": "Obsidian Staff",
+        "weapon": [7949,7953]
+      },
+      {
+        "name": "Mistforged Obsidian Axe",
+        "weapon": [8329,8325]
+      },
+      {
+        "name": "Mistforged Obsidian Dagger",
+        "weapon": [7926,7974]
+      },
+      {
+        "name": "Mistforged Obsidian Mace",
+        "weapon": [8077,8066]
+      },
+      {
+        "name": "Mistforged Obsidian Pistol",
+        "weapon": [8076,8070]
+      },
+      {
+        "name": "Mistforged Obsidian Scepter",
+        "weapon": [8067,8073]
+      },
+      {
+        "name": "Mistforged Obsidian Sword",
+        "weapon": [7951,7956]
+      },
+      {
+        "name": "Mistforged Obsidian Focus",
+        "weapon": [8129,8133]
+      },
+      {
+        "name": "Mistforged Obsidian Shield",
+        "weapon": [7958,7923]
+      },
+      {
+        "name": "Mistforged Obsidian Torch",
+        "weapon": [7978,7993]
+      },
+      {
+        "name": "Mistforged Obsidian Warhorn",
+        "weapon": [8332,8301]
+      },
+      {
+        "name": "Mistforged Obsidian Greatsword",
+        "weapon": [8137,8128]
+      },
+      {
+        "name": "Mistforged Obsidian Hammer",
+        "weapon": [8139,8134]
+      },
+      {
+        "name": "Mistforged Obsidian Longbow",
+        "weapon": [7935,7963]
+      },
+      {
+        "name": "Mistforged Obsidian Rifle",
+        "weapon": [8318,8307]
+      },
+      {
+        "name": "Mistforged Obsidian Short Bow",
+        "weapon": [8314,8303]
+      },
+      {
+        "name": "Mistforged Obsidian Staff",
+        "weapon": [7961,7977]
+      },
+      {
+        "name": "Onyx Lion Axe",
+        "weapon": [8235,8280]
+      },
+      {
+        "name": "Onyx Lion Dagger",
+        "weapon": [8257,8273]
+      },
+      {
+        "name": "Onyx Lion Mace",
+        "weapon": [8255,8267]
+      },
+      {
+        "name": "Onyx Lion Pistol",
+        "weapon": [8276,8285]
+      },
+      {
+        "name": "Onyx Lion Scepter",
+        "weapon": [8250,8275]
+      },
+      {
+        "name": "Onyx Lion Sword",
+        "weapon": [8244,8271]
+      },
+      {
+        "name": "Onyx Lion Focus",
+        "weapon": [8246,8298]
+      },
+      {
+        "name": "Onyx Lion Shield",
+        "weapon": [8245,8295]
+      },
+      {
+        "name": "Onyx Lion Torch",
+        "weapon": [8251,8293]
+      },
+      {
+        "name": "Onyx Lion Warhorn",
+        "weapon": [8236,8248]
+      },
+      {
+        "name": "Onyx Lion Greatsword",
+        "weapon": [8243,8292]
+      },
+      {
+        "name": "Onyx Lion Hammer",
+        "weapon": [8256,8269]
+      },
+      {
+        "name": "Onyx Lion Longbow",
+        "weapon": [8242,8286]
+      },
+      {
+        "name": "Onyx Lion Rifle",
+        "weapon": [8262,8279]
+      },
+      {
+        "name": "Onyx Lion Short Bow",
+        "weapon": [8237,8272]
+      },
+      {
+        "name": "Onyx Lion Staff",
+        "weapon": [8268,8274]
       },
       {
         "name": "Queensdale Academy Wand Set",

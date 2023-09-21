@@ -88,13 +88,13 @@
         2378,
         2379
       ],
-      "Fractal Capacitor > Ad Infinitum + Glider Combo": [
+      "Fractal Capacitor > Ad Infinitum": [
         6202,
         6234,
         6344,
         6474
       ],
-      "Wings of Glory / The Ascension + Glider Combo": [
+      "Wings of Glory / The Ascension": [
         6560,
         6561,
         6562,
@@ -102,7 +102,7 @@
         6573,
         6558
       ],
-      "Wings of War / Warbringer + Glider Combo": [
+      "Wings of War / Warbringer": [
         7248,
         7252,
         7256,
@@ -378,29 +378,26 @@
         5654,
         5708,
         5998,
+        6431,
         6554,
         6745,
-        7047,
-        7227,
-        7755,
-        8319,
-        8649,
-        10816,
-        10881
-      ],
-      "Standalone: Other + Glider Combo": [
         6854,
+        7047,
         7200,
+        7227,
         7285,
         7308,
         7661,
+        7755,
         7811,
         7996,
         8038,
         8141,
         8184,
+        8319,
         8638,
         8647,
+        8649,
         8725,
         8807,
         8930,
@@ -415,13 +412,12 @@
         10219,
         10503,
         10805,
+        10816,
+        10881,
         10941,
         11051,
         11428,
         11780
-      ],
-      "Standalone: Other + Miniature Combo": [
-        6431
       ],
       "Standalone: Other - Cape": [
         9050,
@@ -432,6 +428,7 @@
         9272,
         9333,
         9363,
+        9732,
         9400,
         9462,
         9483,
@@ -441,23 +438,18 @@
         9918,
         10005,
         10088,
+        10888,
         10104,
         10164,
         10192,
         10902,
         11070,
         11116,
-        11247,
-        11257
-      ],
-      "Standalone: Other - Cape + Armor Combo - Head": [
         11144,
-        11435
-      ],
-      "Standalone: Other - Cape + Glider Combo": [
-        9732,
-        10888,
+        11247,
+        11257,
         11400,
+        11435,
         11716
       ],
       "Standalone: Other - Plush": [
@@ -476,19 +468,15 @@
       "Standalone: Other - Quiver": [
         2369,
         6449,
-        7012
-      ],
-      "Standalone: Other - Quiver + Weapon Combo": [
+        7012,
         8021
       ],
       "Standalone: Other - Wings": [
-        6003,
-        6078,
-        6132
-      ],
-      "Standalone: Other - Wings + Glider Combo": [
         5878,
+        6003,
         6035,
+        6078,
+        6132,
         6527,
         6412,
         6615,
