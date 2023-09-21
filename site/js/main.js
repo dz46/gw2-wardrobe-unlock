@@ -204,6 +204,16 @@ var acquisitionMethods = [
     //{ id: "prepurchase", name: "Pre-purchase Reward", category: "Promotional Event"},
     { id: "promotionalevent", name: "Promotional Reward", category: "Promotional Event"},
 
+    //{ id: "armorcombo", name: "Armor Combo", category: "Combo"},
+    //{ id: "weaponcombo", name: "Weapon Combo", category: "Combo"},
+    //{ id: "backcombo", name: "Back Item Combo", category: "Combo"},
+    //{ id: "toolcombo", name: "Gathering Tool Combo", category: "Combo"},
+    //{ id: "outfitcombo", name: "Outfit Combo", category: "Combo"},
+    //{ id: "glidercombo", name: "Glider Combo", category: "Combo"},
+    //{ id: "mountcombo", name: "Mount Combo", category: "Combo"},
+    //{ id: "minicombo", name: "Miniature Combo", category: "Combo"},
+    //{ id: "emotecombo", name: "Emote Combo", category: "Combo"},
+
     { id: "eod", name: "End of Dragons", category: "Highlights", hideOnIcon: true, hideOnDetails: true},
     { id: "soto", name: "Secrets of the Obscure", category: "Highlights", hideOnIcon: true, hideOnDetails: true}
 
