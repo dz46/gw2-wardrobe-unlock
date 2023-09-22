@@ -308,12 +308,36 @@
         "weapon": [7450,7651]
       },
       {
-        "name": "Obsidian Axe",
-        "weapon": [8324,8302]
-      },
-      {
         "name": "Obsidian Dagger",
         "weapon": [7921,7946]
+      },
+      {
+        "name": "Obsidian Shield",
+        "weapon": [7918,7928]
+      },
+      {
+        "name": "Obsidian Torch",
+        "weapon": [7933,7971]
+      },
+      {
+        "name": "Obsidian Staff",
+        "weapon": [7949,7953]
+      },
+      {
+        "name": "Mistforged Obsidian Dagger",
+        "weapon": [7926,7974]
+      },
+      {
+        "name": "Mistforged Obsidian Shield",
+        "weapon": [7958,7923]
+      },
+      {
+        "name": "Mistforged Obsidian Torch",
+        "weapon": [7978,7993]
+      },
+      {
+        "name": "Mistforged Obsidian Staff",
+        "weapon": [7961,7977]
       },
       {
         "name": "Obsidian Mace",
@@ -332,54 +356,6 @@
         "weapon": [7962,7992]
       },
       {
-        "name": "Obsidian Focus",
-        "weapon": [8132,8136]
-      },
-      {
-        "name": "Obsidian Shield",
-        "weapon": [7918,7928]
-      },
-      {
-        "name": "Obsidian Torch",
-        "weapon": [7933,7971]
-      },
-      {
-        "name": "Obsidian Warhorn",
-        "weapon": [8310,8304]
-      },
-      {
-        "name": "Obsidian Greatsword",
-        "weapon": [8131,8140]
-      },
-      {
-        "name": "Obsidian Hammer",
-        "weapon": [8127,8130]
-      },
-      {
-        "name": "Obsidian Longbow",
-        "weapon": [7936,7980]
-      },
-      {
-        "name": "Obsidian Rifle",
-        "weapon": [8306,8323]
-      },
-      {
-        "name": "Obsidian Short Bow",
-        "weapon": [8312,8308]
-      },
-      {
-        "name": "Obsidian Staff",
-        "weapon": [7949,7953]
-      },
-      {
-        "name": "Mistforged Obsidian Axe",
-        "weapon": [8329,8325]
-      },
-      {
-        "name": "Mistforged Obsidian Dagger",
-        "weapon": [7926,7974]
-      },
-      {
         "name": "Mistforged Obsidian Mace",
         "weapon": [8077,8066]
       },
@@ -396,20 +372,24 @@
         "weapon": [7951,7956]
       },
       {
+        "name": "Obsidian Focus",
+        "weapon": [8132,8136]
+      },
+      {
+        "name": "Obsidian Greatsword",
+        "weapon": [8131,8140]
+      },
+      {
+        "name": "Obsidian Hammer",
+        "weapon": [8127,8130]
+      },
+      {
+        "name": "Obsidian Longbow",
+        "weapon": [7936,7980]
+      },
+      {
         "name": "Mistforged Obsidian Focus",
         "weapon": [8129,8133]
-      },
-      {
-        "name": "Mistforged Obsidian Shield",
-        "weapon": [7958,7923]
-      },
-      {
-        "name": "Mistforged Obsidian Torch",
-        "weapon": [7978,7993]
-      },
-      {
-        "name": "Mistforged Obsidian Warhorn",
-        "weapon": [8332,8301]
       },
       {
         "name": "Mistforged Obsidian Greatsword",
@@ -422,18 +402,6 @@
       {
         "name": "Mistforged Obsidian Longbow",
         "weapon": [7935,7963]
-      },
-      {
-        "name": "Mistforged Obsidian Rifle",
-        "weapon": [8318,8307]
-      },
-      {
-        "name": "Mistforged Obsidian Short Bow",
-        "weapon": [8314,8303]
-      },
-      {
-        "name": "Mistforged Obsidian Staff",
-        "weapon": [7961,7977]
       },
       {
         "name": "Onyx Lion Axe",
@@ -498,6 +466,38 @@
       {
         "name": "Onyx Lion Staff",
         "weapon": [8268,8274]
+      },
+      {
+        "name": "Obsidian Axe",
+        "weapon": [8324,8302]
+      },
+      {
+        "name": "Obsidian Warhorn",
+        "weapon": [8310,8304]
+      },
+      {
+        "name": "Obsidian Rifle",
+        "weapon": [8306,8323]
+      },
+      {
+        "name": "Obsidian Short Bow",
+        "weapon": [8312,8308]
+      },
+      {
+        "name": "Mistforged Obsidian Axe",
+        "weapon": [8329,8325]
+      },
+      {
+        "name": "Mistforged Obsidian Warhorn",
+        "weapon": [8332,8301]
+      },
+      {
+        "name": "Mistforged Obsidian Rifle",
+        "weapon": [8318,8307]
+      },
+      {
+        "name": "Mistforged Obsidian Short Bow",
+        "weapon": [8314,8303]
       },
       {
         "name": "Queensdale Academy Wand Set",
@@ -586,9 +586,24 @@
     "contents": [
       // Back Item + Glider
       {
-        "name": "Ad Infinitum",
-        "back": [6344],
-        "glider": [22]
+        "name": "Black Wings Glider Combo",
+        "back": [5878],
+        "glider": [1]
+      },
+      {
+        "name": "White Wings Glider Combo",
+        "back": [6035],
+        "glider": [3]
+      },
+      {
+        "name": "Bat Wings Glider Combo",
+        "back": [6412],
+        "glider": [6]
+      },
+      {
+        "name": "Golden Feather Wings Glider Combo",
+        "back": [6527],
+        "glider": [8]
       },
       {
         "name": "The Ascension",
@@ -596,11 +611,340 @@
         "glider": [11]
       },
       {
+        "name": "Hawk Wings Glider Combo",
+        "back": [6615],
+        "glider": [13]
+      },
+      {
+        "name": "Wings of Love Backpack Glider Combo",
+        "back": [8627],
+        "glider": [15]
+      },
+      {
+        "name": "Ad Infinitum",
+        "back": [6344],
+        "glider": [22]
+      },
+      {
+        "name": "Macaw Wings Glider Combo",
+        "back": [6744],
+        "glider": [23]
+      },
+      {
+        "name": "Moth Wings Glider Combo",
+        "back": [6774],
+        "glider": [24]
+      },
+      {
+        "name": "Shining Blade Backpack Glider Combo",
+        "back": [6854],
+        "glider": [28]
+      },
+      {
+        "name": "Mursaat Backpack Glider Combo",
+        "back": [6965],
+        "glider": [30]
+      },
+      {
+        "name": "Crystalline Dragon Wings Backpack Glider Combo",
+        "back": [7004],
+        "glider": [34]
+      },
+      {
+        "name": "Super Holo-Copter Glider Combo",
+        "back": [7200],
+        "glider": [40]
+      },
+      {
+        "name": "Vine-Touched Destroyer Glider Combo",
+        "back": [7202],
+        "glider": [42]
+      },
+      {
         "name": "Warbringer",
         "back": [7272],
         "glider": [43]
+      },
+      {
+        "name": "Dynamics Exo-Suit Glider Backpack Combo",
+        "back": [7285],
+        "glider": [45]
+      },
+      {
+        "name": "Feathers of the Zephyr Package",
+        "back": [7308],
+        "glider": [47]
+      },
+      {
+        "name": "Largos Fin Backpack Glider Combo",
+        "back": [7661],
+        "glider": [48]
+      },
+      {
+        "name": "Branded Wing Backpack and Glider Combo",
+        "back": [7743],
+        "glider": [51]
+      },
+      {
+        "name": "Desert King Backpack and Glider Combo",
+        "back": [8184],
+        "glider": [52]
+      },
+      {
+        "name": "Wild Magic Backpack Glider Combo",
+        "back": [7811],
+        "glider": [54]
+      },
+      {
+        "name": "Griffon Hatchling Package",
+        "back": [7996],
+        "glider": [56]
+      },
+      {
+        "name": "Forged Backpack and Glider Combo",
+        "back": [8038],
+        "glider": [57]
+      },
+      {
+        "name": "Jeweled Scarab Package",
+        "back": [8141],
+        "glider": [60]
+      },
+      {
+        "name": "Scaled Dragon Wings Backpack Glider Combo",
+        "back": [8434],
+        "glider": [63]
+      },
+      {
+        "name": "Etherbound Package",
+        "back": [8638],
+        "glider": [68]
+      },
+      {
+        "name": "Legion Jetpack Backpack Glider Combo",
+        "back": [8647],
+        "glider": [69]
+      },
+      {
+        "name": "Branded Relic Package",
+        "back": [8725],
+        "glider": [70]
+      },
+      {
+        "name": "Dragon Fireworks Package",
+        "back": [8807],
+        "glider": [72]
+      },
+      {
+        "name": "Lightbinder Blades Backpack and Glider Combo",
+        "back": [8883],
+        "glider": [75]
+      },
+      {
+        "name": "Watchwork Wings Package",
+        "back": [8915],
+        "glider": [77]
+      },
+      {
+        "name": "Citadel Assault Backpack and Glider Combo",
+        "back": [8930],
+        "glider": [79]
+      },
+      {
+        "name": "Skeletal Wings Backpack and Glider Combo",
+        "back": [8979],
+        "glider": [80]
+      },
+      {
+        "name": "Shiverpeaks Hunter Backpack Glider Combo",
+        "back": [9021],
+        "glider": [81]
+      },
+      {
+        "name": "Starlight Wings Backpack and Glider Combo",
+        "back": [9061],
+        "glider": [83]
+      },
+      {
+        "name": "Alchemist Backpack and Glider Combo",
+        "back": [9211],
+        "glider": [85]
+      },
+      {
+        "name": "Dreamwalker Wings Backpack and Glider Combo",
+        "back": [9298],
+        "glider": [86]
+      },
+      {
+        "name": "Draconic Wings Backpack and Glider Combo",
+        "back": [9364],
+        "glider": [87]
+      },
+      {
+        "name": "Tanglewood Backpack and Glider Combo",
+        "back": [9450],
+        "glider": [89]
+      },
+      {
+        "name": "Spellforged Glider Backpack Combo",
+        "back": [9474],
+        "glider": [90]
+      },
+      {
+        "name": "Vermilion Wings Backpack and Glider Combo",
+        "back": [9481],
+        "glider": [91]
+      },
+      {
+        "name": "Stained Glass Wings Backpack and Glider Combo",
+        "back": [9617],
+        "glider": [92]
+      },
+      {
+        "name": "Nightspeaker Wings Backpack and Glider Combo",
+        "back": [9659],
+        "glider": [93]
+      },
+      {
+        "name": "Volcanic Backpack and Glider Combo",
+        "back": [9671],
+        "glider": [94]
+      },
+      {
+        "name": "Shimmering Aurora Cape and Glider Combo",
+        "back": [9732],
+        "glider": [96]
+      },
+      {
+        "name": "Shrine Guardian Backpack and Glider Combo",
+        "back": [9769],
+        "glider": [95]
+      },
+      {
+        "name": "Eternal Mandala Backpack and Glider Combo",
+        "back": [9893],
+        "glider": [98]
+      },
+      {
+        "name": "Giant Shuriken Backpack and Glider Combo",
+        "back": [9969],
+        "glider": [99]
+      },
+      {
+        "name": "Seraph Wings Backpack and Glider Combo",
+        "back": [9992],
+        "glider": [100]
+      },
+      {
+        "name": "Cute Demon Wings Backpack and Glider Combo",
+        "back": [9999],
+        "glider": [101]
+      },
+      {
+        "name": "Elemental Fury Backpack and Glider Combo",
+        "back": [10010],
+        "glider": [102]
+      },
+      {
+        "name": "Archdemon Wings Backpack and Glider Combo",
+        "back": [10045],
+        "glider": [103]
+      },
+      {
+        "name": "Cute Angel Wings Backpack and Glider Combo",
+        "back": [10079],
+        "glider": [105]
+      },
+      {
+        "name": "Sylph Wings Backpack and Glider Combo",
+        "back": [10105],
+        "glider": [106]
+      },
+      {
+        "name": "Venombite Wings Backpack and Glider Combo",
+        "back": [10149],
+        "glider": [107]
+      },
+      {
+        "name": "Aurene Wings Backpack and Glider Combo",
+        "back": [10200],
+        "glider": [108]
+      },
+      {
+        "name": "Lunar Backpack and Glider Combo",
+        "back": [10219],
+        "glider": [109]
+      },
+      {
+        "name": "Canthan Spiritualist Backpack and Glider Combo",
+        "back": [10503],
+        "glider": [110]
+      },
+      {
+        "name": "Thousand Seas Gourd Backpack and Glider Combo",
+        "back": [10805],
+        "glider": [111]
+      },
+      {
+        "name": "Jade Tech Wings Backpack and Glider Combo",
+        "back": [10823],
+        "glider": [112]
+      },
+      {
+        "name": "New Kaineng Cape and Glider Combo",
+        "back": [10888],
+        "glider": [114]
+      },
+      {
+        "name": "Jade Tech Jetpack Backpack and Glider Combo",
+        "back": [10941],
+        "glider": [116]
+      },
+      {
+        "name": "Water Dragon Wings Backpack and Glider Combo",
+        "back": [10912],
+        "glider": [117]
+      },
+      {
+        "name": "Umbral Serpent Backpack and Glider Combo",
+        "back": [11051],
+        "glider": [118]
+      },
+      {
+        "name": "Lightning Wings Backpack and Glider Combo",
+        "back": [11125],
+        "glider": [119]
+      },
+      {
+        "name": "Canthan Phoenix Wings Backpack and Glider Combo",
+        "back": [11246],
+        "glider": [120]
+      },
+      {
+        "name": "Equinox Wings Backpack and Glider Combo",
+        "back": [11253],
+        "glider": [121]
+      },
+      {
+        "name": "Undying Shackles Cape and Glider Combo",
+        "back": [11400],
+        "glider": [122]
+      },
+      {
+        "name": "Cuddly Cat Backpack and Glider Combo",
+        "back": [11428],
+        "glider": [123]
+      },
+      {
+        "name": "Infernal Envoy Backpack and Glider Combo",
+        "back": [11780],
+        "glider": [125]
+      },
+      {
+        "name": "Sorcerer's Cape Backpack and Glider Combo",
+        "back": [11716],
+        "glider": [126]
       }
-      // TODO: WIP
     ]
   },
   // -----------------------------

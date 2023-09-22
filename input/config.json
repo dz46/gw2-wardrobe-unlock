@@ -938,15 +938,11 @@
         // Black Lion Exclusives Chest
         "82450": [
           // Gem Store
-          32,35,54,66,84,
-          // Gem Store + Back Item Combo
-          47,56,60,68,70,72,109,116,
-          // Gem Store + Back Item Combo - Cape
+          32,35,47,54,56,60,66,68,70,72,84,97,109,116,
+          // Gem Store - Cape
           96,
-          // Gem Store + Back Item Combo - Wings
-          77,83,86,91,100,103,112,
-          // Gem Store + Novelty Combo - Chair
-          97
+          // Gem Store - Wings
+          77,83,86,91,100,103,112
         ]
       }
     },
