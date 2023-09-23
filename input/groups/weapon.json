@@ -23,7 +23,7 @@
         3869,
         3871
       ],
-      "Region Series 1 > Ascalon Series 1 - Steam": [
+      "Loot Series 1 > Ascalon Series 1 - Steam": [
         5185,
         5218,
         5091,
@@ -44,7 +44,7 @@
         5210,
         5149
       ],
-      "Region Series 2 > Kryta Series 1 - Krytan": [
+      "Loot Series 2 > Kryta Series 1 - Krytan": [
         4992,
         4994,
         4995,
@@ -67,7 +67,7 @@
         4990,
         5022
       ],
-      "Region Series 3 > Shiverpeak Mountains Series 1 - Shiverpeak": [
+      "Loot Series 3 > Shiverpeak Mountains Series 1 - Shiverpeak": [
         5058,
         5158,
         5159,
@@ -90,7 +90,7 @@
         5150,
         5362
       ],
-      "Region Series 4 > Tarnished Coast Series 1 - Glyphic": [
+      "Loot Series 4 > Tarnished Coast Series 1 - Glyphic": [
         5217,
         5122,
         5124,
@@ -111,7 +111,7 @@
         5050,
         5151
       ],
-      "Region Series 5 > Ascalon Series 2 - Flame": [
+      "Loot Series 5 > Rare Series 1 > Ascalon Series 2 - Flame": [
         4743,
         5152,
         5155,
@@ -135,7 +135,7 @@
         5214,
         5086
       ],
-      "Region Series 6 > Kryta Series 2 - Aureate": [
+      "Loot Series 6 > Rare Series 2 > Kryta Series 2 - Aureate": [
         5024,
         4993,
         5025,
@@ -156,7 +156,7 @@
         5017,
         5023
       ],
-      "Region Series 7 > Shiverpeak Mountains Series 2 - Norn": [
+      "Loot Series 7 > Rare Series 3 > Shiverpeak Mountains Series 2 - Norn": [
         5153,
         5089,
         5096,
@@ -177,7 +177,7 @@
         5084,
         5117
       ],
-      "Region Series 8 > Tarnished Coast Series 2 - Verdant": [
+      "Loot Series 8 > Rare Series 4 > Tarnished Coast Series 2 - Verdant": [
         5156,
         5189,
         5125,
@@ -198,7 +198,7 @@
         5083,
         5054
       ],
-      "Region Series 9 > Ascalon Series 3 - Legionnaire": [
+      "Loot Series 9 > Exotic Series 1 > Ascalon Series 3 - Legionnaire": [
         4991,
         5056,
         5088,
@@ -221,7 +221,7 @@
         5116,
         5053
       ],
-      "Region Series 10 > Kryta Series 3 - Ceremonial": [
+      "Loot Series 10 > Exotic Series 2 > Kryta Series 3 - Ceremonial": [
         5120,
         5123,
         5221,
@@ -242,7 +242,7 @@
         5215,
         5119
       ],
-      "Region Series 11 > Shiverpeak Mountains Series 3 - Etched": [
+      "Loot Series 11 > Exotic Series 3 > Shiverpeak Mountains Series 3 - Etched": [
         5026,
         5028,
         5063,
@@ -264,7 +264,7 @@
         5303,
         5112
       ],
-      "Region Series 11 > Shiverpeak Mountains Series 3 - Etched > Corrupted": [
+      "Loot Series 11 > Exotic Series 3 > Shiverpeak Mountains Series 3 - Etched > Corrupted": [
         4037,
         4069,
         3974,
@@ -285,7 +285,7 @@
         4027,
         3963
       ],
-      "Region Series 12 > Tarnished Coast Series 3 - Tribal": [
+      "Loot Series 12 > Exotic Series 4 > Tarnished Coast Series 3 - Tribal": [
         4740,
         5184,
         5121,
@@ -307,7 +307,7 @@
         5118,
         5183
       ],
-      "Region Series 13 > Ruins of Orr Series - Orrian": [
+      "Loot Series 13 > Ruins of Orr Series - Orrian": [
         4865,
         5057,
         5093,
@@ -501,6 +501,27 @@
         4985,
         4637,
         4638
+      ],
+      "Renown Heart Series - Modniir": [
+        4608,
+        4643,
+        4645,
+        4613,
+        4647,
+        4618,
+        4587,
+        4651,
+        4524,
+        4652,
+        4655,
+        4592,
+        4594,
+        4595,
+        4660,
+        4662,
+        4631,
+        4632,
+        4634
       ],
       "Order Series 1: Durmand Priory - Priory's Historical": [
         4961,
@@ -1424,27 +1445,6 @@
         8896,
         8897,
         8898
-      ],
-      "Modniir": [
-        4608,
-        4643,
-        4645,
-        4613,
-        4647,
-        4618,
-        4587,
-        4651,
-        4524,
-        4652,
-        4655,
-        4592,
-        4594,
-        4595,
-        4660,
-        4662,
-        4631,
-        4632,
-        4634
       ],
       "Mystic": [
         5313,
