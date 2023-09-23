@@ -1139,8 +1139,28 @@
         "mini": [455,456,459]
       },
       {
+        "name": "Mini Spooky Mounts Pack",
+        "mini": [599,605,609,610,611]
+      },
+      {
+        "name": "Mini Cozy Wintersday Mounts Pack",
+        "mini": [627,629,631,633,635]
+      },
+      {
+        "name": "Mini Branded Mounts Pack",
+        "mini": [657,660,661,662,663]
+      },
+      {
         "name": "Mini Super Trio—Series 4",
         "mini": [676,677,678]
+      },
+      {
+        "name": "Mini Awakened Mounts Pack",
+        "mini": [689,691,693,694,699]
+      },
+      {
+        "name": "Mini Exo-Suit Mounts Pack",
+        "mini": [709,713,714,715,717]
       },
       // Back Item + Miniature
       {
