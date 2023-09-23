@@ -23,7 +23,7 @@
         3869,
         3871
       ],
-      "Region Series 1: Ascalon Tier 1 - Steam": [
+      "Region Series 1 > Ascalon Series 1 - Steam": [
         5185,
         5218,
         5091,
@@ -44,7 +44,74 @@
         5210,
         5149
       ],
-      "Region Series 1: Ascalon Tier 2 - Flame": [
+      "Region Series 2 > Kryta Series 1 - Krytan": [
+        4992,
+        4994,
+        4995,
+        4997,
+        4998,
+        5000,
+        5129,
+        5001,
+        5004,
+        5164,
+        5005,
+        5008,
+        5170,
+        5013,
+        5018,
+        5019,
+        5020,
+        5021,
+        4989,
+        4990,
+        5022
+      ],
+      "Region Series 3 > Shiverpeak Mountains Series 1 - Shiverpeak": [
+        5058,
+        5158,
+        5159,
+        5193,
+        5098,
+        5229,
+        5231,
+        5136,
+        5106,
+        5171,
+        5172,
+        5175,
+        5111,
+        5176,
+        5113,
+        5114,
+        5148,
+        5213,
+        5182,
+        5150,
+        5362
+      ],
+      "Region Series 4 > Tarnished Coast Series 1 - Glyphic": [
+        5217,
+        5122,
+        5124,
+        5188,
+        5061,
+        5222,
+        5095,
+        5192,
+        5033,
+        5165,
+        5135,
+        5201,
+        5234,
+        5237,
+        5239,
+        5207,
+        5178,
+        5050,
+        5151
+      ],
+      "Region Series 5 > Ascalon Series 2 - Flame": [
         4743,
         5152,
         5155,
@@ -68,7 +135,70 @@
         5214,
         5086
       ],
-      "Region Series 1: Ascalon Tier 3 - Legionnaire": [
+      "Region Series 6 > Kryta Series 2 - Aureate": [
+        5024,
+        4993,
+        5025,
+        5154,
+        5027,
+        5029,
+        4999,
+        5002,
+        5003,
+        5006,
+        5007,
+        5009,
+        5010,
+        5011,
+        5012,
+        5015,
+        5016,
+        5017,
+        5023
+      ],
+      "Region Series 7 > Shiverpeak Mountains Series 2 - Norn": [
+        5153,
+        5089,
+        5096,
+        5162,
+        5194,
+        5228,
+        5230,
+        5103,
+        5104,
+        5138,
+        5235,
+        5108,
+        5109,
+        5078,
+        5174,
+        5047,
+        5115,
+        5084,
+        5117
+      ],
+      "Region Series 8 > Tarnished Coast Series 2 - Verdant": [
+        5156,
+        5189,
+        5125,
+        5094,
+        5190,
+        5062,
+        3881,
+        5101,
+        5134,
+        5072,
+        5137,
+        5203,
+        5076,
+        5014,
+        5110,
+        5079,
+        5081,
+        5083,
+        5054
+      ],
+      "Region Series 9 > Ascalon Series 3 - Legionnaire": [
         4991,
         5056,
         5088,
@@ -91,51 +221,7 @@
         5116,
         5053
       ],
-      "Region Series 2: Kryta Tier 1 - Krytan": [
-        4992,
-        4994,
-        4995,
-        4997,
-        4998,
-        5000,
-        5129,
-        5001,
-        5004,
-        5164,
-        5005,
-        5008,
-        5170,
-        5013,
-        5018,
-        5019,
-        5020,
-        5021,
-        4989,
-        4990,
-        5022
-      ],
-      "Region Series 2: Kryta Tier 2 - Aureate": [
-        5024,
-        4993,
-        5025,
-        5154,
-        5027,
-        5029,
-        4999,
-        5002,
-        5003,
-        5006,
-        5007,
-        5009,
-        5010,
-        5011,
-        5012,
-        5015,
-        5016,
-        5017,
-        5023
-      ],
-      "Region Series 2: Kryta Tier 3 - Ceremonial": [
+      "Region Series 10 > Kryta Series 3 - Ceremonial": [
         5120,
         5123,
         5221,
@@ -156,51 +242,7 @@
         5215,
         5119
       ],
-      "Region Series 3: Shiverpeak Mountains Tier 1 - Shiverpeak": [
-        5058,
-        5158,
-        5159,
-        5193,
-        5098,
-        5229,
-        5231,
-        5136,
-        5106,
-        5171,
-        5172,
-        5175,
-        5111,
-        5176,
-        5113,
-        5114,
-        5148,
-        5213,
-        5182,
-        5150,
-        5362
-      ],
-      "Region Series 3: Shiverpeak Mountains Tier 2 - Norn": [
-        5153,
-        5089,
-        5096,
-        5162,
-        5194,
-        5228,
-        5230,
-        5103,
-        5104,
-        5138,
-        5235,
-        5108,
-        5109,
-        5078,
-        5174,
-        5047,
-        5115,
-        5084,
-        5117
-      ],
-      "Region Series 3: Shiverpeak Mountains Tier 3 - Etched": [
+      "Region Series 11 > Shiverpeak Mountains Series 3 - Etched": [
         5026,
         5028,
         5063,
@@ -222,7 +264,7 @@
         5303,
         5112
       ],
-      "Region Series 3: Shiverpeak Mountains Tier 3 - Etched > Corrupted": [
+      "Region Series 11 > Shiverpeak Mountains Series 3 - Etched > Corrupted": [
         4037,
         4069,
         3974,
@@ -243,49 +285,7 @@
         4027,
         3963
       ],
-      "Region Series 4: Tarnished Coast Tier 1 - Glyphic": [
-        5217,
-        5122,
-        5124,
-        5188,
-        5061,
-        5222,
-        5095,
-        5192,
-        5033,
-        5165,
-        5135,
-        5201,
-        5234,
-        5237,
-        5239,
-        5207,
-        5178,
-        5050,
-        5151
-      ],
-      "Region Series 4: Tarnished Coast Tier 2 - Verdant": [
-        5156,
-        5189,
-        5125,
-        5094,
-        5190,
-        5062,
-        3881,
-        5101,
-        5134,
-        5072,
-        5137,
-        5203,
-        5076,
-        5014,
-        5110,
-        5079,
-        5081,
-        5083,
-        5054
-      ],
-      "Region Series 4: Tarnished Coast Tier 3 - Tribal": [
+      "Region Series 12 > Tarnished Coast Series 3 - Tribal": [
         4740,
         5184,
         5121,
@@ -307,7 +307,7 @@
         5118,
         5183
       ],
-      "Region Series 5: Ruins of Orr - Orrian": [
+      "Region Series 13 > Ruins of Orr Series - Orrian": [
         4865,
         5057,
         5093,
@@ -328,7 +328,7 @@
         5055,
         5087
       ],
-      "Cultural Series 1: Asura - Peacemaker": [
+      "Cultural Series 1 > Asura Series - Peacemaker": [
         4288,
         4263,
         4296,
@@ -349,7 +349,7 @@
         4350,
         4287
       ],
-      "Cultural Series 2: Charr - Adamant Guard": [
+      "Cultural Series 2 > Charr Series - Adamant Guard": [
         4321,
         4289,
         4322,
@@ -370,7 +370,7 @@
         4351,
         4319
       ],
-      "Cultural Series 3: Human - Seraph": [
+      "Cultural Series 3 > Human Series - Seraph": [
         4352,
         4291,
         4324,
@@ -391,7 +391,7 @@
         4317,
         4285
       ],
-      "Cultural Series 4: Norn - Wolfborn": [
+      "Cultural Series 4 > Norn Series - Wolfborn": [
         4293,
         4294,
         4297,
@@ -412,7 +412,7 @@
         4316,
         4286
       ],
-      "Cultural Series 5: Sylvari - Warden": [
+      "Cultural Series 5 > Sylvari Series - Warden": [
         4320,
         4257,
         4258,
@@ -565,7 +565,7 @@
         4957,
         4926
       ],
-      "Crafting Tier Series 1 - Bronze / Green Wood": [
+      "Crafting Series 1 - Bronze / Green Wood": [
         4048,
         4004,
         4005,
@@ -586,7 +586,7 @@
         3883,
         3900
       ],
-      "Crafting Tier Series 2 - Iron / Soft Wood": [
+      "Crafting Series 2 - Iron / Soft Wood": [
         4000,
         3875,
         4009,
@@ -608,7 +608,7 @@
         3887,
         4156
       ],
-      "Crafting Tier Series 3 - Steel / Seasoned Wood": [
+      "Crafting Series 3 - Steel / Seasoned Wood": [
         5696,
         5697,
         5682,
@@ -629,7 +629,7 @@
         5688,
         5679
       ],
-      "Crafting Tier Series 4 - Darksteel / Hard Wood": [
+      "Crafting Series 4 - Darksteel / Hard Wood": [
         4049,
         4034,
         4006,
@@ -650,7 +650,7 @@
         3998,
         3919
       ],
-      "Crafting Tier Series 5 - Mithril / Elder Wood": [
+      "Crafting Series 5 - Mithril / Elder Wood": [
         4081,
         4114,
         4083,
@@ -671,7 +671,7 @@
         3965,
         3950
       ],
-      "Crafting Tier Series 6 - Bandit": [
+      "Crafting Series 6 > Rare Series 1 - Bandit": [
         4096,
         3905,
         4066,
@@ -693,7 +693,7 @@
         4029,
         3903
       ],
-      "Crafting Tier Series 7 - Dredge": [
+      "Crafting Series 7 > Rare Series 2 - Dredge": [
         3936,
         3937,
         4002,
@@ -714,7 +714,7 @@
         4028,
         3966
       ],
-      "Crafting Tier Series 8 - Ogre": [
+      "Crafting Series 8 > Rare Series 3 - Ogre": [
         4064,
         4033,
         4065,
@@ -735,7 +735,7 @@
         3993,
         4095
       ],
-      "Crafting Tier Series 9 - Krait": [
+      "Crafting Series 9 > Rare Series 4 - Krait": [
         3973,
         4106,
         4108,
@@ -757,7 +757,7 @@
         4063,
         4712
       ],
-      "Crafting Tier Series 10 - Pearl": [
+      "Crafting Series 10 > Exotic Series - Pearl": [
         4097,
         4098,
         4099,
@@ -778,7 +778,7 @@
         3995,
         3967
       ],
-      "Ascended Series 1 - Calcite Antique": [
+      "Crafting Series 11 > Ascended Series 1 - Calcite Antique": [
         4226,
         4163,
         4133,
@@ -799,7 +799,7 @@
         4190,
         4255
       ],
-      "Ascended Series 2 - Citrine Antique": [
+      "Crafting Series 12 > Ascended Series 2 - Citrine Antique": [
         4130,
         4195,
         4196,
@@ -820,7 +820,7 @@
         4126,
         4159
       ],
-      "Ascended Series 3 - Cobalt Antique": [
+      "Crafting Series 13 > Ascended Series 3 - Cobalt Antique": [
         4225,
         4162,
         4131,
@@ -841,7 +841,7 @@
         4188,
         4254
       ],
-      "Ascended Series 4 - Crimson Antique": [
+      "Crafting Series 14 > Ascended Series 4 - Crimson Antique": [
         4128,
         4160,
         4198,
@@ -862,7 +862,7 @@
         4125,
         4223
       ],
-      "Ascended Series 5 - Terracotta Antique": [
+      "Crafting Series 15 > Ascended Series 5 - Terracotta Antique": [
         4224,
         4129,
         4161,
@@ -883,7 +883,7 @@
         4187,
         4253
       ],
-      "Ascended Series 6 - Violet Antique": [
+      "Crafting Series 16 > Ascended Series 6 - Violet Antique": [
         4256,
         4193,
         4227,
@@ -904,7 +904,7 @@
         4157,
         4191
       ],
-      "Ascended Series 7 - Viridian Antique": [
+      "Crafting Series 17 > Ascended Series 7 - Viridian Antique": [
         4192,
         4194,
         4165,
