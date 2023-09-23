@@ -23,7 +23,7 @@
         3869,
         3871
       ],
-      "Loot Tier 1 Series 1: Ascalon - Steam": [
+      "Region Series 1: Ascalon Tier 1 - Steam": [
         5185,
         5218,
         5091,
@@ -44,74 +44,7 @@
         5210,
         5149
       ],
-      "Loot Tier 1 Series 2: Kryta - Krytan": [
-        4992,
-        4994,
-        4995,
-        4997,
-        4998,
-        5000,
-        5129,
-        5001,
-        5004,
-        5164,
-        5005,
-        5008,
-        5170,
-        5013,
-        5018,
-        5019,
-        5020,
-        5021,
-        4989,
-        4990,
-        5022
-      ],
-      "Loot Tier 1 Series 3: Shiverpeak Mountains - Shiverpeak": [
-        5058,
-        5158,
-        5159,
-        5193,
-        5098,
-        5229,
-        5231,
-        5136,
-        5106,
-        5171,
-        5172,
-        5175,
-        5111,
-        5176,
-        5113,
-        5114,
-        5148,
-        5213,
-        5182,
-        5150,
-        5362
-      ],
-      "Loot Tier 1 Series 4: Tarnished Coast - Glyphic": [
-        5217,
-        5122,
-        5124,
-        5188,
-        5061,
-        5222,
-        5095,
-        5192,
-        5033,
-        5165,
-        5135,
-        5201,
-        5234,
-        5237,
-        5239,
-        5207,
-        5178,
-        5050,
-        5151
-      ],
-      "Loot Tier 2 Series 1: Ascalon - Flame": [
+      "Region Series 1: Ascalon Tier 2 - Flame": [
         4743,
         5152,
         5155,
@@ -135,70 +68,7 @@
         5214,
         5086
       ],
-      "Loot Tier 2 Series 2: Kryta - Aureate": [
-        5024,
-        4993,
-        5025,
-        5154,
-        5027,
-        5029,
-        4999,
-        5002,
-        5003,
-        5006,
-        5007,
-        5009,
-        5010,
-        5011,
-        5012,
-        5015,
-        5016,
-        5017,
-        5023
-      ],
-      "Loot Tier 2 Series 3: Shiverpeak Mountains - Norn": [
-        5153,
-        5089,
-        5096,
-        5162,
-        5194,
-        5228,
-        5230,
-        5103,
-        5104,
-        5138,
-        5235,
-        5108,
-        5109,
-        5078,
-        5174,
-        5047,
-        5115,
-        5084,
-        5117
-      ],
-      "Loot Tier 2 Series 4: Tarnished Coast - Verdant": [
-        5156,
-        5189,
-        5125,
-        5094,
-        5190,
-        5062,
-        3881,
-        5101,
-        5134,
-        5072,
-        5137,
-        5203,
-        5076,
-        5014,
-        5110,
-        5079,
-        5081,
-        5083,
-        5054
-      ],
-      "Loot Tier 3 Series 1: Ascalon - Legionnaire": [
+      "Region Series 1: Ascalon Tier 3 - Legionnaire": [
         4991,
         5056,
         5088,
@@ -221,7 +91,51 @@
         5116,
         5053
       ],
-      "Loot Tier 3 Series 2: Kryta - Ceremonial": [
+      "Region Series 2: Kryta Tier 1 - Krytan": [
+        4992,
+        4994,
+        4995,
+        4997,
+        4998,
+        5000,
+        5129,
+        5001,
+        5004,
+        5164,
+        5005,
+        5008,
+        5170,
+        5013,
+        5018,
+        5019,
+        5020,
+        5021,
+        4989,
+        4990,
+        5022
+      ],
+      "Region Series 2: Kryta Tier 2 - Aureate": [
+        5024,
+        4993,
+        5025,
+        5154,
+        5027,
+        5029,
+        4999,
+        5002,
+        5003,
+        5006,
+        5007,
+        5009,
+        5010,
+        5011,
+        5012,
+        5015,
+        5016,
+        5017,
+        5023
+      ],
+      "Region Series 2: Kryta Tier 3 - Ceremonial": [
         5120,
         5123,
         5221,
@@ -242,7 +156,51 @@
         5215,
         5119
       ],
-      "Loot Tier 3 Series 3: Shiverpeak Mountains - Etched": [
+      "Region Series 3: Shiverpeak Mountains Tier 1 - Shiverpeak": [
+        5058,
+        5158,
+        5159,
+        5193,
+        5098,
+        5229,
+        5231,
+        5136,
+        5106,
+        5171,
+        5172,
+        5175,
+        5111,
+        5176,
+        5113,
+        5114,
+        5148,
+        5213,
+        5182,
+        5150,
+        5362
+      ],
+      "Region Series 3: Shiverpeak Mountains Tier 2 - Norn": [
+        5153,
+        5089,
+        5096,
+        5162,
+        5194,
+        5228,
+        5230,
+        5103,
+        5104,
+        5138,
+        5235,
+        5108,
+        5109,
+        5078,
+        5174,
+        5047,
+        5115,
+        5084,
+        5117
+      ],
+      "Region Series 3: Shiverpeak Mountains Tier 3 - Etched": [
         5026,
         5028,
         5063,
@@ -264,7 +222,7 @@
         5303,
         5112
       ],
-      "Loot Tier 3 Series 3: Shiverpeak Mountains - Etched > Corrupted": [
+      "Region Series 3: Shiverpeak Mountains Tier 3 - Etched > Corrupted": [
         4037,
         4069,
         3974,
@@ -285,7 +243,49 @@
         4027,
         3963
       ],
-      "Loot Tier 3 Series 4: Tarnished Coast - Tribal": [
+      "Region Series 4: Tarnished Coast Tier 1 - Glyphic": [
+        5217,
+        5122,
+        5124,
+        5188,
+        5061,
+        5222,
+        5095,
+        5192,
+        5033,
+        5165,
+        5135,
+        5201,
+        5234,
+        5237,
+        5239,
+        5207,
+        5178,
+        5050,
+        5151
+      ],
+      "Region Series 4: Tarnished Coast Tier 2 - Verdant": [
+        5156,
+        5189,
+        5125,
+        5094,
+        5190,
+        5062,
+        3881,
+        5101,
+        5134,
+        5072,
+        5137,
+        5203,
+        5076,
+        5014,
+        5110,
+        5079,
+        5081,
+        5083,
+        5054
+      ],
+      "Region Series 4: Tarnished Coast Tier 3 - Tribal": [
         4740,
         5184,
         5121,
@@ -307,7 +307,7 @@
         5118,
         5183
       ],
-      "Loot Tier 3 Series 5: Ruins of Orr - Orrian": [
+      "Region Series 5: Ruins of Orr - Orrian": [
         4865,
         5057,
         5093,
@@ -565,7 +565,7 @@
         4957,
         4926
       ],
-      "Crafting Tier 1 Series 1: Novice - Bronze / Green Wood": [
+      "Crafting Tier Series 1 - Bronze / Green Wood": [
         4048,
         4004,
         4005,
@@ -586,7 +586,7 @@
         3883,
         3900
       ],
-      "Crafting Tier 1 Series 2: Initiate - Iron / Soft Wood": [
+      "Crafting Tier Series 2 - Iron / Soft Wood": [
         4000,
         3875,
         4009,
@@ -608,7 +608,7 @@
         3887,
         4156
       ],
-      "Crafting Tier 1 Series 3: Apprentice - Steel / Seasoned Wood": [
+      "Crafting Tier Series 3 - Steel / Seasoned Wood": [
         5696,
         5697,
         5682,
@@ -629,7 +629,7 @@
         5688,
         5679
       ],
-      "Crafting Tier 1 Series 4: Journeyman - Darksteel / Hard Wood": [
+      "Crafting Tier Series 4 - Darksteel / Hard Wood": [
         4049,
         4034,
         4006,
@@ -650,7 +650,7 @@
         3998,
         3919
       ],
-      "Crafting Tier 1 Series 5: Adept - Mithril / Elder Wood": [
+      "Crafting Tier Series 5 - Mithril / Elder Wood": [
         4081,
         4114,
         4083,
@@ -671,7 +671,7 @@
         3965,
         3950
       ],
-      "Crafting Tier 2 Series 1: Initiate - Bandit": [
+      "Crafting Tier Series 6 - Bandit": [
         4096,
         3905,
         4066,
@@ -693,7 +693,7 @@
         4029,
         3903
       ],
-      "Crafting Tier 2 Series 2: Apprentice - Dredge": [
+      "Crafting Tier Series 7 - Dredge": [
         3936,
         3937,
         4002,
@@ -714,7 +714,7 @@
         4028,
         3966
       ],
-      "Crafting Tier 2 Series 3: Journeyman - Ogre": [
+      "Crafting Tier Series 8 - Ogre": [
         4064,
         4033,
         4065,
@@ -735,7 +735,7 @@
         3993,
         4095
       ],
-      "Crafting Tier 2 Series 4: Adept - Krait": [
+      "Crafting Tier Series 9 - Krait": [
         3973,
         4106,
         4108,
@@ -757,7 +757,7 @@
         4063,
         4712
       ],
-      "Crafting Tier 3 Series: Master - Pearl": [
+      "Crafting Tier Series 10 - Pearl": [
         4097,
         4098,
         4099,
@@ -778,7 +778,7 @@
         3995,
         3967
       ],
-      "Crafting Tier 4 Series 1: Grandmaster - Calcite Antique": [
+      "Ascended Series 1 - Calcite Antique": [
         4226,
         4163,
         4133,
@@ -799,7 +799,7 @@
         4190,
         4255
       ],
-      "Crafting Tier 4 Series 2: Grandmaster - Citrine Antique": [
+      "Ascended Series 2 - Citrine Antique": [
         4130,
         4195,
         4196,
@@ -820,7 +820,7 @@
         4126,
         4159
       ],
-      "Crafting Tier 4 Series 3: Grandmaster - Cobalt Antique": [
+      "Ascended Series 3 - Cobalt Antique": [
         4225,
         4162,
         4131,
@@ -841,7 +841,7 @@
         4188,
         4254
       ],
-      "Crafting Tier 4 Series 4: Grandmaster - Crimson Antique": [
+      "Ascended Series 4 - Crimson Antique": [
         4128,
         4160,
         4198,
@@ -862,7 +862,7 @@
         4125,
         4223
       ],
-      "Crafting Tier 4 Series 5: Grandmaster - Terracotta Antique": [
+      "Ascended Series 5 - Terracotta Antique": [
         4224,
         4129,
         4161,
@@ -883,7 +883,7 @@
         4187,
         4253
       ],
-      "Crafting Tier 4 Series 6: Grandmaster - Violet Antique": [
+      "Ascended Series 6 - Violet Antique": [
         4256,
         4193,
         4227,
@@ -904,7 +904,7 @@
         4157,
         4191
       ],
-      "Crafting Tier 4 Series 7: Grandmaster - Viridian Antique": [
+      "Ascended Series 7 - Viridian Antique": [
         4192,
         4194,
         4165,

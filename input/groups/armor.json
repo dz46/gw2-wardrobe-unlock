@@ -24,7 +24,7 @@
         855,
         856
       ],
-      "Loot Tier 1 Series 1 - Country / Studded / Worn Chain": [
+      "Loot Series 1 - Country / Studded / Worn Chain": [
         64,
         18,
         98,
@@ -44,7 +44,7 @@
         40,
         14
       ],
-      "Loot Tier 1 Series 2 - Magician / Swindler / Worn Scale": [
+      "Loot Series 2 - Magician / Swindler / Worn Scale": [
         34,
         100,
         69,
@@ -64,7 +64,7 @@
         23,
         24
       ],
-      "Loot Tier 1 Series 3 - Cabalist / Privateer / Reinforced Scale": [
+      "Loot Series 3 - Cabalist / Privateer / Reinforced Scale": [
         49,
         82,
         51,
@@ -84,7 +84,7 @@
         42,
         77
       ],
-      "Loot Tier 2 Series - Conjurer / Marauder / Banded": [
+      "Loot Series 4 - Conjurer / Marauder / Banded": [
         88,
         90,
         106,
@@ -104,7 +104,7 @@
         55,
         104
       ],
-      "Loot Tier III Series - Seer / Sneakthief / Scallywag": [
+      "Loot Series 5 - Seer / Sneakthief / Scallywag": [
         39,
         9,
         10,
@@ -124,7 +124,7 @@
         27,
         92
       ],
-      "Cultural Tier 1 Series 1: Asura - Adept / Protean / Galvanic": [
+      "Cultural Series 1: Asura Tier 1 - Adept / Protean / Galvanic": [
         273,
         289,
         263,
@@ -144,87 +144,7 @@
         267,
         303
       ],
-      "Cultural Tier 1 Series 2: Charr - Invoker / Drover / Warband": [
-        322,
-        324,
-        342,
-        328,
-        317,
-        318,
-        320,
-        325,
-        329,
-        333,
-        350,
-        319,
-        352,
-        337,
-        321,
-        323,
-        332,
-        334
-      ],
-      "Cultural Tier 1 Series 3: Human - Researcher / Scout / Commander": [
-        371,
-        372,
-        376,
-        377,
-        394,
-        381,
-        384,
-        386,
-        375,
-        392,
-        409,
-        378,
-        387,
-        404,
-        373,
-        374,
-        380,
-        383
-      ],
-      "Cultural Tier 1 Series 4: Norn - Sheepskin / Wolfborn / Dolyak": [
-        440,
-        442,
-        445,
-        429,
-        462,
-        430,
-        432,
-        452,
-        437,
-        425,
-        426,
-        431,
-        433,
-        435,
-        438,
-        454,
-        427,
-        428
-      ],
-      "Cultural Tier 1 Series 5: Sylvari - Snapdragon / Evergreen / Arborist": [
-        496,
-        483,
-        500,
-        519,
-        494,
-        479,
-        481,
-        482,
-        488,
-        491,
-        493,
-        510,
-        480,
-        484,
-        485,
-        486,
-        505,
-        490
-      ],
-      "Cultural Tier 2 Series 1: Asura - Genius / Auxiliary Powered / Electroplated": [
+      "Cultural Series 1: Asura Tier 2 - Genius / Auxiliary Powered / Electroplated": [
         293,
         310,
         279,
@@ -244,87 +164,7 @@
         285,
         286
       ],
-      "Cultural Tier 2 Series 2: Charr - Archon / Wrangler / Legion": [
-        336,
-        353,
-        346,
-        348,
-        367,
-        335,
-        341,
-        326,
-        345,
-        362,
-        331,
-        351,
-        338,
-        339,
-        358,
-        327,
-        344,
-        330
-      ],
-      "Cultural Tier 2 Series 3: Human - Aristocrat / Falconer / Avenger": [
-        389,
-        393,
-        379,
-        396,
-        382,
-        415,
-        416,
-        385,
-        403,
-        388,
-        397,
-        398,
-        400,
-        420,
-        405,
-        406,
-        390,
-        391
-      ],
-      "Cultural Tier 2 Series 4: Norn - Havroun / Predatory / Eagle": [
-        448,
-        434,
-        467,
-        436,
-        444,
-        446,
-        455,
-        457,
-        475,
-        443,
-        460,
-        447,
-        449,
-        450,
-        439,
-        456,
-        441,
-        473
-      ],
-      "Cultural Tier 2 Series 5: Sylvari - Orchid / Nightshade / Warden": [
-        512,
-        498,
-        517,
-        492,
-        509,
-        527,
-        503,
-        487,
-        521,
-        506,
-        508,
-        495,
-        528,
-        497,
-        499,
-        501,
-        502,
-        489
-      ],
-      "Cultural Tier III Series 1: Asura - Savant / Prototype / Electromagnetic": [
+      "Cultural Series 1: Asura Tier 3 - Savant / Prototype / Electromagnetic": [
         309,
         294,
         311,
@@ -344,7 +184,47 @@
         300,
         302
       ],
-      "Cultural Tier III Series 2: Charr - Magus / Trapper / Dreadnought": [
+      "Cultural Series 2: Charr Tier 1 - Invoker / Drover / Warband": [
+        322,
+        324,
+        342,
+        328,
+        317,
+        318,
+        320,
+        325,
+        329,
+        333,
+        350,
+        319,
+        352,
+        337,
+        321,
+        323,
+        332,
+        334
+      ],
+      "Cultural Series 2: Charr Tier 2 - Archon / Wrangler / Legion": [
+        336,
+        353,
+        346,
+        348,
+        367,
+        335,
+        341,
+        326,
+        345,
+        362,
+        331,
+        351,
+        338,
+        339,
+        358,
+        327,
+        344,
+        330
+      ],
+      "Cultural Series 2: Charr Tier 3 - Magus / Trapper / Dreadnought": [
         368,
         354,
         356,
@@ -364,7 +244,47 @@
         347,
         364
       ],
-      "Cultural Tier III Series 3: Human - Sorcerer / Assassin / Protector": [
+      "Cultural Series 3: Human Tier 1 - Researcher / Scout / Commander": [
+        371,
+        372,
+        376,
+        377,
+        394,
+        381,
+        384,
+        386,
+        375,
+        392,
+        409,
+        378,
+        387,
+        404,
+        373,
+        374,
+        380,
+        383
+      ],
+      "Cultural Series 3: Human Tier 2 - Aristocrat / Falconer / Avenger": [
+        389,
+        393,
+        379,
+        396,
+        382,
+        415,
+        416,
+        385,
+        403,
+        388,
+        397,
+        398,
+        400,
+        420,
+        405,
+        406,
+        390,
+        391
+      ],
+      "Cultural Series 3: Human Tier 3 - Sorcerer / Assassin / Protector": [
         422,
         410,
         411,
@@ -384,7 +304,47 @@
         413,
         414
       ],
-      "Cultural Tier III Series 4: Norn - Lupine / Wolf / Stag": [
+      "Cultural Series 4: Norn Tier 1 - Sheepskin / Wolfborn / Dolyak": [
+        440,
+        442,
+        445,
+        429,
+        462,
+        430,
+        432,
+        452,
+        437,
+        425,
+        426,
+        431,
+        433,
+        435,
+        438,
+        454,
+        427,
+        428
+      ],
+      "Cultural Series 4: Norn Tier 2 - Havroun / Predatory / Eagle": [
+        448,
+        434,
+        467,
+        436,
+        444,
+        446,
+        455,
+        457,
+        475,
+        443,
+        460,
+        447,
+        449,
+        450,
+        439,
+        456,
+        441,
+        473
+      ],
+      "Cultural Series 4: Norn Tier 3 - Lupine / Wolf / Stag": [
         465,
         470,
         471,
@@ -404,7 +364,47 @@
         459,
         477
       ],
-      "Cultural Tier III Series 5: Sylvari - Dryad / Firstborn / Oaken": [
+      "Cultural Series 5: Sylvari Tier 1 - Snapdragon / Evergreen / Arborist": [
+        496,
+        483,
+        500,
+        519,
+        494,
+        479,
+        481,
+        482,
+        488,
+        491,
+        493,
+        510,
+        480,
+        484,
+        485,
+        486,
+        505,
+        490
+      ],
+      "Cultural Series 5: Sylvari Tier 2 - Orchid / Nightshade / Warden": [
+        512,
+        498,
+        517,
+        492,
+        509,
+        527,
+        503,
+        487,
+        521,
+        506,
+        508,
+        495,
+        528,
+        497,
+        499,
+        501,
+        502,
+        489
+      ],
+      "Cultural Series 5: Sylvari Tier 3 - Dryad / Firstborn / Oaken": [
         529,
         514,
         532,
@@ -565,7 +565,7 @@
         1406,
         1407
       ],
-      "Crafting Tier 1 Series 1: Novice - Embroidered / Seeker / Chain": [
+      "Crafting Tier Series 1 - Embroidered / Seeker / Chain": [
         165,
         153,
         170,
@@ -585,7 +585,7 @@
         207,
         223
       ],
-      "Crafting Tier 1 Series 2: Initiate - Student / Outlaw / Scale": [
+      "Crafting Tier Series 2 - Student / Outlaw / Scale": [
         145,
         166,
         154,
@@ -605,7 +605,7 @@
         210,
         227
       ],
-      "Crafting Tier 1 Series 3: Apprentice - Acolyte / Leather / Splint": [
+      "Crafting Tier Series 3 - Acolyte / Leather / Splint": [
         160,
         146,
         147,
@@ -625,7 +625,7 @@
         125,
         126
       ],
-      "Crafting Tier 1 Series 4: Journeyman - Winged / Rascal / Tempered Scale": [
+      "Crafting Tier Series 4 - Winged / Rascal / Tempered Scale": [
         183,
         167,
         168,
@@ -645,7 +645,7 @@
         137,
         139
       ],
-      "Crafting Tier 1 Series 5: Adept - Feathered / Prowler / Barbaric": [
+      "Crafting Tier Series 5 - Feathered / Prowler / Barbaric": [
         177,
         163,
         164,
@@ -665,7 +665,7 @@
         235,
         206
       ],
-      "Crafting Tier 2 Series: Initiate / Apprentice / Journeyman / Adept - Masquerade / Noble / Gladiator": [
+      "Crafting Tier Series 6 - Masquerade / Noble / Gladiator": [
         228,
         213,
         247,
@@ -685,7 +685,7 @@
         212,
         229
       ],
-      "Crafting Tier III Series: Master - Exalted / Emblazoned / Draconic": [
+      "Crafting Tier Series 7 - Exalted / Emblazoned / Draconic": [
         161,
         162,
         178,
@@ -705,7 +705,7 @@
         138,
         140
       ],
-      "Crafting Tier 4 Series: Grandmaster - Illustrious": [
+      "Ascended Series - Illustrious": [
         107,
         108,
         109,
