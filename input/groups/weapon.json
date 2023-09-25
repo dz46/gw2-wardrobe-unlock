@@ -2074,7 +2074,7 @@
         6461,
         6366
       ],
-      "Caladbolg": [
+      "Broken Caladbolg / Regrown Caladbolg / Caladbolg Origin": [
         6264,
         6403,
         7160,
@@ -5753,27 +5753,23 @@
         10072,
         10078
       ],
-      "Standalone: Consortium Chest / Southsun Supply Crate": [
-        3764,
-        3782,
-        3805,
-        3832
-      ],
-      "Standalone: Mad King Chest": [
+      "Standalone: Other": [
         3687,
         3693,
         3696,
         3711,
-        3825,
-        4694
-      ],
-      "Standalone: Other": [
         3713,
         3722,
         3737,
+        3764,
         3780,
+        3782,
+        3805,
         3815,
         3823,
+        3825,
+        3832,
+        4694,
         5586,
         5988,
         5880,
