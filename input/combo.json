@@ -5,6 +5,7 @@
   {
     "name": "armorcombo",
     "contents": [
+      // Armor Set
       { "name": "Profane Light Armor Skin", "combo": { "armor": [1105,1155,1094,1099,1069,1199] } },
       { "name": "Krytan Medium Armor Skin", "combo": { "armor": [1200,1156,1111,1097,1071,1103] } },
       { "name": "Primeval Heavy Armor Skin", "combo": { "armor": [1154,1090,1093,1066,1102,1198] } },
@@ -26,6 +27,21 @@
       { "name": "Incarnate Heavy Armor Skin", "combo": { "armor": [1276,1277,1278,1279,1280,1281] } },
       { "name": "Strider's Medium Armor Skin", "combo": { "armor": [1271,1282,1283,1285,1286,1287] } },
       { "name": "Rampart Light Armor Skin", "combo": { "armor": [1272,1273,1274,1275,1288,1289] } },
+      // Armor Set - Astral Ward
+      { "name": "Astral Ward Heavy Helm", "combo": { "armor": [11591,11688,11755] } },
+      { "name": "Astral Ward Light Shoulders", "combo": { "armor": [11628,11637,11786] } },
+      { "name": "Astral Ward Heavy Coat", "combo": { "armor": [11593,11732,11742] } },
+      { "name": "Astral Ward Medium Gloves", "combo": { "armor": [11722,11751,11775] } },
+      { "name": "Astral Ward Heavy Leggings", "combo": { "armor": [11585,11687,11694] } },
+      { "name": "Astral Ward Light Boots", "combo": { "armor": [11580,11692,11712] } },
+      // Armor Set - Rift Hunter
+      { "name": "Rift Hunter Medium Helm", "combo": { "armor": [11653,11763,11816] } },
+      { "name": "Rift Hunter Heavy Shoulders", "combo": { "armor": [11638,11681,11812] } },
+      { "name": "Rift Hunter Medium Coat", "combo": { "armor": [11586,11630,11657] } },
+      { "name": "Rift Hunter Heavy Gloves", "combo": { "armor": [11572,11665,11759] } },
+      { "name": "Rift Hunter Heavy Leggings", "combo": { "armor": [11684,11788,11806] } },
+      { "name": "Rift Hunter Heavy Boots", "combo": { "armor": [11606,11740,11789] } },
+      // Armor
       { "name": "Savage Scale Package", "combo": { "armor": [11100,11106,11124,11129,11133,11142] } },
       { "name": "Lunar Rabbit Helm and Stompers Package", "combo": { "armor": [11200,11216,11221,11224,11228,11231] } },
       { "name": "Bestial Tides Tattoo Pack", "combo": { "armor": [11258,11279,11286,11304,11336,11346] } },
@@ -33,8 +49,11 @@
       { "name": "Serpentine Tattoo Pack", "combo": { "armor": [11267,11291,11305,11307,11308,11349] } },
       { "name": "Leather Straps Package", "combo": { "armor": [11522,11523,11529,11530,11539,11541] } },
       // Armor - Head
-      { "name": "Magnus's Eye Patch", "combo": { "armor": [833,839,840,841,842,843] } },
+      { "name": "Iron's Tailpipe Bandana", "combo": { "armor": [1991,1992,2011] } },
+      { "name": "Southsun Mask", "combo": { "armor": [996,997,998] } },
+      { "name": "Monocle", "combo": { "armor": [2018,2019,2020] } },
       { "name": "Wurmslayer's Headgear", "combo": { "armor": [2002,2003,2004] } },
+      { "name": "Magnus's Eye Patch", "combo": { "armor": [833,839,840,841,842,843] } },
       { "name": "Elonian Headgear", "combo": { "armor": [7512,7604,7696] } },
       { "name": "Lunatic Noble Mask", "combo": { "armor": [7770,7798] } },
       { "name": "Zephyrite Aspect Helm Pack", "combo": { "armor": [8208,8194,8195,8228,8213,8230,8217,8205,8222] } },
@@ -50,6 +69,8 @@
       { "name": "Magical Unicorn Horn Set", "combo": { "armor": [10846,10852,10853,10854,10862,10865] } },
       { "name": "Pointed Ears Package", "combo": { "armor": [11032,11035,11038,11039,11040,11041,11044,11045,11047] } },
       // Armor - Shoulder
+      { "name": "Island Shoulders", "combo": { "armor": [1137,1141,1143] } },
+      { "name": "Twisted Watchwork Shoulders", "combo": { "armor": [1072,1075,1077] } },
       { "name": "Wurmslayer's Shoulders", "combo": { "armor": [1998,1999,2001] } },
       { "name": "Elonian Shoulders", "combo": { "armor": [7375,7399,7713] } },
       // Armor - Chest
@@ -62,20 +83,24 @@
       { "name": "Mistforged Glorious Hero's Brigandine", "combo": { "armor": [8496,8542] } },
       { "name": "Mistforged Glorious Hero's Breastplate", "combo": { "armor": [8476,8531] } },
       // Armor - Hand
+      { "name": "Fused Gauntlets", "combo": { "armor": [2012,2015,2017] } },
       { "name": "Wurmslayer's Gloves", "combo": { "armor": [1996,1997,2000] } },
       { "name": "Elonian Gloves", "combo": { "armor": [7430,7541,7672] } },
+      { "name": "Lunar-Enchanted Gloves", "combo": { "armor": [9845,9876,9880] } },
       { "name": "Immortal Ring Package", "combo": { "armor": [10109,10111,10112,10115,10116,10117] } },
       { "name": "Powered Gloves", "combo": { "armor": [11367,11371,11374,11379,11380,11382,11389,11404,11406] } },
       // Armor - Leg
       { "name": "Elonian Leggings", "combo": { "armor": [7400,7432,7522] } },
       // Armor - Foot
       { "name": "Elonian Boots", "combo": { "armor": [7475,7486,7536] } },
+      { "name": "Stylish Shoes", "combo": { "armor": [9733,9757,9779] } },
       { "name": "Rebel Long and Short Boots Package", "combo": { "armor": [11350,11354,11355,11357,11360,11363] } },
+      // Armor - Aquatic Head
+      { "name": "Rime-Rimmed Mariner's Rebreather", "combo": { "armor": [9083,9071,9063] } },
       // Outfit + Armor - Head
       { "name": "Fallen Balthazar Package", "combo": { "outfit": [57], "armor": [7782,7800,7804] } },
       // Outfit + Armor - Shoulder
-      { "name": "Ebon Vanguard Elite Outfit and Shoulders Package", "combo": { "outfit": [101], "armor": [9577,9580,9581] }
-      }
+      { "name": "Ebon Vanguard Elite Outfit and Shoulders Package", "combo": { "outfit": [101], "armor": [9577,9580,9581] } }
     ]
   },
   // ------------------------------
@@ -84,96 +109,81 @@
   {
     "name": "weaponcombo",
     "contents": [
+      // Weapon Set - Cavalier
+      { "name": "Cavalier Axe", "combo": { "weapon": [6773,6749] } },
+      { "name": "Cavalier Dagger", "combo": { "weapon": [6781,6751] } },
+      { "name": "Cavalier Mace", "combo": { "weapon": [6766,6747] } },
+      { "name": "Cavalier Pistol", "combo": { "weapon": [6762,6756] } },
+      { "name": "Cavalier Scepter", "combo": { "weapon": [6782,6746] } },
+      { "name": "Cavalier Sword", "combo": { "weapon": [6770,6772] } },
+      { "name": "Cavalier Shield", "combo": { "weapon": [6778,6768] } },
+      { "name": "Cavalier Torch", "combo": { "weapon": [6776,6780] } },
+      { "name": "Cavalier Warhorn", "combo": { "weapon": [6754,6777] } },
+      { "name": "Cavalier Focus", "combo": { "weapon": [6769,6767] } },
+      { "name": "Cavalier Greatsword", "combo": { "weapon": [6755,6765] } },
+      { "name": "Cavalier Hammer", "combo": { "weapon": [6761,6764] } },
+      { "name": "Cavalier Longbow", "combo": { "weapon": [6748,6758] } },
+      { "name": "Cavalier Rifle", "combo": { "weapon": [6750,6757] } },
+      { "name": "Cavalier Short Bow", "combo": { "weapon": [6771,6753] } },
+      { "name": "Cavalier Staff", "combo": { "weapon": [6763,6783] } },
+      // Weapon Set - Obsidian
+      { "name": "Obsidian Axe", "combo": { "weapon": [8324,8302] } },
+      { "name": "Obsidian Dagger", "combo": { "weapon": [7921,7946] } },
+      { "name": "Obsidian Mace", "combo": { "weapon": [8079,8074] } },
+      { "name": "Obsidian Pistol", "combo": { "weapon": [8075,8078] } },
+      { "name": "Obsidian Scepter", "combo": { "weapon": [8080,8065] } },
+      { "name": "Obsidian Sword", "combo": { "weapon": [7962,7992] } },
+      { "name": "Obsidian Shield", "combo": { "weapon": [7918,7928] } },
+      { "name": "Obsidian Torch", "combo": { "weapon": [7933,7971] } },
+      { "name": "Obsidian Warhorn", "combo": { "weapon": [8310,8304] } },
+      { "name": "Obsidian Focus", "combo": { "weapon": [8132,8136] } },
+      { "name": "Obsidian Greatsword", "combo": { "weapon": [8131,8140] } },
+      { "name": "Obsidian Hammer", "combo": { "weapon": [8127,8130] } },
+      { "name": "Obsidian Longbow", "combo": { "weapon": [7936,7980] } },
+      { "name": "Obsidian Rifle", "combo": { "weapon": [8306,8323] } },
+      { "name": "Obsidian Short Bow", "combo": { "weapon": [8312,8308] } },
+      { "name": "Obsidian Staff", "combo": { "weapon": [7949,7953] } },
+      // Weapon Set - Mistforged Obsidian
+      { "name": "Mistforged Obsidian Axe", "combo": { "weapon": [8329,8325] } },
+      { "name": "Mistforged Obsidian Dagger", "combo": { "weapon": [7926,7974] } },
+      { "name": "Mistforged Obsidian Mace", "combo": { "weapon": [8077,8066] } },
+      { "name": "Mistforged Obsidian Pistol", "combo": { "weapon": [8076,8070] } },
+      { "name": "Mistforged Obsidian Scepter", "combo": { "weapon": [8067,8073] } },
+      { "name": "Mistforged Obsidian Sword", "combo": { "weapon": [7951,7956] } },
+      { "name": "Mistforged Obsidian Shield", "combo": { "weapon": [7958,7923] } },
+      { "name": "Mistforged Obsidian Torch", "combo": { "weapon": [7978,7993] } },
+      { "name": "Mistforged Obsidian Warhorn", "combo": { "weapon": [8332,8301] } },
+      { "name": "Mistforged Obsidian Focus", "combo": { "weapon": [8129,8133] } },
+      { "name": "Mistforged Obsidian Greatsword", "combo": { "weapon": [8137,8128] } },
+      { "name": "Mistforged Obsidian Hammer", "combo": { "weapon": [8139,8134] } },
+      { "name": "Mistforged Obsidian Longbow", "combo": { "weapon": [7935,7963] } },
+      { "name": "Mistforged Obsidian Rifle", "combo": { "weapon": [8318,8307] } },
+      { "name": "Mistforged Obsidian Short Bow", "combo": { "weapon": [8314,8303] } },
+      { "name": "Mistforged Obsidian Staff", "combo": { "weapon": [7961,7977] } },
+      // Weapon Set - Onyx Lion
+      { "name": "Onyx Lion Axe", "combo": { "weapon": [8235,8280] } },
+      { "name": "Onyx Lion Dagger", "combo": { "weapon": [8257,8273] } },
+      { "name": "Onyx Lion Mace", "combo": { "weapon": [8255,8267] } },
+      { "name": "Onyx Lion Pistol", "combo": { "weapon": [8276,8285] } },
+      { "name": "Onyx Lion Scepter", "combo": { "weapon": [8250,8275] } },
+      { "name": "Onyx Lion Sword", "combo": { "weapon": [8244,8271] } },
+      { "name": "Onyx Lion Shield", "combo": { "weapon": [8245,8295] } },
+      { "name": "Onyx Lion Torch", "combo": { "weapon": [8251,8293] } },
+      { "name": "Onyx Lion Warhorn", "combo": { "weapon": [8236,8248] } },
+      { "name": "Onyx Lion Focus", "combo": { "weapon": [8246,8298] } },
+      { "name": "Onyx Lion Greatsword", "combo": { "weapon": [8243,8292] } },
+      { "name": "Onyx Lion Hammer", "combo": { "weapon": [8256,8269] } },
+      { "name": "Onyx Lion Longbow", "combo": { "weapon": [8242,8286] } },
+      { "name": "Onyx Lion Rifle", "combo": { "weapon": [8262,8279] } },
+      { "name": "Onyx Lion Short Bow", "combo": { "weapon": [8237,8272] } },
+      { "name": "Onyx Lion Staff", "combo": { "weapon": [8268,8274] } },
+      // Weapon
       { "name": "God-Slayer Bow Pack", "combo": { "weapon": [7281,7284] } },
+      { "name": "Rival Skies Package", "combo": { "weapon": [7450,7651] } },
+      { "name": "Queensdale Academy Wand Set", "combo": { "weapon": [9594,9596] } },
       { "name": "Shrine Guardian Bow Pack", "combo": { "weapon": [9741,9748] } },
       { "name": "Infused Blades Package", "combo": { "weapon": [9842,9851] } },
-      { "name": "Shiro's Legacy Blades Package", "combo": { "weapon": [10818,10824] } },
-      // Weapon - Axe
-      { "name": "Cavalier Axe", "combo": { "weapon": [6773,6749] } },
-      { "name": "Rival Skies Package", "combo": { "weapon": [7450,7651] } },
-      { "name": "Onyx Lion Axe", "combo": { "weapon": [8235,8280] } },
-      { "name": "Obsidian Axe", "combo": { "weapon": [8324,8302] } },
-      { "name": "Mistforged Obsidian Axe", "combo": { "weapon": [8329,8325] } },
-      // Weapon - Dagger
-      { "name": "Cavalier Dagger", "combo": { "weapon": [6781,6751] } },
-      { "name": "Obsidian Dagger", "combo": { "weapon": [7921,7946] } },
-      { "name": "Mistforged Obsidian Dagger", "combo": { "weapon": [7926,7974] } },
-      { "name": "Onyx Lion Dagger", "combo": { "weapon": [8257,8273] } },
-      // Weapon - Mace
-      { "name": "Cavalier Mace", "combo": { "weapon": [6766,6747] } },
-      { "name": "Mistforged Obsidian Mace", "combo": { "weapon": [8077,8066] } },
-      { "name": "Obsidian Mace", "combo": { "weapon": [8079,8074] } },
-      { "name": "Onyx Lion Mace", "combo": { "weapon": [8255,8267] } },
-      // Weapon - Pistol
-      { "name": "Cavalier Pistol", "combo": { "weapon": [6762,6756] } },
-      { "name": "Obsidian Pistol", "combo": { "weapon": [8075,8078] } },
-      { "name": "Mistforged Obsidian Pistol", "combo": { "weapon": [8076,8070] } },
-      { "name": "Onyx Lion Pistol", "combo": { "weapon": [8276,8285] } },
-      // Weapon - Scepter
-      { "name": "Cavalier Scepter", "combo": { "weapon": [6782,6746] } },
-      { "name": "Mistforged Obsidian Scepter", "combo": { "weapon": [8067,8073] } },
-      { "name": "Obsidian Scepter", "combo": { "weapon": [8080,8065] } },
-      { "name": "Onyx Lion Scepter", "combo": { "weapon": [8250,8275] } },
-      { "name": "Queensdale Academy Wand Set", "combo": { "weapon": [9594,9596] } },
-      // Weapon - Sword
-      { "name": "Cavalier Sword", "combo": { "weapon": [6770,6772] } },
-      { "name": "Mistforged Obsidian Sword", "combo": { "weapon": [7951,7956] } },
-      { "name": "Obsidian Sword", "combo": { "weapon": [7962,7992] } },
-      { "name": "Onyx Lion Sword", "combo": { "weapon": [8244,8271] } },
-      // Weapon - Shield
-      { "name": "Cavalier Shield", "combo": { "weapon": [6778,6768] } },
-      { "name": "Obsidian Shield", "combo": { "weapon": [7918,7928] } },
-      { "name": "Mistforged Obsidian Shield", "combo": { "weapon": [7958,7923] } },
-      { "name": "Onyx Lion Shield", "combo": { "weapon": [8245,8295] } },
-      // Weapon - Torch
-      { "name": "Cavalier Torch", "combo": { "weapon": [6776,6780] } },
-      { "name": "Obsidian Torch", "combo": { "weapon": [7933,7971] } },
-      { "name": "Mistforged Obsidian Torch", "combo": { "weapon": [7978,7993] } },
-      { "name": "Onyx Lion Torch", "combo": { "weapon": [8251,8293] } },
-      // Weapon - Warhorn
-      { "name": "Cavalier Warhorn", "combo": { "weapon": [6754,6777] } },
-      { "name": "Onyx Lion Warhorn", "combo": { "weapon": [8236,8248] } },
-      { "name": "Obsidian Warhorn", "combo": { "weapon": [8310,8304] } },
-      { "name": "Mistforged Obsidian Warhorn", "combo": { "weapon": [8332,8301] } },
-      // Weapon - Focus
-      { "name": "Cavalier Focus", "combo": { "weapon": [6769,6767] } },
-      { "name": "Mistforged Obsidian Focus", "combo": { "weapon": [8129,8133] } },
-      { "name": "Obsidian Focus", "combo": { "weapon": [8132,8136] } },
-      { "name": "Onyx Lion Focus", "combo": { "weapon": [8246,8298] } },
-      // Weapon - Greatsword
-      { "name": "Cavalier Greatsword", "combo": { "weapon": [6755,6765] } },
-      { "name": "Obsidian Greatsword", "combo": { "weapon": [8131,8140] } },
-      { "name": "Mistforged Obsidian Greatsword", "combo": { "weapon": [8137,8128] } },
-      { "name": "Onyx Lion Greatsword", "combo": { "weapon": [8243,8292] } },
-      // Weapon - Hammer
-      { "name": "Cavalier Hammer", "combo": { "weapon": [6761,6764] } },
-      { "name": "Obsidian Hammer", "combo": { "weapon": [8127,8130] } },
-      { "name": "Mistforged Obsidian Hammer", "combo": { "weapon": [8139,8134] } },
-      { "name": "Onyx Lion Hammer", "combo": { "weapon": [8256,8269] } },
-      // Weapon - Longbow
-      { "name": "Cavalier Longbow", "combo": { "weapon": [6748,6758] } },
-      { "name": "Mistforged Obsidian Longbow", "combo": { "weapon": [7935,7963] } },
-      { "name": "Obsidian Longbow", "combo": { "weapon": [7936,7980] } },
-      { "name": "Onyx Lion Longbow", "combo": { "weapon": [8242,8286] } },
-      // Weapon - Rifle
-      { "name": "Cavalier Rifle", "combo": { "weapon": [6750,6757] } },
-      { "name": "Onyx Lion Rifle", "combo": { "weapon": [8262,8279] } },
-      { "name": "Obsidian Rifle", "combo": { "weapon": [8306,8323] } },
-      { "name": "Mistforged Obsidian Rifle", "combo": { "weapon": [8318,8307] } },
-      // Weapon -  Shortbow
-      { "name": "Cavalier Short Bow", "combo": { "weapon": [6771,6753] } },
-      { "name": "Onyx Lion Short Bow", "combo": { "weapon": [8237,8272] } },
-      { "name": "Obsidian Short Bow", "combo": { "weapon": [8312,8308] } },
-      { "name": "Mistforged Obsidian Short Bow", "combo": { "weapon": [8314,8303] } },
-      // Weapon - Staff
-      { "name": "Cavalier Staff", "combo": { "weapon": [6763,6783] } },
-      { "name": "Obsidian Staff", "combo": { "weapon": [7949,7953] } },
-      { "name": "Mistforged Obsidian Staff", "combo": { "weapon": [7961,7977] } },
-      { "name": "Onyx Lion Staff", "combo": { "weapon": [8268,8274] }
-      }
-      // Weapon - Harpoon
-      // Weapon - Speargun
-      // Weapon - Trident
+      { "name": "Shiro's Legacy Blades Package", "combo": { "weapon": [10818,10824] } }
     ]
   },
   // ---------------------------------
@@ -182,14 +192,14 @@
   {
     "name": "backcombo",
     "contents": [
+      // Back Item
       { "name": "Forest Archer Pack", "combo": { "back": [10156,10159,10161] } },
       { "name": "Decade's War", "combo": { "back": [11025,11027] } },
       // Armor + Back Item
       { "name": "Battlelord's Cape Hood Combo", "combo": { "armor": [11143,11150,11151,11158,11162,11167], "back": [11144] } },
       { "name": "Artisan Zharra's Cape and Hood Combo", "combo": { "armor": [11418,11419,11431], "back": [11435] } },
       // Weapon + Back Item
-      { "name": "Fire-Breathing Package", "combo": { "weapon": [8010], "back": [8021] }
-      }
+      { "name": "Fire-Breathing Package", "combo": { "weapon": [8010], "back": [8021] } }
     ]
   },
   // --------------------------------------
@@ -198,12 +208,12 @@
   {
     "name": "toolcombo",
     "contents": [
+      // Gathering Tool Set
       { "name": "Infinite Unbound Magic Gathering Tools", "combo": { "tool": [8087,8093,8097] } },
       { "name": "Infinite Volatile Magic Gathering Tools", "combo": { "tool": [8142,8156,8161] } },
       { "name": "Infinite Spirits of the Wild Gathering Tools", "combo": { "tool": [9718,9720,9721] } },
       { "name": "Infinite Herald of Aurene Gathering Tools", "combo": { "tool": [11410,11412,11414] } },
-      { "name": "Infinite Vermilion Gathering Tools", "combo": { "tool": [11597,11720,11802] }
-      }
+      { "name": "Infinite Vermilion Gathering Tools", "combo": { "tool": [11597,11720,11802] } }
     ]
   },
   // ------------------------------
@@ -284,8 +294,7 @@
       { "name": "Undying Shackles Cape and Glider Combo", "combo": { "back": [11400], "glider": [122] } },
       { "name": "Cuddly Cat Backpack and Glider Combo", "combo": { "back": [11428], "glider": [123] } },
       { "name": "Infernal Envoy Backpack and Glider Combo", "combo": { "back": [11780], "glider": [125] } },
-      { "name": "Sorcerer's Cape Backpack and Glider Combo", "combo": { "back": [11716], "glider": [126] }
-      }
+      { "name": "Sorcerer's Cape Backpack and Glider Combo", "combo": { "back": [11716], "glider": [126] } }
     ]
   },
   // -----------------------------
@@ -294,7 +303,7 @@
   {
     "name": "mountcombo",
     "contents": [
-      // Mount
+      // Mount Set
       { "name": "Spooky Mounts Pack", "combo": { "mount": [13,14,15,16,19] } },
       { "name": "Cozy Wintersday Mounts Pack", "combo": { "mount": [52,53,56,58,60] } },
       { "name": "Branded Mounts Pack", "combo": { "mount": [66,68,70,75,76] } },
@@ -307,21 +316,19 @@
       { "name": "Amnytas Feathered Raptors Mounts Pack", "combo": { "mount": [] } },
       // Mount - Springer
       { "name": "Canthan Cuckoo Springer Mounts Pack", "combo": { "mount": [422,423,426] } },
-      // Mount - Skimmer
       // Mount - Jackal
       { "name": "Canthan Vulpine Jackal Mounts Pack", "combo": { "mount": [429,430,431] } },
       // Mount - Griffon
       { "name": "Canthan Tigris Griffon Mounts Pack", "combo": { "mount": [432,433,434] } },
-      // Mount - Roller Beetle
       // Mount - Warclaw
       { "name": "Warclaw Frontline Mount Pack", "combo": { "mount": [162,163,164,165,166] } },
       { "name": "Canthan Nian Warclaw Mounts Pack", "combo": { "mount": [437,440,441] } },
       // Mount - Skyscale
       { "name": "Skyscale Ascension Mounts Pack", "combo": { "mount": [193,194,195,196,198] } },
       { "name": "Canthan Noble Skyscale Mounts Pack", "combo": { "mount": [443,444,445] } },
+      { "name": "Astral Manticore Skyscale Mounts Pack", "combo": { "mount": [] } },
       // Mount - Siege Turtle
-      { "name": "Siege Turtle Advent Mounts Pack", "combo": { "mount": [415,416,417,418,419] }
-      }
+      { "name": "Siege Turtle Advent Mounts Pack", "combo": { "mount": [415,416,417,418,419] } }
     ]
   },
   // -------------------------------
@@ -344,12 +351,12 @@
       // Glider + Novelty - Chair
       { "name": "Inquest Overseer Chair Glider Combo", "combo": { "glider": [73], "novelty": [286] } },
       { "name": "Wandering Cloud Chair and Glider Combo", "combo": { "glider": [97], "novelty": [311] } },
+      { "name": "Gentle Garden Swing Chair Glider Combo", "combo": { "glider": [], "novelty": [] } },
       // Glider + Novelty - Toy
       { "name": "Electromagnetic Ascender-Descender Glider Combo", "combo": { "glider": [16], "novelty": [27] } },
       { "name": "Magic Carpet Glider Combo", "combo": { "glider": [44], "novelty": [16] } },
       { "name": "Riding Broom and Glider Combo", "combo": { "glider": [53], "novelty": [20] } },
-      { "name": "Shattered Bloodstone Ascender Combo", "combo": { "glider": [39], "novelty": [33] }
-      }
+      { "name": "Shattered Bloodstone Ascender Combo", "combo": { "glider": [39], "novelty": [33] } }
     ]
   },
   // ---------------------------------
@@ -358,6 +365,7 @@
   {
     "name": "minicombo",
     "contents": [
+      // Miniature
       { "name": "Mini Super Trio", "combo": { "mini": [133,134,135] } },
       { "name": "Mini Super Trio—World 2", "combo": { "mini": [185,186,187] } },
       { "name": "Mini Super Trio—Series 3", "combo": { "mini": [455,456,459] } },
@@ -370,8 +378,7 @@
       // Back Item + Miniature
       { "name": "Ghoul Backpack and Mini Set", "combo": { "back": [6431], "mini": [342] } },
       // Mount + Miniature
-      { "name": "Kryptis Skyscale", "combo": { "mount": [], "mini": [905] }
-      }
+      { "name": "Kryptis Skyscale", "combo": { "mount": [], "mini": [905] } }
     ]
   },
   // -----------------------------
@@ -381,8 +388,7 @@
     "name": "emotecombo",
     "contents": [
       // Novelty + Emote
-      { "name": "How to Dance, Volume 1", "combo": { "novelty": [44], "emote": ["geargrind","shuffle","step"] }
-      }
+      { "name": "How to Dance, Volume 1", "combo": { "novelty": [44], "emote": ["geargrind","shuffle","step"] } }
     ]
   },
   // --------------------------------
@@ -395,8 +401,7 @@
       { "name": "Guild Wars 2: Heart of Thorns—Deluxe Upgrade", "combo": { "glider": [5], "mini": [319], "finisher": [60] } },
       { "name": "Guild Wars 2: Path of Fire—Deluxe Upgrade", "combo": { "outfit": [52] } },
       { "name": "Guild Wars 2: End of Dragons—Deluxe Upgrade", "combo": { "mount": [360] } },
-      { "name": "Guild Wars 2: Secrets of the Obscure—Deluxe Upgrade", "combo": { "mount": [], "emote": ["MagicJuggle"] }
-      }
+      { "name": "Guild Wars 2: Secrets of the Obscure—Deluxe Upgrade", "combo": { "mount": [], "emote": ["MagicJuggle"] } }
     ]
   }
 ]
