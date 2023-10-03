@@ -83,6 +83,9 @@
       "Standalone: Champion Bag": [
         200
       ],
+      "Standalone: Racing": [
+        321
+      ],
       "Standalone: Dungeon": [
         15,
         203
@@ -97,9 +100,6 @@
         365,
         366,
         399
-      ],
-      "Standalone: Racing": [
-        321
       ],
       "Standalone: Player vs. Player": [
         89,

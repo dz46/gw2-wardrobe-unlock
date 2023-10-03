@@ -7,12 +7,6 @@
         179,
         231
       ],
-      "Standalone: Fractals of the Mists": [
-        115,
-        121,
-        141,
-        307
-      ],
       "Standalone: Racing": [
         271,
         272,
@@ -20,6 +14,12 @@
         274,
         275,
         276
+      ],
+      "Standalone: Fractals of the Mists": [
+        115,
+        121,
+        141,
+        307
       ],
       "Standalone: World vs. World": [
         147
@@ -123,17 +123,17 @@
       ],
       "Music Box": [
       ],
+      "Standalone: Raid": [
+        50,
+        69,
+        285
+      ],
       "Standalone: Other": [
         17,
         22,
         39,
         51,
         218
-      ],
-      "Standalone: Raid": [
-        50,
-        69,
-        285
       ]
     },
     "(X2 > LW4) Living World Season 4: Rise of Kralkatorrik": {

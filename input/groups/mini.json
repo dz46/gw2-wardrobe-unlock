@@ -43,12 +43,12 @@
         131,
         132
       ],
+      "Standalone: Racing": [
+        734
+      ],
       "Standalone: Fractals of the Mists": [
         494,
         890
-      ],
-      "Standalone: Racing": [
-        734
       ],
       "Standalone: World vs. World": [
         204,
@@ -223,18 +223,6 @@
         522,
         536
       ],
-      "Standalone: Raid": [
-        621,
-        622,
-        623,
-        721,
-        722,
-        723,
-        725,
-        763,
-        764,
-        765
-      ],
       "Standalone: Renown Heart": [
         498,
         502,
@@ -283,6 +271,18 @@
         568,
         577,
         581
+      ],
+      "Standalone: Raid": [
+        621,
+        622,
+        623,
+        721,
+        722,
+        723,
+        725,
+        763,
+        764,
+        765
       ],
       "Standalone: Other": [
         500,
