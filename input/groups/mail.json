@@ -3,9 +3,6 @@
     "Core": {
       "Starter": [
         4
-      ],
-      "Standalone: Other": [
-        15
       ]
     },
     "Gem Store": {
@@ -24,6 +21,11 @@
         13,
         14,
         16
+      ]
+    },
+    "Special Event": {
+      "Standalone: Other": [
+        15
       ]
     }
   }

@@ -72,13 +72,6 @@
         2341,
         2376
       ],
-      "Capital City": [
-        6890,
-        6892,
-        6895,
-        6898,
-        6902
-      ],
       "Fractal Capacitor": [
         2377,
         2378,
@@ -106,26 +99,20 @@
         7276,
         7246
       ],
-      "Standalone: Biography": [
-        2340
-      ],
       "Standalone: Player vs. Player": [
         2380
       ],
       "Standalone: Other": [
+        2340,
         2342,
         2343,
         2344,
-        2358,
         5653,
         6242,
         6253,
         6353,
-        6618,
         6621,
-        9051,
-        11025,
-        11027
+        9051
       ]
     },
     "(Core > LW1) Living World Season 1: Scarlet's War": {
@@ -182,14 +169,14 @@
         6361,
         6495
       ],
+      "Auric Backplate / Luminate's Backplate": [
+        6149,
+        6279
+      ],
       "Standalone: Raid": [
         6135,
         6809,
         7114
-      ],
-      "Standalone: Other": [
-        6149,
-        6279
       ]
     },
     "(X1 > LW3) Living World Season 3: Glint's Legacy": {
@@ -229,9 +216,11 @@
         8058,
         8052
       ],
-      "Standalone: Other": [
+      "Banner of the Commander": [
         8149,
-        8165,
+        8165
+      ],
+      "Standalone: Other": [
         8169
       ]
     },
@@ -256,6 +245,10 @@
       ]
     },
     "(X3) Guild Wars 2: End of Dragons (EoD)": {
+      "Echovald Backpiece": [
+        10457,
+        10647
+      ],
       "Standalone: Strike Mission": [
         10898
       ],
@@ -266,10 +259,8 @@
         10344,
         10399,
         10426,
-        10457,
         10458,
         10524,
-        10647,
         10675,
         11322,
         11268
@@ -281,7 +272,7 @@
       	11804
       ]
     },
-    "Special Event: Lunar New Year (LNY)": {
+    "Lunar New Year (LNY)": {
       "Lucky Celestial Lantern": [
         5856,
         6619,
@@ -305,7 +296,7 @@
         11206
       ]
     },
-    "Special Event: Super Adventure Festival (SAB)": {
+    "Super Adventure Festival (SAB)": {
       "Super / King Toad / Storm Wizard / Kaiser Snake / Crimson Assassin": [
         2360,
         2361,
@@ -317,14 +308,14 @@
         2359
       ]
     },
-    "Special Event: Dragon Bash": {
+    "Dragon Bash": {
       "Standalone: Other": [
         2351,
         2352,
         8833
       ]
     },
-    "Special Event: Festival of the Four Winds (FotFW)": {
+    "Festival of the Four Winds (FotFW)": {
       "Aspect Catcher": [
         2346,
         2347,
@@ -344,7 +335,7 @@
         8861
       ]
     },
-    "Special Event: Shadow of the Mad King (Halloween)": {
+    "Shadow of the Mad King (Halloween)": {
       "Mad Memoires": [
         2336,
         7760,
@@ -355,7 +346,7 @@
       	9638
       ]
     },
-    "Special Event: A Very Merry Wintersday": {
+    "A Very Merry Wintersday": {
       "Standalone: Other": [
         2374,
         2375,
@@ -364,20 +355,37 @@
         10218
       ]
     },
+    "Special Event": {
+      "Capital City": [
+        6890,
+        6892,
+        6895,
+        6898,
+        6902
+      ],
+      "Decade": [
+        11025,
+        11027
+      ],
+      "Standalone: Other": [
+        2358,
+        6618
+      ]
+    },
     "Gem Store": {
-      "Charr": [
+      "Forest Archer": [
+        10156,
+        10159,
+        10161
+      ],
+      "Plush Charr": [
         2363,
         2364,
         2368,
         2366,
         2371
       ],
-      "Forest Archer": [
-        10156,
-        10159,
-        10161
-      ],
-      "Quaggan": [
+      "Plush Quaggan": [
         2355,
         2365,
         2367,

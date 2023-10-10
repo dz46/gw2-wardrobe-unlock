@@ -1,19 +1,15 @@
 {
   "topLevelCategories": {
     "Core": {
+      "Anomaly Fragment / Ley-Line Anomaly Tonic": [
+        191,
+        202
+      ],
       "Elemental Potion": [
         72,
         120,
         179,
         231
-      ],
-      "Standalone: Racing": [
-        271,
-        272,
-        273,
-        274,
-        275,
-        276
       ],
       "Standalone: Fractals of the Mists": [
         115,
@@ -27,15 +23,17 @@
       "Standalone: Other": [
         12,
         29,
-        34,
         41,
         122,
-        191,
-        202,
         219,
         222,
         237,
-        289
+        271,
+        272,
+        273,
+        274,
+        275,
+        276
       ]
     },
     "(Core > LW1) Living World Season 1: Scarlet's War": {
@@ -99,6 +97,7 @@
         258
       ],
       "Standalone: Other": [
+        34,
         106,
         110,
         186,
@@ -160,7 +159,9 @@
       ]
     },
     "(X3) Guild Wars 2: End of Dragons (EoD)": {
-      "Standalone: Fishing": [
+      "Crustacean Tonic": [
+      ],
+      "Fish Tonic": [
       ],
       "Standalone: Strike Mission": [
         316,
@@ -179,15 +180,17 @@
       "Standalone: Other": [
       ]
     },
-    "Special Event: Super Adventure Festival (SAB)": {
-      "Super Boom Box / Duskk's Super Boom Box": [
-        3,
+    "Super Adventure Festival (SAB)": {
+      "Super Boom Box": [
         23,
-        25,
+        25
+      ],
+      "Super Boom Box > Duskk's Super Boom Box": [
+        3,
         30
       ]
     },
-    "Special Event: Festival of the Four Winds (FotFW)": {
+    "Festival of the Four Winds (FotFW)": {
       "Embellished Kite / Mark of Peace Kite / Ornamental Kite": [
         1,
         31,
@@ -202,7 +205,7 @@
         150
       ]
     },
-    "Special Event: Shadow of the Mad King (Halloween)": {
+    "Shadow of the Mad King (Halloween)": {
       "Ignited Wraith Tonic": [
         84,
         94,
@@ -214,7 +217,11 @@
         180
       ]
     },
-    "Special Event: A Very Merry Wintersday": {
+    "A Very Merry Wintersday": {
+      "Enchanted Snowball": [
+        93,
+        217
+      ],
       "Toy Tonic / Gift Box Tonic / Gift Dolyak Tonic / Toymaker's Tonic": [
         119,
         136,
@@ -232,12 +239,10 @@
         133
       ],
       "Standalone: Other": [
-        93,
-        217,
         277
       ]
     },
-    "Special Event: Other": {
+    "Special Event": {
       "Champion's Gizmo": [
       ],
       "Standalone: Fractals of the Mists": [
@@ -246,11 +251,12 @@
       "Standalone: Other": [
         283,
         288,
+        289,
         304
       ]
     },
     "Gem Store": {
-      "Aspect Kite": [
+      "Aspect Kite / Guild Kite": [
         7,
         13,
         36,

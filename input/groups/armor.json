@@ -1072,26 +1072,6 @@
         1483,
         1501
       ],
-      "Decade": [
-        10974,
-        10976,
-        10978,
-        10981,
-        10982,
-        10986,
-        10991,
-        10994,
-        10995,
-        10996,
-        11005,
-        11008,
-        11009,
-        11012,
-        11018,
-        11026,
-        11028,
-        11031
-      ],
       "Diviner / Mist Walker / Heavy Plate": [
         2261,
         2262,
@@ -1150,27 +1130,6 @@
         5597,
         5598
       ],
-      "Luminous": [
-        8288,
-        8290,
-        8291,
-        8261,
-        8294,
-        8263,
-        8264,
-        8266,
-        8299,
-        8270,
-        8239,
-        8240,
-        8247,
-        8281,
-        8249,
-        8282,
-        8283,
-        8284,
-        8254
-      ],
       "Racing / Golden Racing": [
         8505,
         8506,
@@ -1213,7 +1172,13 @@
         1598,
         1599
       ],
-      "Standalone: Biography": [
+      "Standalone: Other": [
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        2011,
         2043,
         2044,
         2045,
@@ -1231,15 +1196,7 @@
         2057,
         2058,
         2059,
-        2060
-      ],
-      "Standalone: Other": [
-        1991,
-        1992,
-        1993,
-        1994,
-        1995,
-        2011,
+        2060,
         8117,
         8120,
         8123
@@ -1356,6 +1313,17 @@
       ]
     },
     "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
+      "Elite Specialization Series 1": [
+        6418,
+        6050,
+        6183,
+        6375,
+        6360,
+        6043,
+        6059,
+        6350,
+        6479
+      ],
       "Bladed": [
         6166,
         6205,
@@ -1484,28 +1452,15 @@
         6334,
         6302
       ],
-      "Standalone: Biography": [
-        5885,
-        5891,
-        5920
-      ],
-      "Standalone: Elite Specialization": [
-        6418,
-        6050,
-        6183,
-        6375,
-        6360,
-        6043,
-        6059,
-        6350,
-        6479
-      ],
       "Standalone: Raid": [
         7077,
         7115,
         7121
       ],
       "Standalone: Other": [
+        5885,
+        5891,
+        5920,
         6283,
         6456,
         6484,
@@ -1545,6 +1500,17 @@
       ]
     },
     "(X2) Guild Wars 2: Path of Fire (PoF)": {
+      "Elite Specialization Series 2": [
+        7441,
+        7411,
+        7525,
+        7622,
+        7511,
+        7527,
+        7627,
+        7644,
+        7357
+      ],
       "Bounty Hunter": [
         7648,
         7426,
@@ -1658,17 +1624,6 @@
         7710,
         7647,
         7679
-      ],
-      "Standalone: Elite Specialization": [
-        7441,
-        7411,
-        7525,
-        7622,
-        7511,
-        7527,
-        7627,
-        7644,
-        7357
       ]
     },
     "(X2 > LW4) Living World Season 4: Rise of Kralkatorrik": {
@@ -1868,6 +1823,17 @@
       ]
     },
     "(X3) Guild Wars 2: End of Dragons (EoD)": {
+      "Elite Specialization Series 3": [
+        10297,
+        10321,
+        10331,
+        10351,
+        10362,
+        10494,
+        10501,
+        10529,
+        10758
+      ],
       "Ancient Canthan": [
         10283,
         10306,
@@ -2010,17 +1976,6 @@
         11345,
         11348
       ],
-      "Standalone: Elite Specialization": [
-        10297,
-        10321,
-        10331,
-        10351,
-        10362,
-        10494,
-        10501,
-        10529,
-        10758
-      ],
       "Standalone: Renown Heart": [
         10261,
         10500,
@@ -2124,7 +2079,7 @@
         11714
       ]
     },
-    "Special Event: Lunar New Year (LNY)": {
+    "Lunar New Year (LNY)": {
       "Standalone: Other": [
         9101,
         9108,
@@ -2140,7 +2095,7 @@
         11226
       ]
     },
-    "Special Event: Super Adventure Festival (SAB)": {
+    "Super Adventure Festival (SAB)": {
       "Powered": [
         11367,
         11371,
@@ -2172,7 +2127,7 @@
         9357
       ]
     },
-    "Special Event: Dragon Bash": {
+    "Dragon Bash": {
       "Holographic Dragon": [
         8817,
         8826,
@@ -2196,7 +2151,7 @@
         2016
       ]
     },
-    "Special Event: Festival of the Four Winds (FotFW)": {
+    "Festival of the Four Winds (FotFW)": {
       "Aspect-Touched Zephyrite": [
         8189,
         8190,
@@ -2247,7 +2202,7 @@
         9555
       ]
     },
-    "Special Event: Shadow of the Mad King (Halloween)": {
+    "Shadow of the Mad King (Halloween)": {
       "Lunatic Acolyte / Lunatic Noble / Lunatic Templar": [
         7776,
         7780,
@@ -2275,11 +2230,6 @@
         6249,
         6493
       ],
-      "Standalone: Racing": [
-        8984,
-        8995,
-        9005
-      ],
       "Standalone: Other": [
         979,
         980,
@@ -2296,6 +2246,9 @@
         8964,
         8966,
         8968,
+        8984,
+        8995,
+        9005,
         10122,
         10128,
         10134,
@@ -2304,7 +2257,7 @@
         11069
       ]
     },
-    "Special Event: A Very Merry Wintersday": {
+    "A Very Merry Wintersday": {
       "Standalone: Festival Bag": [
         9063,
         9071,
@@ -2328,8 +2281,28 @@
         11184
       ]
     },
-    "Special Event: Other": {
-      "PvP Tournament Series - Glorious Hero": [
+    "Special Event": {
+      "Decade": [
+        10974,
+        10976,
+        10978,
+        10981,
+        10982,
+        10986,
+        10991,
+        10994,
+        10995,
+        10996,
+        11005,
+        11008,
+        11009,
+        11012,
+        11018,
+        11026,
+        11028,
+        11031
+      ],
+      "Glorious Hero": [
         5600,
         5601,
         5603,
@@ -2348,6 +2321,27 @@
         5616,
         5617,
         5599
+      ],
+      "Luminous": [
+        8288,
+        8290,
+        8291,
+        8261,
+        8294,
+        8263,
+        8264,
+        8266,
+        8299,
+        8270,
+        8239,
+        8240,
+        8247,
+        8281,
+        8249,
+        8282,
+        8283,
+        8284,
+        8254
       ]
     },
     "Gem Store": {
