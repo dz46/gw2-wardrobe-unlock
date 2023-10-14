@@ -423,6 +423,16 @@
         671
       ]
     },
+    "Bonus Event": {
+      "Delectable Birthday": [
+        1673,
+        1674,
+        1675,
+        1676,
+        1677,
+        1678
+      ]
+    },
     "Gem Store": {
       "Gem Store Series 1 - Flame": [
         1237,
@@ -726,16 +736,6 @@
         1664,
         1665,
         1666
-      ]
-    },
-    "Special Event": {
-      "Delectable Birthday": [
-        1673,
-        1674,
-        1675,
-        1676,
-        1677,
-        1678
       ]
     }
   }

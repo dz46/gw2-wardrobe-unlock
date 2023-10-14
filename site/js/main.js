@@ -175,7 +175,6 @@ var acquisitionMethods = [
     { id: "snowdiamond", name: "Snow Diamond", category: "Special Event"},
     { id: "enchantedsnowball", name: "Enchanted Snowball", category: "Special Event"},
     { id: "hallofmonuments", name: "Guild Wars Reward", category: "Special Event"},
-    //{ id: "prepurchase", name: "Pre-purchase Reward", category: "Special Event"},
 
     { id: "gem", name: "Gem", category: "Gem Store"},
     { id: "deluxe", name: "Deluxe Upgrade Reward", category: "Gem Store"},

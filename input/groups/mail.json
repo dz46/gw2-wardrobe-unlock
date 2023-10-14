@@ -5,6 +5,11 @@
         4
       ]
     },
+    "Bonus Event": {
+      "Standalone: Other": [
+        15
+      ]
+    },
     "Gem Store": {
       "Standalone: Other": [
         1,
@@ -21,11 +26,6 @@
         13,
         14,
         16
-      ]
-    },
-    "Special Event": {
-      "Standalone: Other": [
-        15
       ]
     }
   }
