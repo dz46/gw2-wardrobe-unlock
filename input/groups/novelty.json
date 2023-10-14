@@ -159,9 +159,7 @@
       ]
     },
     "(X3) Guild Wars 2: End of Dragons (EoD)": {
-      "Crustacean Tonic": [
-      ],
-      "Fish Tonic": [
+      "Crustacean Tonic / Fish Tonic": [
       ],
       "Standalone: Strike Mission": [
         316,
@@ -333,11 +331,7 @@
         103,
         159,
         172,
-        185
-      ]
-    },
-    "Promotional Event": {
-      "Standalone: Other": [
+        185,
         236
       ]
     }

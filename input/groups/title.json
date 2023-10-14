@@ -340,14 +340,7 @@
         235
       ]
     },
-    "Gem Store": {
-      "Standalone: Other": [
-        18,
-        319,
-        348
-      ]
-    },
-    "Promotional Event": {
+    "Special Event": {
       "Champion of the Gods": [
         1,
         2,
@@ -370,6 +363,13 @@
       ],
       "Standalone: Other": [
         400
+      ]
+    },
+    "Gem Store": {
+      "Standalone: Other": [
+        18,
+        319,
+        348
       ]
     }
   }

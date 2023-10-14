@@ -23,6 +23,11 @@
         47,
         49
       ],
+      "Emblem Clothing": [
+        73,
+        89,
+        113
+      ],
       "Six Gods's Regalia": [
         20,
         23,
@@ -52,6 +57,7 @@
         24,
         25,
         26,
+        27,
         28,
         31,
         32,
@@ -137,17 +143,7 @@
         68,
         69,
         70,
-        71
-      ]
-    },
-    "Promotional Event": {
-      "Emblem Clothing": [
-        73,
-        89,
-        113
-      ],
-      "Standalone: Other": [
-        27,
+        71,
         90,
         95
       ]
