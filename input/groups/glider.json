@@ -4,13 +4,9 @@
       "Starter": [
         2
       ],
-      "Standalone: Fractals of the Mists": [
-        22
-      ],
-      "Standalone: Player vs. Player": [
-        11
-      ],
-      "Standalone: World vs. World": [
+      "Ad Infinitum / The Ascension / Warbringer": [
+        11,
+        22,
         43
       ]
     },
@@ -96,7 +92,8 @@
         123,
         124,
         125,
-        127
+        127,
+        128
       ],
       "Standalone: Other - Cape": [
         96,

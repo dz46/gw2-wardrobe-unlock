@@ -199,6 +199,17 @@
       ]
     },
     "(X2) Guild Wars 2: Path of Fire (PoF)": {
+      "Cavalier": [
+        526,
+        576,
+        580,
+        574
+      ],
+      "Choya": [
+        502,
+        508,
+        551
+      ],
       "Elemental Djinn": [
         503,
         505,
@@ -216,36 +227,40 @@
         566,
         569
       ],
+      "Primeval King": [
+        527,
+        557,
+        562,
+        575
+      ],
+      "Starter Mount": [
+        504,
+        517,
+        521,
+        523,
+        552
+      ],
       "Standalone: Champion Bag": [
         522,
         536
       ],
       "Standalone: Renown Heart": [
         498,
-        502,
-        504,
         507,
         511,
         515,
         516,
-        517,
         520,
-        521,
-        523,
-        526,
         528,
         529,
         537,
         542,
         544,
         546,
-        551,
         553,
         559,
         570,
-        576,
         578,
-        580,
         583,
         584,
         595
@@ -284,12 +299,10 @@
       "Standalone: Other": [
         500,
         501,
-        508,
         509,
         510,
         524,
         525,
-        527,
         532,
         534,
         535,
@@ -297,14 +310,9 @@
         540,
         547,
         549,
-        552,
         555,
-        557,
         560,
-        562,
         573,
-        574,
-        575,
         579,
         585
       ]
@@ -505,33 +513,34 @@
         784,
         786
       ],
+      "Mad Realm Raven": [
+        418,
+        731,
+        787,
+        910
+      ],
       "Pumpkin Jack": [
         729,
         732,
         733
       ],
-      "Standalone: Festival Bag": [
-        300,
-        356,
-        417,
-        614
-      ],
       "Standalone: Other": [
         196,
         202,
+        300,
         301,
         302,
         345,
         353,
+        356,
         416,
-        418,
+        417,
         600,
         603,
         607,
         608,
+        614,
         730,
-        731,
-        787,
         833,
         834,
         874,
@@ -567,10 +576,6 @@
         118,
         119
       ],
-      "Standalone: Festival Bag": [
-        213,
-        625
-      ],
       "Standalone: Strike Mission": [
         737,
         791,
@@ -578,7 +583,9 @@
         836
       ],
       "Standalone: Other": [
+        213,
         310,
+        625,
         632,
         636,
         735,
@@ -619,7 +626,7 @@
       ]
     },
     "Gem Store": {
-      "Gem Store Series 1": [
+      "Minis 3-Pack Series 1": [
         6,
         7,
         8,
@@ -675,7 +682,7 @@
         59,
         60
       ],
-      "Gem Store Series 2": [
+      "Minis 3-Pack Series 2": [
         61,
         62,
         63,
@@ -726,7 +733,7 @@
         179,
         180
       ],
-      "Gem Store Series 3": [
+      "Minis 3-Pack Series 3": [
         40,
         256,
         257,
@@ -776,6 +783,30 @@
         252,
         253,
         254
+      ],
+      "Super Trio Series 1": [
+        133,
+        134,
+        135,
+        457
+      ],
+      "Super Trio Series 2": [
+        185,
+        186,
+        187,
+        188
+      ],
+      "Super Trio Series 3": [
+        455,
+        456,
+        458,
+        459
+      ],
+      "Super Trio Series 4": [
+        675,
+        676,
+        677,
+        678
       ],
       "Black Lion Chest Series 1 - Raptor Hatchling": [
         591,
@@ -874,40 +905,40 @@
         868,
         869
       ],
-      "Black Lion Chest Exclusives Series 1 - Spooky Mount": [
+      "Mounts Pack Series 1 - Spooky Mount": [
         599,
         605,
         609,
         610,
         611
       ],
-      "Black Lion Chest Exclusives Series 2 - Cozy Wintersday Mount": [
+      "Mounts Pack Series 2 - Cozy Wintersday Mount": [
         627,
         629,
         631,
         633,
         635
       ],
-      "Black Lion Chest Exclusives Series 3 - Branded Mount": [
+      "Mounts Pack Series 3 - Branded Mount": [
         657,
         660,
         661,
         662,
         663
       ],
-      "Black Lion Chest Exclusives Series 4 - Awakened Mount": [
-        689,
-        691,
-        693,
-        694,
-        699
-      ],
-      "Black Lion Chest Exclusives Series 5 - Exo-Suit Mount": [
+      "Mounts Pack Series 4 - Exo-Suit Mount": [
         709,
         713,
         714,
         715,
         717
+      ],
+      "Mounts Pack Series 5 - Awakened Mount": [
+        689,
+        691,
+        693,
+        694,
+        699
       ],
       "Costumed Trick-or-Treater / Ghost Carlotta": [
         197,
@@ -949,30 +980,6 @@
         109,
         110,
         111
-      ],
-      "Super - Set 1": [
-        133,
-        134,
-        135,
-        457
-      ],
-      "Super - Set 2": [
-        185,
-        186,
-        187,
-        188
-      ],
-      "Super - Set 3": [
-        455,
-        456,
-        458,
-        459
-      ],
-      "Super - Set 4": [
-        675,
-        676,
-        677,
-        678
       ],
       "Standalone: Other": [
         1,

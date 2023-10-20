@@ -645,6 +645,7 @@
       { "name": "Inquest Overseer Chair Glider Combo", "combo": { "glider": [73], "novelty": [286] } },
       { "name": "Wandering Cloud Chair and Glider Combo", "combo": { "glider": [97], "novelty": [311] } },
       { "name": "Gentle Garden Swing Chair Glider Combo", "combo": { "glider": [127], "novelty": [] } },
+      { "name": "Personal Gyrocopter Chair Glider Combo", "combo": { "glider": [128], "novelty": [] } },
       // Glider + Novelty - Toy
       { "name": "Electromagnetic Ascender-Descender Glider Combo", "combo": { "glider": [16], "novelty": [27] } },
       { "name": "Magic Carpet Glider Combo", "combo": { "glider": [44], "novelty": [16] } },

@@ -21,14 +21,14 @@
       ]
     },
     "Gem Store": {
-      "Gem Store Series 1 - Spooky": [
+      "Mounts Pack Series 1 - Spooky": [
         13,
         14,
         15,
         16,
         19
       ],
-      "Gem Store Series 2 - Cozy Wintersday": [
+      "Mounts Pack Series 2 - Cozy Wintersday": [
         52,
         53,
         56,
@@ -36,7 +36,7 @@
         60,
         235
       ],
-      "Gem Store Series 3 - Branded": [
+      "Mounts Pack Series 3 - Branded": [
         66,
         68,
         70,
@@ -46,7 +46,7 @@
         195,
         234
       ],
-      "Gem Store Series 4 - Exo-Suit": [
+      "Mounts Pack Series 4 - Exo-Suit": [
         92,
         93,
         94,
@@ -55,7 +55,7 @@
         303,
         371
       ],
-      "Gem Store Series 5 - Awakened": [
+      "Mounts Pack Series 5 - Awakened": [
         98,
         99,
         100,
@@ -63,7 +63,7 @@
         102,
         278
       ],
-      "Gem Store Series 6 - Mad Realm": [
+      "Mounts Pack Series 6 - Mad Realm": [
         130,
         131,
         132,
@@ -71,19 +71,29 @@
         134,
         304
       ],
-      "Gem Store Series 7 - Shiverpeaks": [
+      "Mounts Pack Series 7 - Shiverpeaks": [
         153,
         154,
         155,
         157,
         158
       ],
-      "Gem Store Series 8 - Mad King": [
+      "Mounts Pack Series 8 - Mad King": [
         222,
         223,
         224,
         225,
         226
+      ],
+      "Mounts Pack Series 9 - Canthan": [
+        360,
+        422,
+        431,
+        433,
+        437,
+        445
+      ],
+      "Mounts Pack Series 10 - Astral Ward": [
       ],
       "Alloyed": [
         145,
@@ -104,8 +114,6 @@
         495,
         527
       ],
-      "Astral Ward": [
-      ],
       "Aurene's Prismatic": [
         298,
         353,
@@ -125,14 +133,6 @@
         347,
         373,
         430
-      ],
-      "Canthan": [
-        360,
-        422,
-        431,
-        433,
-        437,
-        445
       ],
       "Darkmist": [
         313,
