@@ -23,7 +23,7 @@
         3869,
         3871
       ],
-      "Loot Series 1 > Ascalon Series 1 - Steam": [
+      "Ascalon Loot Weapon Series 1 - Steam": [
         5185,
         5218,
         5091,
@@ -44,74 +44,7 @@
         5210,
         5149
       ],
-      "Loot Series 2 > Kryta Series 1 - Krytan": [
-        4992,
-        4994,
-        4995,
-        4997,
-        4998,
-        5000,
-        5129,
-        5001,
-        5004,
-        5164,
-        5005,
-        5008,
-        5170,
-        5013,
-        5018,
-        5019,
-        5020,
-        5021,
-        4989,
-        4990,
-        5022
-      ],
-      "Loot Series 3 > Shiverpeak Mountains Series 1 - Shiverpeak": [
-        5058,
-        5158,
-        5159,
-        5193,
-        5098,
-        5229,
-        5231,
-        5136,
-        5106,
-        5171,
-        5172,
-        5175,
-        5111,
-        5176,
-        5113,
-        5114,
-        5148,
-        5213,
-        5182,
-        5150,
-        5362
-      ],
-      "Loot Series 4 > Tarnished Coast Series 1 - Glyphic": [
-        5217,
-        5122,
-        5124,
-        5188,
-        5061,
-        5222,
-        5095,
-        5192,
-        5033,
-        5165,
-        5135,
-        5201,
-        5234,
-        5237,
-        5239,
-        5207,
-        5178,
-        5050,
-        5151
-      ],
-      "Loot Series 5 > Rare Series 1 > Ascalon Series 2 - Flame": [
+      "Ascalon Loot Weapon Series 2 - Flame": [
         4743,
         5152,
         5155,
@@ -135,70 +68,7 @@
         5214,
         5086
       ],
-      "Loot Series 6 > Rare Series 2 > Kryta Series 2 - Aureate": [
-        5024,
-        4993,
-        5025,
-        5154,
-        5027,
-        5029,
-        4999,
-        5002,
-        5003,
-        5006,
-        5007,
-        5009,
-        5010,
-        5011,
-        5012,
-        5015,
-        5016,
-        5017,
-        5023
-      ],
-      "Loot Series 7 > Rare Series 3 > Shiverpeak Mountains Series 2 - Norn": [
-        5153,
-        5089,
-        5096,
-        5162,
-        5194,
-        5228,
-        5230,
-        5103,
-        5104,
-        5138,
-        5235,
-        5108,
-        5109,
-        5078,
-        5174,
-        5047,
-        5115,
-        5084,
-        5117
-      ],
-      "Loot Series 8 > Rare Series 4 > Tarnished Coast Series 2 - Verdant": [
-        5156,
-        5189,
-        5125,
-        5094,
-        5190,
-        5062,
-        3881,
-        5101,
-        5134,
-        5072,
-        5137,
-        5203,
-        5076,
-        5014,
-        5110,
-        5079,
-        5081,
-        5083,
-        5054
-      ],
-      "Loot Series 9 > Exotic Series 1 > Ascalon Series 3 - Legionnaire": [
+      "Ascalon Loot Weapon Series 3 - Legionnaire": [
         4991,
         5056,
         5088,
@@ -221,7 +91,51 @@
         5116,
         5053
       ],
-      "Loot Series 10 > Exotic Series 2 > Kryta Series 3 - Ceremonial": [
+      "Kryta Loot Weapon Series 1 - Krytan": [
+        4992,
+        4994,
+        4995,
+        4997,
+        4998,
+        5000,
+        5129,
+        5001,
+        5004,
+        5164,
+        5005,
+        5008,
+        5170,
+        5013,
+        5018,
+        5019,
+        5020,
+        5021,
+        4989,
+        4990,
+        5022
+      ],
+      "Kryta Loot Weapon Series 2 - Aureate": [
+        5024,
+        4993,
+        5025,
+        5154,
+        5027,
+        5029,
+        4999,
+        5002,
+        5003,
+        5006,
+        5007,
+        5009,
+        5010,
+        5011,
+        5012,
+        5015,
+        5016,
+        5017,
+        5023
+      ],
+      "Kryta Loot Weapon Series 3 - Ceremonial": [
         5120,
         5123,
         5221,
@@ -242,7 +156,51 @@
         5215,
         5119
       ],
-      "Loot Series 11 > Exotic Series 3 > Shiverpeak Mountains Series 3 - Etched": [
+      "Shiverpeak Mountains Loot Weapon Series 1 - Shiverpeak": [
+        5058,
+        5158,
+        5159,
+        5193,
+        5098,
+        5229,
+        5231,
+        5136,
+        5106,
+        5171,
+        5172,
+        5175,
+        5111,
+        5176,
+        5113,
+        5114,
+        5148,
+        5213,
+        5182,
+        5150,
+        5362
+      ],
+      "Shiverpeak Mountains Loot Weapon Series 2 - Norn": [
+        5153,
+        5089,
+        5096,
+        5162,
+        5194,
+        5228,
+        5230,
+        5103,
+        5104,
+        5138,
+        5235,
+        5108,
+        5109,
+        5078,
+        5174,
+        5047,
+        5115,
+        5084,
+        5117
+      ],
+      "Shiverpeak Mountains Loot Weapon Series 3 - Etched": [
         5026,
         5028,
         5063,
@@ -264,7 +222,7 @@
         5303,
         5112
       ],
-      "Loot Series 11 > Exotic Series 3 > Shiverpeak Mountains Series 3 - Etched > Corrupted": [
+      "Shiverpeak Mountains Loot Weapon Series 3 - Etched > Corrupted": [
         4037,
         4069,
         3974,
@@ -285,7 +243,49 @@
         4027,
         3963
       ],
-      "Loot Series 12 > Exotic Series 4 > Tarnished Coast Series 3 - Tribal": [
+      "Tarnished Coast Loot Weapon Series 1 - Glyphic": [
+        5217,
+        5122,
+        5124,
+        5188,
+        5061,
+        5222,
+        5095,
+        5192,
+        5033,
+        5165,
+        5135,
+        5201,
+        5234,
+        5237,
+        5239,
+        5207,
+        5178,
+        5050,
+        5151
+      ],
+      "Tarnished Coast Loot Weapon Series 2 - Verdant": [
+        5156,
+        5189,
+        5125,
+        5094,
+        5190,
+        5062,
+        3881,
+        5101,
+        5134,
+        5072,
+        5137,
+        5203,
+        5076,
+        5014,
+        5110,
+        5079,
+        5081,
+        5083,
+        5054
+      ],
+      "Tarnished Coast Loot Weapon Series 3 - Tribal": [
         4740,
         5184,
         5121,
@@ -307,7 +307,7 @@
         5118,
         5183
       ],
-      "Loot Series 13 > Ruins of Orr Series - Orrian": [
+      "Ruins of Orr Loot Weapon Series - Orrian": [
         4865,
         5057,
         5093,
@@ -328,28 +328,7 @@
         5055,
         5087
       ],
-      "Cultural Series 1 > Asura Series - Peacemaker": [
-        4288,
-        4263,
-        4296,
-        4329,
-        4266,
-        4267,
-        4332,
-        4268,
-        4335,
-        4273,
-        4340,
-        4278,
-        4311,
-        4279,
-        4312,
-        4348,
-        4318,
-        4350,
-        4287
-      ],
-      "Cultural Series 2 > Charr Series - Adamant Guard": [
+      "Cultural Weapon Series 1: Black Citadel - Adamant Guard": [
         4321,
         4289,
         4322,
@@ -370,7 +349,7 @@
         4351,
         4319
       ],
-      "Cultural Series 3 > Human Series - Seraph": [
+      "Cultural Weapon Series 2: Divinity's Reach - Seraph": [
         4352,
         4291,
         4324,
@@ -391,7 +370,7 @@
         4317,
         4285
       ],
-      "Cultural Series 4 > Norn Series - Wolfborn": [
+      "Cultural Weapon Series 3: Hoelbrak - Wolfborn": [
         4293,
         4294,
         4297,
@@ -412,7 +391,28 @@
         4316,
         4286
       ],
-      "Cultural Series 5 > Sylvari Series - Warden": [
+      "Cultural Weapon Series 4: Rata Sum - Peacemaker": [
+        4288,
+        4263,
+        4296,
+        4329,
+        4266,
+        4267,
+        4332,
+        4268,
+        4335,
+        4273,
+        4340,
+        4278,
+        4311,
+        4279,
+        4312,
+        4348,
+        4318,
+        4350,
+        4287
+      ],
+      "Cultural Weapon Series 5: The Grove - Warden": [
         4320,
         4257,
         4258,
@@ -434,7 +434,7 @@
         4343,
         4314
       ],
-      "Cultural Series 6 - Lionguard": [
+      "Cultural Weapon Series 6: Lion's Arch - Lionguard": [
         4609,
         4611,
         4614,
@@ -458,7 +458,7 @@
         4605,
         4639
       ],
-      "Cultural Series 7 - Pirate": [
+      "Cultural Weapon Series 7: Sharkmaw Caverns - Pirate": [
         4641,
         4642,
         4616,
@@ -479,7 +479,7 @@
         4606,
         4607
       ],
-      "Cultural Series 8 - Ebon Vanguard": [
+      "Cultural Weapon Series 8: Stronghold of Ebonhawke - Ebon Vanguard": [
         4640,
         4610,
         4644,
@@ -565,7 +565,7 @@
         4957,
         4926
       ],
-      "Crafting Series 1 - Bronze / Green Wood": [
+      "Standard Crafting Weapon Series 1 - Bronze / Green Wood": [
         4048,
         4004,
         4005,
@@ -586,7 +586,7 @@
         3883,
         3900
       ],
-      "Crafting Series 2 - Iron / Soft Wood": [
+      "Standard Crafting Weapon Series 2 - Iron / Soft Wood": [
         4000,
         3875,
         4009,
@@ -608,7 +608,7 @@
         3887,
         4156
       ],
-      "Crafting Series 3 - Steel / Seasoned Wood": [
+      "Standard Crafting Weapon Series 3 - Steel / Seasoned Wood": [
         5696,
         5697,
         5682,
@@ -629,7 +629,7 @@
         5688,
         5679
       ],
-      "Crafting Series 4 - Darksteel / Hard Wood": [
+      "Standard Crafting Weapon Series 4 - Darksteel / Hard Wood": [
         4049,
         4034,
         4006,
@@ -650,7 +650,7 @@
         3998,
         3919
       ],
-      "Crafting Series 5 - Mithril / Elder Wood": [
+      "Standard Crafting Weapon Series 5 - Mithril / Elder Wood": [
         4081,
         4114,
         4083,
@@ -671,7 +671,7 @@
         3965,
         3950
       ],
-      "Crafting Series 6 > Rare Series 1 - Bandit": [
+      "Standard Crafting Weapon Series 6 - Bandit": [
         4096,
         3905,
         4066,
@@ -693,7 +693,7 @@
         4029,
         3903
       ],
-      "Crafting Series 7 > Rare Series 2 - Dredge": [
+      "Standard Crafting Weapon Series 7 - Dredge": [
         3936,
         3937,
         4002,
@@ -714,7 +714,7 @@
         4028,
         3966
       ],
-      "Crafting Series 8 > Rare Series 3 - Ogre": [
+      "Standard Crafting Weapon Series 8 - Ogre": [
         4064,
         4033,
         4065,
@@ -735,7 +735,7 @@
         3993,
         4095
       ],
-      "Crafting Series 9 > Rare Series 4 - Krait": [
+      "Standard Crafting Weapon Series 9 - Krait": [
         3973,
         4106,
         4108,
@@ -757,7 +757,7 @@
         4063,
         4712
       ],
-      "Crafting Series 10 > Exotic Series - Pearl": [
+      "Standard Crafting Weapon Series 10 - Pearl": [
         4097,
         4098,
         4099,
@@ -778,7 +778,7 @@
         3995,
         3967
       ],
-      "Ascended Default Series 1: Power - Crimson Antique": [
+      "Ascended Default Weapon Series 1: Power - Crimson Antique": [
         4128,
         4160,
         4198,
@@ -799,7 +799,7 @@
         4125,
         4223
       ],
-      "Ascended Default Series 2: Precision - Citrine Antique": [
+      "Ascended Default Weapon Series 2: Precision - Citrine Antique": [
         4130,
         4195,
         4196,
@@ -820,7 +820,7 @@
         4126,
         4159
       ],
-      "Ascended Default Series 3: Toughness - Viridian Antique": [
+      "Ascended Default Weapon Series 3: Toughness - Viridian Antique": [
         4192,
         4194,
         4165,
@@ -841,7 +841,7 @@
         4158,
         4127
       ],
-      "Ascended Default Series 4: Vitality - Cobalt Antique": [
+      "Ascended Default Weapon Series 4: Vitality - Cobalt Antique": [
         4225,
         4162,
         4131,
@@ -862,7 +862,7 @@
         4188,
         4254
       ],
-      "Ascended Default Series 5: Condition Damage - Terracotta Antique": [
+      "Ascended Default Weapon Series 5: Condition Damage - Terracotta Antique": [
         4224,
         4129,
         4161,
@@ -883,7 +883,7 @@
         4187,
         4253
       ],
-      "Ascended Default Series 6: Healing Power - Calcite Antique": [
+      "Ascended Default Weapon Series 6: Healing Power - Calcite Antique": [
         4226,
         4163,
         4133,
@@ -904,7 +904,7 @@
         4190,
         4255
       ],
-      "Ascended Default Series 7: Celestial - Violet Antique": [
+      "Ascended Default Weapon Series 7: Celestial - Violet Antique": [
         4256,
         4193,
         4227,
@@ -925,7 +925,7 @@
         4157,
         4191
       ],
-      "Legendary Series 1 - Experiment": [
+      "Legendary Weapon Series 1 - Experiment": [
         6157,
         6182,
         6238,
@@ -947,11 +947,11 @@
         6494,
         6525
       ],
-      "Legendary Series 1 - Experiment > Perfected": [
+      "Legendary Weapon Series 1 - Experiment > Perfected": [
         4693,
         4737
       ],
-      "Legendary Series 1 - Experiment > Perfected > Precursor": [
+      "Legendary Weapon Series 1 - Experiment > Perfected > Precursor": [
         6199,
         6284,
         6286,
@@ -973,7 +973,7 @@
         6509,
         6514
       ],
-      "Legendary Series 1 - Experiment > Perfected > Precursor > Legendary": [
+      "Legendary Weapon Series 1 - Experiment > Perfected > Precursor > Legendary": [
         4664,
         4665,
         4666,
@@ -1945,7 +1945,7 @@
         6074,
         6047
       ],
-      "Legendary Series 2 - Experiment": [
+      "Legendary Weapon Series 2 - Experiment": [
         7318,
         7335,
         7207,
@@ -1963,7 +1963,7 @@
         8598,
         8696
       ],
-      "Legendary Series 2 - Experiment > Perfected": [
+      "Legendary Weapon Series 2 - Experiment > Perfected": [
         7298,
         6285,
         8339,
@@ -1981,7 +1981,7 @@
         8589,
         8729
       ],
-      "Legendary Series 2 - Experiment > Perfected > Precursor": [
+      "Legendary Weapon Series 2 - Experiment > Perfected > Precursor": [
         7306,
         7312,
         8341,
@@ -1999,7 +1999,7 @@
         8600,
         8692
       ],
-      "Legendary Series 2 - Experiment > Perfected > Precursor > Legendary": [
+      "Legendary Weapon Series 2 - Experiment > Perfected > Precursor > Legendary": [
         6276,
         7300,
         7206,
@@ -2882,7 +2882,7 @@
         10680,
         10691
       ],
-      "Legendary Series 3: Facet of Aurene - Dragon": [
+      "Legendary Weapon Series 3: Facet of Aurene - Dragon": [
         10235,
         10249,
         10254,
@@ -2900,7 +2900,7 @@
         10677,
         10698
       ],
-      "Legendary Series 3: Facet of Aurene - Dragon > Aurene": [
+      "Legendary Weapon Series 3: Facet of Aurene - Dragon > Aurene": [
         10276,
         10289,
         10322,
@@ -2918,7 +2918,7 @@
         10745,
         10756
       ],
-      "Legendary Series 3: Facet of Aurene - Dragon > Aurene > Jormag": [
+      "Legendary Weapon Series 3: Facet of Aurene - Dragon > Aurene > Jormag": [
         10250,
         10294,
         10301,
@@ -2936,7 +2936,7 @@
         10697,
         10747
       ],
-      "Legendary Series 3: Facet of Aurene - Dragon > Aurene > Kralkatorrik": [
+      "Legendary Weapon Series 3: Facet of Aurene - Dragon > Aurene > Kralkatorrik": [
         10251,
         10329,
         10355,
@@ -2954,7 +2954,7 @@
         10712,
         10748
       ],
-      "Legendary Series 3: Facet of Aurene - Dragon > Aurene > Mordremoth": [
+      "Legendary Weapon Series 3: Facet of Aurene - Dragon > Aurene > Mordremoth": [
         10320,
         10347,
         10353,
@@ -2972,7 +2972,7 @@
         10630,
         10711
       ],
-      "Legendary Series 3: Facet of Aurene - Dragon > Aurene > Primordus": [
+      "Legendary Weapon Series 3: Facet of Aurene - Dragon > Aurene > Primordus": [
         10252,
         10287,
         10288,
@@ -2990,7 +2990,7 @@
         10674,
         10696
       ],
-      "Legendary Series 3: Facet of Aurene - Dragon > Aurene > Soo-Won": [
+      "Legendary Weapon Series 3: Facet of Aurene - Dragon > Aurene > Soo-Won": [
         10244,
         10259,
         10309,
@@ -3008,7 +3008,7 @@
         10716,
         10720
       ],
-      "Legendary Series 3: Facet of Aurene - Dragon > Aurene > Zhaitan": [
+      "Legendary Weapon Series 3: Facet of Aurene - Dragon > Aurene > Zhaitan": [
         10260,
         10266,
         10284,
@@ -4241,7 +4241,7 @@
       ]
     },
     "Gem Store": {
-      "Gem Store Series 1 - Immortal": [
+      "Appearance Pack Series 1 - Immortal": [
         6081,
         6082,
         6115,
@@ -4259,7 +4259,7 @@
         6111,
         6079
       ],
-      "Gem Store Series 2 - Onyx Lion / Gold Lion": [
+      "Appearance Pack Series 2 - Onyx Lion / Gold Lion": [
         8256,
         8292,
         8293,
@@ -4293,7 +4293,7 @@
         8286,
         8255
       ],
-      "Gem Store Series 3 - Mythic": [
+      "Appearance Pack Series 3 - Mythic": [
         9054,
         9055,
         9056,
@@ -4311,7 +4311,7 @@
         9090,
         9093
       ],
-      "Gem Store Series 4 - Gold Essence": [
+      "Appearance Pack Series 4 - Gold Essence": [
         10262,
         10296,
         10340,

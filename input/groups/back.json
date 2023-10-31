@@ -1,55 +1,7 @@
 {
   "topLevelCategories": {
     "Core": {
-      "Crafting Discipline Series 1: Armorsmith": [
-        2304,
-        2305,
-        2308,
-        2279,
-        2301,
-        2303
-      ],
-      "Crafting Discipline Series 2: Artificer": [
-        2320,
-        2297,
-        2298,
-        2299,
-        2284,
-        2300
-      ],
-      "Crafting Discipline Series 3: Chef": [
-        2289,
-        2324,
-        2277,
-        2314,
-        2302,
-        2319
-      ],
-      "Crafting Discipline Series 4: Huntsman": [
-        2321,
-        2322,
-        2323,
-        2310,
-        2311,
-        2312
-      ],
-      "Crafting Discipline Series 5: Jeweler": [
-        2276,
-        2278,
-        2280,
-        2281,
-        2313,
-        2285
-      ],
-      "Crafting Discipline Series 6: Leatherworker": [
-        2292,
-        2293,
-        2294,
-        2295,
-        2296,
-        2315
-      ],
-      "Crafting Discipline Series 7: Tailor": [
+      "Crafting Discipline Series 1: Tailor": [
         2307,
         2309,
         2282,
@@ -57,13 +9,61 @@
         2316,
         2286
       ],
-      "Crafting Discipline Series 8: Weaponsmith": [
+      "Crafting Discipline Series 2: Leatherworker": [
+        2292,
+        2293,
+        2294,
+        2295,
+        2296,
+        2315
+      ],
+      "Crafting Discipline Series 3: Armorsmith": [
+        2304,
+        2305,
+        2308,
+        2279,
+        2301,
+        2303
+      ],
+      "Crafting Discipline Series 4: Artificer": [
+        2320,
+        2297,
+        2298,
+        2299,
+        2284,
+        2300
+      ],
+      "Crafting Discipline Series 5: Huntsman": [
+        2321,
+        2322,
+        2323,
+        2310,
+        2311,
+        2312
+      ],
+      "Crafting Discipline Series 6: Weaponsmith": [
         2288,
         2290,
         2306,
         2291,
         2317,
         2287
+      ],
+      "Crafting Discipline Series 7: Chef": [
+        2289,
+        2324,
+        2277,
+        2314,
+        2302,
+        2319
+      ],
+      "Crafting Discipline Series 8: Jeweler": [
+        2276,
+        2278,
+        2280,
+        2281,
+        2313,
+        2285
       ],
       "Book / Quiver": [
         2318,

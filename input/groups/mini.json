@@ -784,30 +784,6 @@
         253,
         254
       ],
-      "Super Trio Series 1": [
-        133,
-        134,
-        135,
-        457
-      ],
-      "Super Trio Series 2": [
-        185,
-        186,
-        187,
-        188
-      ],
-      "Super Trio Series 3": [
-        455,
-        456,
-        458,
-        459
-      ],
-      "Super Trio Series 4": [
-        675,
-        676,
-        677,
-        678
-      ],
       "Black Lion Chest Series 1 - Raptor Hatchling": [
         591,
         592,
@@ -952,11 +928,6 @@
         211,
         212
       ],
-      "Funko POP!": [
-        792,
-        793,
-        795
-      ],
       "Great Jungle Wurm": [
         215,
         216,
@@ -980,6 +951,24 @@
         109,
         110,
         111
+      ],
+      "Super Hologram": [
+        133,
+        134,
+        135,
+        185,
+        186,
+        187,
+        188,
+        455,
+        456,
+        457,
+        458,
+        459,
+        675,
+        676,
+        677,
+        678
       ],
       "Standalone: Other": [
         1,
@@ -1085,6 +1074,11 @@
         326,
         327,
         328
+      ],
+      "Standalone: Other - Funko POP!": [
+        792,
+        793,
+        795
       ],
       "Standalone: Other - Mount": [
         648,
