@@ -1,0 +1,18 @@
+{
+  "topLevelCategories": {
+    "Core": {
+      "Starter": [
+        1
+      ]
+    },
+    "Gem Store": {
+      "Standalone: Other": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  }
+}

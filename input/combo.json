@@ -732,7 +732,7 @@
       { "name": "Digital Deluxe Upgrade", "combo": { "armor": [1066,1069,1071,1090,1093,1094,1097,1099,1102,1103,1105,1111,1154,1155,1156,1198,1199,1200], "mini": [1] } },
       { "name": "Guild Wars 2: Heart of Thorns—Deluxe Upgrade", "combo": { "glider": [5], "mini": [319], "finisher": [60] } },
       { "name": "Guild Wars 2: Path of Fire—Deluxe Upgrade", "combo": { "outfit": [52] } },
-      { "name": "Guild Wars 2: End of Dragons—Deluxe Upgrade", "combo": { "mount": [360] } },
+      { "name": "Guild Wars 2: End of Dragons—Deluxe Upgrade", "combo": { "mount": [360], "skiff": [413] } },
       { "name": "Guild Wars 2: Secrets of the Obscure—Deluxe Upgrade", "combo": { "mount": [], "emote": ["MagicJuggle"] } }
     ]
   }

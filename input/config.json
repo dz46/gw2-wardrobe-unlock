@@ -102,6 +102,18 @@
       "cachePath": "titles",
       "bulkSupported": false,
       "stringIds": true
+    },
+    {
+      "baseUrl": "https://api.guildwars2.com/v2/jadebots",
+      "cachePath": "jadebots",
+      "bulkSupported": false,
+      "stringIds": true
+    },
+    {
+      "baseUrl": "https://api.guildwars2.com/v2/skiffs",
+      "cachePath": "skiffs",
+      "bulkSupported": false,
+      "stringIds": true
     }
   ],
   "prices": {
@@ -963,6 +975,12 @@
       }
     },
     {
+      "id": "skiff",
+      "name": "Skiff Skins",
+      "source": "skiffs",
+      "unlockUrl": "https://api.guildwars2.com/v2/account/skiffs"
+    },
+    {
       "id": "novelty",
       "name": "Novelties",
       "source": "novelties",
@@ -1048,8 +1066,18 @@
         // Replica of the Jade Throne
         "97424": [317],
         // Mining Rig Operator's Seat
-        "99419": [330]
+        "99419": [330],
+        // Oni Lord's Throne
+        "99681": [332],
+        // Storm Lord's Throne
+        "100336": [342]
       }
+    },
+    {
+      "id": "jadebot",
+      "name": "Jade Bot Skins",
+      "source": "jadebots",
+      "unlockUrl": "https://api.guildwars2.com/v2/account/jadebots"
     },
     {
       "id": "mini",

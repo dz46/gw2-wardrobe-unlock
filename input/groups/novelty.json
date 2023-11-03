@@ -160,6 +160,12 @@
     },
     "(X3) Guild Wars 2: End of Dragons (EoD)": {
       "Crustacean Tonic / Fish Tonic": [
+        335,
+        336,
+        337,
+        339,
+        340,
+        341
       ],
       "Standalone: Strike Mission": [
         316,
@@ -174,8 +180,12 @@
     },
     "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
       "Standalone: Strike Mission": [
+        344,
+        345
       ],
       "Standalone: Other": [
+        342,
+        343
       ]
     },
     "Super Adventure Festival (SAB)": {
@@ -240,7 +250,8 @@
       "Champion's Gizmo": [
       ],
       "Standalone: Fractals of the Mists": [
-        308
+        308,
+        332
       ],
       "Standalone: Other": [
         283,
