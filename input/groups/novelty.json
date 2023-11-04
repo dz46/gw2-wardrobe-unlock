@@ -15,7 +15,8 @@
         115,
         121,
         141,
-        307
+        307,
+        332
       ],
       "Standalone: World vs. World": [
         147
@@ -107,11 +108,11 @@
       ]
     },
     "(X1 > LW3) Living World Season 3: Glint's Legacy": {
-      "Standalone: Renown Heart": [
+      "Standalone: Other": [
+        92,
         132,
         158,
-        255,
-        92
+        255
       ]
     },
     "(X2) Guild Wars 2: Path of Fire (PoF)": {
@@ -136,14 +137,12 @@
       ]
     },
     "(X2 > LW4) Living World Season 4: Rise of Kralkatorrik": {
-      "Standalone: Renown Heart": [
+      "Standalone: Other": [
         86,
         89,
-        246,
-        248
-      ],
-      "Standalone: Other": [
         233,
+        246,
+        248,
         281,
         282
       ]
@@ -250,8 +249,7 @@
       "Champion's Gizmo": [
       ],
       "Standalone: Fractals of the Mists": [
-        308,
-        332
+        308
       ],
       "Standalone: Other": [
         283,

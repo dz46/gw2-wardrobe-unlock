@@ -80,9 +80,6 @@
         124,
         125
       ],
-      "Standalone: Champion Bag": [
-        200
-      ],
       "Standalone: Dungeon": [
         15,
         203
@@ -148,6 +145,7 @@
         175,
         184,
         186,
+        200,
         201,
         204,
         205,
@@ -302,8 +300,6 @@
       ]
     },
     "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
-      "Standalone: Rift Hunting": [
-      ],
       "Standalone: Strike Mission": [
       ],
       "Standalone: Other": [
@@ -356,12 +352,10 @@
       "God Walking Amongst Mere Mortals": [
         26
       ],
-      "Standalone: ArenaNet Partner": [
+      "Standalone: Other": [
         362,
         370,
-        372
-      ],
-      "Standalone: Other": [
+        372,
         400
       ]
     },

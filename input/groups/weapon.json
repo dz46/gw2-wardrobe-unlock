@@ -328,6 +328,42 @@
         5055,
         5087
       ],
+      "Champion Loot Bag Weapon Series 1": [
+        4736,
+        4803,
+        4739,
+        4805,
+        4806,
+        4742,
+        4872,
+        4810,
+        4874,
+        4746,
+        4812,
+        4749,
+        4813,
+        4886,
+        4887,
+        4888,
+        4762,
+        4765,
+        4767,
+        4895,
+        4897,
+        4839,
+        4713,
+        4842,
+        4787,
+        4788,
+        4792,
+        4793,
+        4795,
+        4796,
+        4732,
+        4797,
+        4733,
+        4734
+      ],
       "Cultural Weapon Series 1: Black Citadel - Adamant Guard": [
         4321,
         4289,
@@ -1635,53 +1671,15 @@
         5662,
         5663
       ],
-      "Standalone: Champion Bag": [
-        4736,
-        4803,
-        4739,
-        4805,
-        4806,
-        4742,
-        4872,
-        4810,
-        4874,
-        4746,
-        4812,
-        4749,
-        4813,
-        4886,
-        4887,
-        4888,
-        4762,
-        4765,
-        4767,
-        4895,
-        4897,
-        4839,
-        4713,
-        4842,
-        4787,
-        4788,
-        4792,
-        4793,
-        4795,
-        4796,
-        4732,
-        4797,
-        4733,
-        4734
-      ],
-      "Standalone: Renown Heart": [
-        4698,
-        4701,
-        4721,
-        4723
-      ],
       "Standalone: Fractals of the Mists": [
         6864,
         11537
       ],
       "Standalone: Other": [
+        4698,
+        4701,
+        4721,
+        4723,
         4696,
         4717,
         4718,
@@ -1945,6 +1943,16 @@
         6074,
         6047
       ],
+      "Champion Loot Bag Weapon Series 2": [
+        6198,
+        6359,
+        6374,
+        6383,
+        6452,
+        6499,
+        6504,
+        6513
+      ],
       "Legendary Weapon Series 2 - Experiment": [
         7318,
         7335,
@@ -2187,16 +2195,6 @@
         6652,
         6815
       ],
-      "Standalone: Champion Bag": [
-        6198,
-        6359,
-        6374,
-        6383,
-        6452,
-        6499,
-        6504,
-        6513
-      ],
       "Standalone: Raid": [
         6141,
         6528,
@@ -2245,12 +2243,10 @@
         6939,
         6941
       ],
-      "Standalone: Renown Heart": [
+      "Standalone: Other": [
+        4987,
         7118,
         7135
-      ],
-      "Standalone: Other": [
-        4987
       ]
     },
     "(X2) Guild Wars 2: Path of Fire (PoF)": {
@@ -2275,6 +2271,13 @@
         7599,
         7439,
         7569
+      ],
+      "Champion Loot Bag Weapon Series 3 - Forged": [
+        7584,
+        7492,
+        7562,
+        7677,
+        7470
       ],
       "Awakened": [
         7520,
@@ -2354,13 +2357,6 @@
         7547,
         7453,
         7389
-      ],
-      "Forged": [
-        7584,
-        7492,
-        7562,
-        7677,
-        7470
       ],
       "Funerary": [
         7552,
@@ -2882,6 +2878,27 @@
         10680,
         10691
       ],
+      "Champion Loot Bag Weapon Series 4": [
+        10233,
+        10238,
+        10285,
+        10316,
+        10342,
+        10367,
+        10462,
+        10473,
+        10478,
+        10487,
+        10493,
+        10534,
+        10562,
+        10574,
+        10624,
+        10665,
+        10699,
+        10732,
+        10751
+      ],
       "Legendary Weapon Series 3: Facet of Aurene - Dragon": [
         10235,
         10249,
@@ -3208,27 +3225,6 @@
         11340,
         11344
       ],
-      "Standalone: Champion Bag": [
-        10233,
-        10238,
-        10285,
-        10316,
-        10342,
-        10367,
-        10462,
-        10473,
-        10478,
-        10487,
-        10493,
-        10534,
-        10562,
-        10574,
-        10624,
-        10665,
-        10699,
-        10732,
-        10751
-      ],
       "Standalone: Strike Mission": [
         10803,
         10831,
@@ -3236,6 +3232,24 @@
       ]
     },
     "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
+      "Champion Loot Bag Weapon Series 5 - Shattered": [
+        11576,
+        11587,
+        11589,
+        11590,
+        11592,
+        11600,
+        11612,
+        11644,
+        11677,
+        11680,
+        11693,
+        11769,
+        11776,
+        11790,
+        11798,
+        11799
+      ],
       "Astral Ward": [
         11651,
         11676,
@@ -3297,24 +3311,6 @@
         11792,
         11810,
         11817
-      ],
-      "Shattered": [
-        11576,
-        11587,
-        11589,
-        11590,
-        11592,
-        11600,
-        11612,
-        11644,
-        11677,
-        11680,
-        11693,
-        11769,
-        11776,
-        11790,
-        11798,
-        11799
       ],
       "Sin": [
         11575,
@@ -3420,7 +3416,7 @@
       ]
     },
     "Lunar New Year (LNY)": {
-      "Festival Daily Completion Series 1 - Shining Aureate": [
+      "Festival Daily Completion Weapon Series 1 - Shining Aureate": [
         9095,
         9096,
         9098,
@@ -3438,7 +3434,7 @@
         9127,
         9132
       ],
-      "Festival Daily Completion Series 1 - Shining Aureate > Fortune-Shining Aureate": [
+      "Festival Daily Completion Weapon Series 1 - Shining Aureate > Fortune-Shining Aureate": [
         9840,
         9847,
         9848,
@@ -3456,7 +3452,7 @@
         9877,
         9885
       ],
-      "Festival Daily Completion Series 1 - Shining Aureate > Refitted Aureate": [
+      "Festival Daily Completion Weapon Series 1 - Shining Aureate > Refitted Aureate": [
         9832,
         9833,
         9837,
@@ -3474,9 +3470,9 @@
         9886,
         9889
       ],
-      "Festival Weekly Completion Series 1 - WIP": [
+      "Festival Weekly Completion Weapon Series 1 - WIP": [
       ],
-      "Festival Champion Bag Series 1 - Firework": [
+      "Festival Champion Loot Bag Weapon Series 1 - Firework": [
         11201,
         11202,
         11203,
@@ -3505,7 +3501,7 @@
       ]
     },
     "Super Adventure Festival (SAB)": {
-      "Festival Daily Completion Series 2 - Crimson Assassin": [
+      "Festival Daily Completion Weapon Series 2 - Crimson Assassin": [
         7169,
         7170,
         7172,
@@ -3523,7 +3519,7 @@
         7166,
         7167
       ],
-      "Festival Daily Completion Series 2 - Crimson Assassin / Kaiser Snake > Crimson Vanquisher": [
+      "Festival Daily Completion Weapon Series 2 - Crimson Assassin / Kaiser Snake > Crimson Vanquisher": [
         9967,
         9968,
         9970,
@@ -3541,7 +3537,7 @@
         9987,
         9988
       ],
-      "Festival Weekly Completion Series 2 - Generation One": [
+      "Festival Weekly Completion Weapon Series 2 - Generation One": [
         11364,
         11366,
         11368,
@@ -3559,7 +3555,7 @@
         11401,
         11402
       ],
-      "Festival Champion Bag Series 2 - Hardlight": [
+      "Festival Champion Loot Bag Weapon Series 2 - Hardlight": [
         10767,
         10768,
         10771,
@@ -3677,7 +3673,7 @@
       ]
     },
     "Dragon Bash": {
-      "Festival Daily Completion Series 3 - Holographic": [
+      "Festival Daily Completion Weapon Series 3 - Holographic": [
         8804,
         8805,
         8806,
@@ -3695,7 +3691,7 @@
         8845,
         8846
       ],
-      "Festival Daily Completion Series 3 - Holographic > Imbued Holographic": [
+      "Festival Daily Completion Weapon Series 3 - Holographic > Imbued Holographic": [
         9451,
         9453,
         9454,
@@ -3713,7 +3709,7 @@
         9471,
         9473
       ],
-      "Festival Weekly Completion Series 3 - Dragonrender": [
+      "Festival Weekly Completion Weapon Series 3 - Dragonrender": [
         11474,
         11475,
         11476,
@@ -3731,7 +3727,7 @@
         11507,
         11508
       ],
-      "Festival Champion Bag Series 3 - Dragonbone": [
+      "Festival Champion Loot Bag Weapon Series 3 - Dragonbone": [
         10844,
         10845,
         10848,
@@ -3767,7 +3763,7 @@
       ]
     },
     "Festival of the Four Winds (FotFW)": {
-      "Festival Daily Completion Series 4 - Zephyrite": [
+      "Festival Daily Completion Weapon Series 4 - Zephyrite": [
         8224,
         8232,
         8200,
@@ -3782,7 +3778,7 @@
         8870,
         8874
       ],
-      "Festival Daily Completion Series 4 - Zephyrite > Sun-Blessed Zephyrite": [
+      "Festival Daily Completion Weapon Series 4 - Zephyrite > Sun-Blessed Zephyrite": [
         9537,
         9540,
         9541,
@@ -3797,7 +3793,7 @@
         9557,
         9558
       ],
-      "Festival Weekly Completion Series 4 - Sun-Grown": [
+      "Festival Weekly Completion Weapon Series 4 - Sun-Grown": [
         11544,
         11545,
         11547,
@@ -3815,7 +3811,7 @@
         11565,
         11566
       ],
-      "Festival Champion Bag Series 4 - Watchwork": [
+      "Festival Champion Loot Bag Weapon Series 4 - Watchwork": [
         10910,
         10913,
         10915,
@@ -3887,7 +3883,7 @@
       ]
     },
     "Shadow of the Mad King (Halloween)": {
-      "Festival Daily Completion Series 5 - Haunted": [
+      "Festival Daily Completion Weapon Series 5 - Haunted": [
         7777,
         7779,
         7785,
@@ -3905,7 +3901,7 @@
         7801,
         7772
       ],
-      "Festival Daily Completion Series 5 - Haunted > Demon-Haunted": [
+      "Festival Daily Completion Weapon Series 5 - Haunted > Demon-Haunted": [
         9619,
         9620,
         9622,
@@ -3923,7 +3919,7 @@
         9650,
         9652
       ],
-      "Festival Weekly Completion Series 5 - Grim Machine": [
+      "Festival Weekly Completion Weapon Series 5 - Grim Machine": [
         11847,
         11848,
         11851,
@@ -3941,7 +3937,7 @@
         11870,
         11872
       ],
-      "Festival Champion Bag Series 5 - Chained": [
+      "Festival Champion Loot Bag Weapon Series 5 - Chained": [
         11054,
         11061,
         11064,
@@ -4011,7 +4007,7 @@
       ]
     },
     "A Very Merry Wintersday": {
-      "Festival Daily Completion Series 6 - Wrapped": [
+      "Festival Daily Completion Weapon Series 6 - Wrapped": [
         7043,
         7943,
         7948,
@@ -4029,7 +4025,7 @@
         7063,
         7037
       ],
-      "Festival Daily Completion Series 6 - Wrapped > Sparkling Wrapped": [
+      "Festival Daily Completion Weapon Series 6 - Wrapped > Sparkling Wrapped": [
         9730,
         9734,
         9736,
@@ -4047,9 +4043,9 @@
         9787,
         9788
       ],
-      "Festival Weekly Completion Series 6 - WIP": [
+      "Festival Weekly Completion Weapon Series 6 - WIP": [
       ],
-      "Festival Champion Bag Series 6 - Snowdrift": [
+      "Festival Champion Loot Bag Weapon Series 6 - Snowdrift": [
         11172,
         11173,
         11174,
@@ -4162,6 +4158,24 @@
         10960,
         10966
       ],
+      "Ectoplasmic Stone": [
+        8757,
+        8758,
+        8759,
+        8763,
+        8764,
+        8767,
+        8768,
+        8770,
+        8771,
+        8775,
+        8776,
+        8780,
+        8772,
+        8778,
+        8773,
+        8781
+      ],
       "Luminous": [
         7476,
         7481,
@@ -4197,24 +4211,6 @@
         11019,
         11020,
         11021
-      ],
-      "Standalone: Ectoplasmic Stone": [
-        8757,
-        8758,
-        8759,
-        8763,
-        8764,
-        8767,
-        8768,
-        8770,
-        8771,
-        8775,
-        8776,
-        8780,
-        8772,
-        8778,
-        8773,
-        8781
       ],
       "Standalone: Hall of Monuments": [
         4569,
