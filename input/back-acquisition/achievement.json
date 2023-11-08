@@ -2,7 +2,7 @@
   "name": "achievement",
   "contents": [
     // Core - Decade
-    11027,
+    11025,11027,
     // Core
     5653,6618,6621,
     //Living World Season 1
@@ -17,7 +17,7 @@
     6149,6279,
     // Living World Season 3 - Druid Stone / The Wayfarer's Henge
     7214,7209,7216,7218,
-    // Living World Season 3 - Relic of the Six Gods
+    // Living World Season 3 - Relic of The Six
     7319,
     // Living World Season 4 - Inquest / Mark Y Golem
     8049,8052,8058,
@@ -28,7 +28,7 @@
     // End of Dragons
     10231,10247,10271,10399,10458,11322,11268,
     // Secrets of the Obscure
-    11741,11804,
+    11741,11804,11904,
     // Festival: Super Adventure Festival
     7201,6668,2361,2360,
     // Festival: Dragon Bash

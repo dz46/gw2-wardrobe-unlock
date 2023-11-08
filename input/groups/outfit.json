@@ -5,27 +5,13 @@
         60
       ]
     },
-    "Shadow of the Mad King (Halloween)": {
+    "Special Event: Shadow of the Mad King (Halloween)": {
       "Standalone: Other": [
         12
       ]
     },
     "Gem Store": {
-      "Clothing": [
-        59,
-        61,
-        62,
-        63,
-        64,
-        65,
-        66,
-        67,
-        68,
-        69,
-        70,
-        71
-      ],
-      "Crystal Savant / Crystal Nomad / Crystal Arbiter": [
+      "Crystal": [
         18,
         29,
         35
@@ -36,13 +22,6 @@
         45,
         47,
         49
-      ],
-      "Emblem Clothing": [
-        73,
-        89,
-        90,
-        95,
-        113
       ],
       "Six Gods's Regalia": [
         20,
@@ -73,7 +52,6 @@
         24,
         25,
         26,
-        27,
         28,
         31,
         32,
@@ -144,8 +122,33 @@
         123,
         124,
         125,
-        126,
-        127
+        126
+      ],
+      "Standalone: Clothing": [
+        59,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71
+      ]
+    },
+    "Promotional Event": {
+      "Emblem Clothing": [
+        73,
+        89,
+        113
+      ],
+      "Standalone: Other": [
+        27,
+        90,
+        95
       ]
     }
   }

@@ -127,6 +127,7 @@ var acquisitionMethods = [
 
     { id: "caseofcapturedlightning", name: "Case of Captured Lightning", category: "Secrets of the Obscure"},
     { id: "pouchofstardust", name: "Pouch of Stardust", category: "Secrets of the Obscure"},
+    { id: "clotofcongealedscream", name: "Clot of Congealed Scream", category: "Secrets of the Obscure"},
     { id: "amalgamatedkryptisessence", name: "Amalgamated Kryptis Essence", category: "Secrets of the Obscure"},
     { id: "purifiedkryptisessence", name: "Purified Kryptis Essence", category: "Secrets of the Obscure"},
     { id: "giftoffangs", name: "Gift of Fangs", category: "Secrets of the Obscure"},
@@ -203,6 +204,7 @@ var acquisitionMethods = [
     { id: "mountlicense13", name: "Imperial Wonders Mount License", category: "Gem Store - Mount License"},
     { id: "mountlicense14", name: "Eternal Crossings Mount License", category: "Gem Store - Mount License"},
     //{ id: "mountlicense15", name: "Kaineng Lights Mount License", category: "Gem Store - Mount License"},
+    //{ id: "mountlicense16", name: "Arcane Delights Mount License", category: "Gem Store - Mount License"},
 
     //{ id: "armorcombo", name: "Armor Combo", category: "Combo"},
     //{ id: "weaponcombo", name: "Weapon Combo", category: "Combo"},

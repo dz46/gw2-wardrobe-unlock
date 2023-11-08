@@ -1,23 +1,7 @@
 {
   "topLevelCategories": {
     "Core": {
-      "Crafting Discipline Series 1: Tailor": [
-        2307,
-        2309,
-        2282,
-        2283,
-        2316,
-        2286
-      ],
-      "Crafting Discipline Series 2: Leatherworker": [
-        2292,
-        2293,
-        2294,
-        2295,
-        2296,
-        2315
-      ],
-      "Crafting Discipline Series 3: Armorsmith": [
+      "Crafting Discipline: Armorsmith": [
         2304,
         2305,
         2308,
@@ -25,7 +9,7 @@
         2301,
         2303
       ],
-      "Crafting Discipline Series 4: Artificer": [
+      "Crafting Discipline: Artificer": [
         2320,
         2297,
         2298,
@@ -33,23 +17,7 @@
         2284,
         2300
       ],
-      "Crafting Discipline Series 5: Huntsman": [
-        2321,
-        2322,
-        2323,
-        2310,
-        2311,
-        2312
-      ],
-      "Crafting Discipline Series 6: Weaponsmith": [
-        2288,
-        2290,
-        2306,
-        2291,
-        2317,
-        2287
-      ],
-      "Crafting Discipline Series 7: Chef": [
+      "Crafting Discipline: Chef": [
         2289,
         2324,
         2277,
@@ -57,7 +25,15 @@
         2302,
         2319
       ],
-      "Crafting Discipline Series 8: Jeweler": [
+      "Crafting Discipline: Huntsman": [
+        2321,
+        2322,
+        2323,
+        2310,
+        2311,
+        2312
+      ],
+      "Crafting Discipline: Jeweler": [
         2276,
         2278,
         2280,
@@ -65,12 +41,43 @@
         2313,
         2285
       ],
+      "Crafting Discipline: Leatherworker": [
+        2292,
+        2293,
+        2294,
+        2295,
+        2296,
+        2315
+      ],
+      "Crafting Discipline: Tailor": [
+        2307,
+        2309,
+        2282,
+        2283,
+        2316,
+        2286
+      ],
+      "Crafting Discipline: Weaponsmith": [
+        2288,
+        2290,
+        2306,
+        2291,
+        2317,
+        2287
+      ],
       "Book / Quiver": [
         2318,
         2325,
         2326,
         2341,
         2376
+      ],
+      "Capital City": [
+        6890,
+        6892,
+        6895,
+        6898,
+        6902
       ],
       "Fractal Capacitor": [
         2377,
@@ -99,20 +106,26 @@
         7276,
         7246
       ],
+      "Standalone: Biography": [
+        2340
+      ],
       "Standalone: Player vs. Player": [
         2380
       ],
       "Standalone: Other": [
-        2340,
         2342,
         2343,
         2344,
+        2358,
         5653,
         6242,
         6253,
         6353,
+        6618,
         6621,
-        9051
+        9051,
+        11025,
+        11027
       ]
     },
     "(Core > LW1) Living World Season 1: Scarlet's War": {
@@ -146,22 +159,22 @@
       ]
     },
     "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
-      "Order Series 1: Durmand Priory": [
+      "Order: Durmand Priory": [
         6296,
         6170,
         6379
       ],
-      "Order Series 2: Order of Whispers": [
+      "Order: Order of Whispers": [
         6416,
         6398,
         6159
       ],
-      "Order Series 3: Vigil": [
+      "Order: Vigil": [
         6243,
         6246,
         6304
       ],
-      "Crafting Discipline Series 9: Scribe": [
+      "Crafting Discipline: Scribe": [
         6512,
         6402,
         6341,
@@ -169,14 +182,14 @@
         6361,
         6495
       ],
-      "Auric Backplate / Luminate's Backplate": [
-        6149,
-        6279
-      ],
       "Standalone: Raid": [
         6135,
         6809,
         7114
+      ],
+      "Standalone: Other": [
+        6149,
+        6279
       ]
     },
     "(X1 > LW3) Living World Season 3: Glint's Legacy": {
@@ -216,11 +229,9 @@
         8058,
         8052
       ],
-      "Banner of the Commander": [
-        8149,
-        8165
-      ],
       "Standalone: Other": [
+        8149,
+        8165,
         8169
       ]
     },
@@ -245,10 +256,6 @@
       ]
     },
     "(X3) Guild Wars 2: End of Dragons (EoD)": {
-      "Echovald Backpiece": [
-        10457,
-        10647
-      ],
       "Standalone: Strike Mission": [
         10898
       ],
@@ -259,8 +266,10 @@
         10344,
         10399,
         10426,
+        10457,
         10458,
         10524,
+        10647,
         10675,
         11322,
         11268
@@ -268,11 +277,13 @@
     },
     "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
       "Standalone: Other": [
-      	11741,
-      	11804
+        11741,
+        11804,
+        11903,
+        11904
       ]
     },
-    "Lunar New Year (LNY)": {
+    "Special Event: Lunar New Year (LNY)": {
       "Lucky Celestial Lantern": [
         5856,
         6619,
@@ -296,7 +307,7 @@
         11206
       ]
     },
-    "Super Adventure Festival (SAB)": {
+    "Special Event: Super Adventure Festival (SAB)": {
       "Super / King Toad / Storm Wizard / Kaiser Snake / Crimson Assassin": [
         2360,
         2361,
@@ -308,14 +319,14 @@
         2359
       ]
     },
-    "Dragon Bash": {
+    "Special Event: Dragon Bash": {
       "Standalone: Other": [
         2351,
         2352,
         8833
       ]
     },
-    "Festival of the Four Winds (FotFW)": {
+    "Special Event: Festival of the Four Winds (FotFW)": {
       "Aspect Catcher": [
         2346,
         2347,
@@ -326,14 +337,16 @@
         8218,
         8223
       ],
-      "Standalone: Other": [
+      "Standalone: Festival Bag": [
         2349,
-        2350,
+        2350
+      ],
+      "Standalone: Other": [
         5456,
         8861
       ]
     },
-    "Shadow of the Mad King (Halloween)": {
+    "Special Event: Shadow of the Mad King (Halloween)": {
       "Mad Memoires": [
         2336,
         7760,
@@ -341,10 +354,10 @@
         7775
       ],
       "Standalone: Other": [
-      	9638
+        9638
       ]
     },
-    "A Very Merry Wintersday": {
+    "Special Event: A Very Merry Wintersday": {
       "Standalone: Other": [
         2374,
         2375,
@@ -353,38 +366,20 @@
         10218
       ]
     },
-    "Bonus Event": {
-      "Capital City": [
-        6890,
-        6892,
-        6895,
-        6898,
-        6902
-      ],
-      "Decade": [
-        11025,
-        11027
-      ],
-      "Standalone: Other": [
-        2358,
-        6618,
-        10059
-      ]
-    },
     "Gem Store": {
-      "Forest Archer": [
-        10156,
-        10159,
-        10161
-      ],
-      "Plush Charr": [
+      "Charr": [
         2363,
         2364,
         2368,
         2366,
         2371
       ],
-      "Plush Quaggan": [
+      "Forest Archer": [
+        10156,
+        10159,
+        10161
+      ],
+      "Quaggan": [
         2355,
         2365,
         2367,
@@ -456,7 +451,6 @@
         9717,
         9918,
         10005,
-        10084,
         10088,
         10104,
         10164,
@@ -517,6 +511,12 @@
         11125,
         11246,
         11253
+      ]
+    },
+    "Promotional Event": {
+      "Standalone: Other": [
+        10059,
+        10084
       ]
     }
   }
