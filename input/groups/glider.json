@@ -1,17 +1,17 @@
 {
   "topLevelCategories": {
     "Core": {
-      "Starter": [
+      "Starter Glider": [
         2
       ],
-      "Ad Infinitum / The Ascension / Warbringer": [
+      "Standalone Glider": [
         11,
         22,
         43
       ]
     },
     "Gem Store": {
-      "Standalone: Other": [
+      "Standalone Glider": [
         4,
         5,
         7,
@@ -95,13 +95,13 @@
         127,
         128
       ],
-      "Standalone: Other - Cape": [
+      "Standalone Glider - Cape": [
         96,
         114,
         122,
         126
       ],
-      "Standalone: Other - Wings": [
+      "Standalone Glider - Wings": [
         1,
         3,
         6,

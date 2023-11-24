@@ -1,7 +1,7 @@
 {
   "topLevelCategories": {
     "Core": {
-      "Starter": [
+      "Starter Mount": [
         1,
         2,
         3,
@@ -12,12 +12,12 @@
         186,
         397
       ],
-      "Standalone: World vs. World": [
+      "Standalone Mount": [
         251
       ]
     },
     "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
-      "Standalone: Other": [
+      "Standalone Mount": [
       ]
     },
     "Gem Store": {
@@ -151,14 +151,16 @@
         352,
         362
       ],
-      "Flame / Blazing": [
+      "Flame / Blazing / Pyroclast": [
         23,
+        30,
         41,
         48,
         116,
         166,
         211,
         268,
+        365,
         415,
         434,
         459,
@@ -197,6 +199,8 @@
         499,
         504
       ],
+      "Primal Maguuma": [
+      ],
       "Primeval": [
         82,
         87,
@@ -205,15 +209,11 @@
         237,
         300
       ],
-      "Pyroclast": [
-        30,
-        365
-      ],
       "Sand Souled": [
         146,
         171
       ],
-      "Scaled": [
+      "Scaled Hell": [
       ],
       "Star / Star Blessed": [
         12,
@@ -228,7 +228,7 @@
         485,
         525
       ],
-      "Storm / Heavenly Thunder": [
+      "Storm / Heavenly Thunder / Charged": [
         24,
         79,
         109,
@@ -255,7 +255,7 @@
         276,
         310
       ],
-      "Standalone: Other - Raptor": [
+      "Standalone Mount - Raptor": [
         17,
         21,
         29,
@@ -283,7 +283,7 @@
         505,
         514
       ],
-      "Standalone: Other - Springer": [
+      "Standalone Mount - Springer": [
         20,
         38,
         42,
@@ -309,7 +309,7 @@
         481,
         526
       ],
-      "Standalone: Other - Skimmer": [
+      "Standalone Mount - Skimmer": [
         26,
         36,
         37,
@@ -329,7 +329,7 @@
         368,
         375
       ],
-      "Standalone: Other - Jackal": [
+      "Standalone Mount - Jackal": [
         22,
         28,
         33,
@@ -359,7 +359,7 @@
         512,
         516
       ],
-      "Standalone: Other - Griffon": [
+      "Standalone Mount - Griffon": [
         25,
         34,
         40,
@@ -387,7 +387,7 @@
         521,
         522
       ],
-      "Standalone: Other - Roller Beetle": [
+      "Standalone Mount - Roller Beetle": [
         104,
         105,
         114,
@@ -398,7 +398,7 @@
         239,
         348
       ],
-      "Standalone: Other - Warclaw": [
+      "Standalone Mount - Warclaw": [
         162,
         163,
         165,
@@ -419,7 +419,7 @@
         484,
         524
       ],
-      "Standalone: Other - Skyscale": [
+      "Standalone Mount - Skyscale": [
         191,
         193,
         194,
@@ -442,7 +442,7 @@
         513,
         520
       ],
-      "Standalone: Other - Siege Turtle": [
+      "Standalone Mount - Siege Turtle": [
         416,
         417,
         419,

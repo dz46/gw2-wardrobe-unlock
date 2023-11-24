@@ -1,7 +1,7 @@
 {
   "topLevelCategories": {
     "Core": {
-      "Starter": [
+      "Starter Weapon": [
         3870,
         3872,
         3873,
@@ -835,7 +835,7 @@
         4125,
         4223
       ],
-      "Ascended Default Weapon Series 2: Precision - Citrine Antique": [
+      "Ascended Default Weapon Series 2: Precision / Ferocity - Citrine Antique": [
         4130,
         4195,
         4196,
@@ -898,7 +898,7 @@
         4188,
         4254
       ],
-      "Ascended Default Weapon Series 5: Condition Damage - Terracotta Antique": [
+      "Ascended Default Weapon Series 5: Condition Damage / Expertise - Terracotta Antique": [
         4224,
         4129,
         4161,
@@ -940,7 +940,7 @@
         4190,
         4255
       ],
-      "Ascended Default Weapon Series 7: Celestial - Violet Antique": [
+      "Ascended Default Weapon Series 7: Concentration - Violet Antique": [
         4256,
         4193,
         4227,
@@ -1671,11 +1671,7 @@
         5662,
         5663
       ],
-      "Standalone: Fractals of the Mists": [
-        6864,
-        11537
-      ],
-      "Standalone: Other": [
+      "Standalone Weapon": [
         4698,
         4701,
         4721,
@@ -1832,7 +1828,9 @@
         4857,
         4858,
         4862,
-        4863
+        4863,
+        6864,
+        11537
       ]
     },
     "(Core > LW1) Living World Season 1: Scarlet's War": {
@@ -1890,7 +1888,7 @@
         11136,
         11141
       ],
-      "Standalone: Other": [
+      "Standalone Weapon": [
         4690,
         5423,
         5425
@@ -1915,7 +1913,7 @@
         5530,
         5531
       ],
-      "Standalone: Other": [
+      "Standalone Weapon": [
         5770,
         5790
       ]
@@ -2195,8 +2193,15 @@
         6652,
         6815
       ],
-      "Standalone: Raid": [
+      "Standalone Weapon": [
         6141,
+        6160,
+        6177,
+        6307,
+        6441,
+        6450,
+        6458,
+        6491,
         6528,
         6531,
         6532,
@@ -2213,15 +2218,6 @@
         7147,
         7151,
         7155
-      ],
-      "Standalone: Other": [
-        6160,
-        6177,
-        6307,
-        6441,
-        6450,
-        6458,
-        6491
       ]
     },
     "(X1 > LW3) Living World Season 3: Glint's Legacy": {
@@ -2243,7 +2239,7 @@
         6939,
         6941
       ],
-      "Standalone: Other": [
+      "Standalone Weapon": [
         4987,
         7118,
         7135
@@ -2398,7 +2394,7 @@
         8796,
         8799
       ],
-      "Standalone: Raid": [
+      "Standalone Weapon": [
         7845,
         7863,
         7867,
@@ -2518,7 +2514,7 @@
         8749,
         8756
       ],
-      "Standalone: Other": [
+      "Standalone Weapon": [
         7862,
         7888,
         7913,
@@ -2840,18 +2836,16 @@
         9710,
         9712
       ],
-      "Standalone: Dragon Response Mission": [
-        9713,
-        9800,
-        9943
-      ],
-      "Standalone: Other": [
+      "Standalone Weapon": [
         8942,
         9014,
         9172,
         9386,
         9397,
         9500,
+        9713,
+        9800,
+        9943,
         9993
       ]
     },
@@ -3225,7 +3219,7 @@
         11340,
         11344
       ],
-      "Standalone: Strike Mission": [
+      "Standalone Weapon": [
         10803,
         10831,
         10837
@@ -3447,7 +3441,7 @@
         11746,
         11801
       ],
-      "Standalone: Other": [
+      "Standalone Weapon": [
         11747,
         11879
       ]
@@ -3527,7 +3521,7 @@
         11230,
         11232
       ],
-      "Standalone: Other": [
+      "Standalone Weapon": [
         6295,
         8769,
         10195,
@@ -3793,7 +3787,7 @@
         10858,
         10870
       ],
-      "Standalone: Other": [
+      "Standalone Weapon": [
         10023,
         10032,
         10033
@@ -3913,7 +3907,7 @@
         10949,
         10962
       ],
-      "Standalone: Other": [
+      "Standalone Weapon": [
         10099,
         10101,
         10108
@@ -4015,7 +4009,7 @@
         9003,
         9004
       ],
-      "Standalone: Other": [
+      "Standalone Weapon": [
         4686,
         4688,
         4692,
@@ -4164,11 +4158,9 @@
         9780,
         9786
       ],
-      "Standalone: Strike Mission": [
-        10194
-      ],
-      "Standalone: Other": [
+      "Standalone Weapon": [
         10185,
+        10194,
         10208,
         10217,
         11177,
@@ -4177,6 +4169,24 @@
       ]
     },
     "Bonus Event": {
+      "Hall of Monuments Weapon Series": [
+        4569,
+        4570,
+        4571,
+        4572,
+        4573,
+        4574,
+        4575,
+        4576,
+        4577,
+        4578,
+        4579,
+        4580,
+        4581,
+        4582,
+        4583,
+        4584
+      ],
       "Dragon Decade": [
         10908,
         10909,
@@ -4194,6 +4204,11 @@
         10956,
         10960,
         10966
+      ],
+      "Ectoplasm-Infused Vision Crystal": [
+        8252,
+        8258,
+        8265
       ],
       "Ectoplasmic Stone": [
         8757,
@@ -4248,29 +4263,6 @@
         11019,
         11020,
         11021
-      ],
-      "Standalone: Hall of Monuments": [
-        4569,
-        4570,
-        4571,
-        4572,
-        4573,
-        4574,
-        4575,
-        4576,
-        4577,
-        4578,
-        4579,
-        4580,
-        4581,
-        4582,
-        4583,
-        4584
-      ],
-      "Standalone: Other": [
-        8252,
-        8258,
-        8265
       ]
     },
     "Gem Store": {
@@ -5839,7 +5831,7 @@
         10072,
         10078
       ],
-      "Standalone: Other": [
+      "Standalone Weapon": [
         3713,
         3722,
         3737,

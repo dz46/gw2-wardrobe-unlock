@@ -1,19 +1,19 @@
 {
   "topLevelCategories": {
     "Core": {
-      "Standalone: Other": [
+      "Starter Emote": [
+      ],
+      "Standalone Emote": [
         "Bless"
       ]
     },
     "(X2 > LW5) Living World Season 5: The Icebrood Saga (IBS)": {
-      "Standalone: Dragon Response Mission": [
-        "Stretch"
-      ],
-      "Standalone: Other": [
+      "Standalone Emote": [
         "rockout",
         "shiver",
         "playdead",
-        "Shiverplus"
+        "Shiverplus",
+        "Stretch"
       ]
     },
     "(X3) Guild Wars 2: End of Dragons (EoD)": {
@@ -24,7 +24,7 @@
       ]
     },
     "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
-      "Standalone: Other": [
+      "Standalone Emote": [
         "Heroic",
         "Possessed"
       ]
@@ -35,7 +35,7 @@
         "shuffle",
         "step"
       ],
-      "Standalone: Other": [
+      "Standalone Emote": [
         "Serve",
         "Hiss",
         "MagicJuggle",

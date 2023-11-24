@@ -1,33 +1,33 @@
 {
   "topLevelCategories": {
     "Core": {
-      "Starter": [
+      "Starter Mist Champion": [
         1,
         3,
         2,
         5
-      ],
-      "Mist Champion Series 1 - Phalanx / Rogue / Strider / Steampunk": [
+      ]
+    },
+    "Gem Store": {
+      "Black Lion Chest Mist Champion Series 1 - Phalanx / Rogue / Strider / Steampunk": [
         8,
         10,
         12,
         18
       ],
-      "Mist Champion Series 2 - Rampart / Priory / Sneakthief / Orrian": [
+      "Black Lion Chest Mist Champion Series 2 - Rampart / Priory / Sneakthief / Orrian": [
         11,
         13,
         14,
         19
       ],
-      "Mist Champion Series 3 - Radiant / Flamewalker / Shadow Assassin / Elite Glorious": [
+      "Black Lion Chest Mist Champion Series 3 - Radiant / Flamewalker / Shadow Assassin / Elite Glorious": [
         4,
         7,
         9,
         20
-      ]
-    },
-    "Gem Store": {
-      "Festive": [
+      ],
+      "Black Lion Chest Mist Champion Series 4 - Festive": [
         15,
         16,
         17

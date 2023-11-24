@@ -1,7 +1,7 @@
 {
   "topLevelCategories": {
     "Core": {
-      "Starter": [
+      "Starter Dye": [
         14,
         17,
         19,
@@ -24,7 +24,7 @@
         680,
         700
       ],
-      "Hue Series 1 - Gray": [
+      "Unidentified Dye Series 1 - Gray": [
         4,
         69,
         99,
@@ -54,7 +54,7 @@
         627,
         703
       ],
-      "Hue Series 2 - Brown": [
+      "Unidentified Dye Series 2 - Brown": [
         13,
         18,
         22,
@@ -99,7 +99,7 @@
         455,
         456
       ],
-      "Hue Series 3 - Red": [
+      "Unidentified Dye Series 3 - Red": [
         123,
         335,
         582,
@@ -151,7 +151,7 @@
         669,
         1153
       ],
-      "Hue Series 4 - Orange": [
+      "Unidentified Dye Series 4 - Orange": [
         12,
         21,
         32,
@@ -190,7 +190,7 @@
         111,
         434
       ],
-      "Hue Series 5 - Yellow": [
+      "Unidentified Dye Series 5 - Yellow": [
         64,
         144,
         145,
@@ -229,7 +229,7 @@
         1154,
         1155
       ],
-      "Hue Series 6 - Green": [
+      "Unidentified Dye Series 6 - Green": [
         58,
         59,
         63,
@@ -302,7 +302,7 @@
         607,
         692
       ],
-      "Hue Series 7 - Blue": [
+      "Unidentified Dye Series 7 - Blue": [
         28,
         31,
         39,
@@ -364,7 +364,7 @@
         674,
         714
       ],
-      "Hue Series 8 - Purple": [
+      "Unidentified Dye Series 8 - Purple": [
         47,
         48,
         49,
@@ -424,7 +424,7 @@
       ]
     },
     "Bonus Event": {
-      "Delectable Birthday": [
+      "Delectable": [
         1673,
         1674,
         1675,

@@ -11,21 +11,15 @@
         179,
         231
       ],
-      "Standalone: Fractals of the Mists": [
-        115,
-        121,
-        141,
-        307,
-        332
-      ],
-      "Standalone: World vs. World": [
-        147
-      ],
-      "Standalone: Other": [
+      "Standalone Novelty": [
         12,
         29,
         41,
+        115,
+        121,
         122,
+        141,
+        147,
         219,
         222,
         237,
@@ -34,7 +28,9 @@
         273,
         274,
         275,
-        276
+        276,
+        307,
+        332
       ]
     },
     "(Core > LW1) Living World Season 1: Scarlet's War": {
@@ -45,14 +41,7 @@
         200,
         215
       ],
-      "Standalone: Dungeon": [
-        173,
-        175
-      ],
-      "Standalone: Strike Mission": [
-        325
-      ],
-      "Standalone: Other": [
+      "Standalone Novelty": [
         47,
         49,
         58,
@@ -60,7 +49,10 @@
         112,
         140,
         149,
-        156
+        156,
+        173,
+        175,
+        325
       ]
     },
     "(Core > LW2) Living World Season 2: Glint's Prophecy": {
@@ -75,7 +67,7 @@
         201,
         243
       ],
-      "Standalone: Other": [
+      "Standalone Novelty": [
         117,
         138,
         195,
@@ -94,21 +86,19 @@
         266,
         267
       ],
-      "Standalone: Raid": [
-        258
-      ],
-      "Standalone: Other": [
+      "Standalone Novelty": [
         34,
         106,
         110,
         186,
         198,
         228,
-        241
+        241,
+        258
       ]
     },
     "(X1 > LW3) Living World Season 3: Glint's Legacy": {
-      "Standalone: Other": [
+      "Standalone Novelty": [
         92,
         132,
         158,
@@ -123,21 +113,19 @@
       ],
       "Music Box": [
       ],
-      "Standalone: Raid": [
-        50,
-        69,
-        285
-      ],
-      "Standalone: Other": [
+      "Standalone Novelty": [
         17,
         22,
         39,
+        50,
         51,
-        218
+        69,
+        218,
+        285
       ]
     },
     "(X2 > LW4) Living World Season 4: Rise of Kralkatorrik": {
-      "Standalone: Other": [
+      "Standalone Novelty": [
         86,
         89,
         233,
@@ -148,11 +136,9 @@
       ]
     },
     "(X2 > LW5) Living World Season 5: The Icebrood Saga (IBS)": {
-      "Standalone: Strike Mission": [
-        293
-      ],
-      "Standalone: Other": [
+      "Standalone Novelty": [
         292,
+        293,
         297,
         299
       ]
@@ -166,34 +152,28 @@
         340,
         341
       ],
-      "Standalone: Strike Mission": [
+      "Standalone Novelty": [
         316,
+        317,
         318,
         319,
-        320
-      ],
-      "Standalone: Other": [
-        317,
+        320,
         330
       ]
     },
     "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
-      "Standalone: Strike Mission": [
+      "Standalone Novelty": [
+        342,
+        343,
         344,
         345
-      ],
-      "Standalone: Other": [
-        342,
-        343
       ]
     },
     "Super Adventure Festival (SAB)": {
-      "Super Boom Box": [
-        23,
-        25
-      ],
-      "Super Boom Box > Duskk's Super Boom Box": [
+      "Super Boom Box / Duskk's Super Boom Box": [
         3,
+        23,
+        25,
         30
       ]
     },
@@ -203,7 +183,7 @@
         31,
         46
       ],
-      "Standalone: Other": [
+      "Standalone Novelty": [
         28,
         142,
         150,
@@ -217,7 +197,7 @@
         166,
         178
       ],
-      "Standalone: Other": [
+      "Standalone Novelty": [
         170,
         180
       ]
@@ -237,7 +217,7 @@
         206,
         257
       ],
-      "Standalone: Other": [
+      "Standalone Novelty": [
         38,
         42,
         75,
@@ -248,14 +228,12 @@
     "Bonus Event": {
       "Champion's Gizmo": [
       ],
-      "Standalone: Fractals of the Mists": [
-        308
-      ],
-      "Standalone: Other": [
+      "Standalone Novelty": [
         283,
         288,
         289,
-        304
+        304,
+        308
       ]
     },
     "Gem Store": {
@@ -265,7 +243,7 @@
         36,
         40
       ],
-      "Standalone: Other - Chair": [
+      "Standalone Novelty - Chair": [
         24,
         262,
         268,
@@ -294,7 +272,7 @@
         327,
         329
       ],
-      "Standalone: Other - Musical Instrument": [
+      "Standalone Novelty - Musical Instrument": [
         2,
         6,
         8,
@@ -303,13 +281,13 @@
         37,
         45
       ],
-      "Standalone: Other - Held Item": [
+      "Standalone Novelty - Held Item": [
         15,
         21,
         32,
         53
       ],
-      "Standalone: Other - Toy": [
+      "Standalone Novelty - Toy": [
         4,
         5,
         9,
@@ -331,7 +309,7 @@
         265,
         300
       ],
-      "Standalone: Other - Tonic": [
+      "Standalone Novelty - Tonic": [
         80,
         103,
         159,

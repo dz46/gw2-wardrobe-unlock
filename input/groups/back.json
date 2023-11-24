@@ -99,14 +99,12 @@
         7276,
         7246
       ],
-      "Standalone: Player vs. Player": [
-        2380
-      ],
-      "Standalone: Other": [
+      "Standalone Back Item": [
         2340,
         2342,
         2343,
         2344,
+        2380,
         5653,
         6242,
         6253,
@@ -126,14 +124,12 @@
         2334,
         2335
       ],
-      "Standalone: Dungeon": [
+      "Standalone Back Item": [
         2345,
-        2357
-      ],
-      "Standalone: Other": [
         2353,
         2354,
         2356,
+        2357,
         2381,
         11118
       ]
@@ -173,7 +169,7 @@
         6149,
         6279
       ],
-      "Standalone: Raid": [
+      "Standalone Back Item": [
         6135,
         6809,
         7114
@@ -194,7 +190,7 @@
         7321,
         7323
       ],
-      "Standalone: Other": [
+      "Standalone Back Item": [
         6875,
         6956,
         7017,
@@ -220,7 +216,7 @@
         8149,
         8165
       ],
-      "Standalone: Other": [
+      "Standalone Back Item": [
         8169
       ]
     },
@@ -237,7 +233,7 @@
         9413,
         9431
       ],
-      "Standalone: Other": [
+      "Standalone Back Item": [
         9017,
         9249,
         9252,
@@ -249,10 +245,7 @@
         10457,
         10647
       ],
-      "Standalone: Strike Mission": [
-        10898
-      ],
-      "Standalone: Other": [
+      "Standalone Back Item": [
         10231,
         10247,
         10271,
@@ -262,12 +255,13 @@
         10458,
         10524,
         10675,
+        10898,
         11322,
         11268
       ]
     },
     "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
-      "Standalone: Other": [
+      "Standalone Back Item": [
         11741,
         11804,
         11903,
@@ -306,12 +300,12 @@
         6668,
         7201
       ],
-      "Standalone: Other": [
+      "Standalone Back Item": [
         2359
       ]
     },
     "Dragon Bash": {
-      "Standalone: Other": [
+      "Holographic Wings": [
         2351,
         2352,
         8833
@@ -328,7 +322,7 @@
         8218,
         8223
       ],
-      "Standalone: Other": [
+      "Standalone Back Item": [
         2349,
         2350,
         5456,
@@ -342,12 +336,12 @@
         2338,
         7775
       ],
-      "Standalone: Other": [
+      "Standalone Back Item": [
         9638
       ]
     },
     "A Very Merry Wintersday": {
-      "Standalone: Other": [
+      "Standalone Back Item": [
         2374,
         2375,
         2382,
@@ -367,7 +361,7 @@
         11025,
         11027
       ],
-      "Standalone: Other": [
+      "Standalone Back Item": [
         2358,
         6618,
         10059,
@@ -394,7 +388,7 @@
         2370,
         2372
       ],
-      "Standalone: Other": [
+      "Standalone Back Item": [
         1048,
         5654,
         5708,
@@ -441,7 +435,7 @@
         11428,
         11780
       ],
-      "Standalone: Other - Cape": [
+      "Standalone Back Item - Cape": [
         9050,
         9072,
         9131,
@@ -475,13 +469,13 @@
         11435,
         11716
       ],
-      "Standalone: Other - Quiver": [
+      "Standalone Back Item - Quiver": [
         2369,
         6449,
         7012,
         8021
       ],
-      "Standalone: Other - Wings": [
+      "Standalone Back Item - Wings": [
         5878,
         6003,
         6035,
