@@ -69,31 +69,33 @@
     6864,
     // Competitive - War Machine
     10968,10970,10973,10977,10983,10985,10988,10999,11003,11007,11014,11016,11017,11019,11020,11021,
-    // Festival: Lunar New Year - Shining Aureate
+    // Lunar New Year - Shining Aureate
     9095,9096,9098,9099,9100,9102,9104,9109,9112,9114,9119,9121,9122,9124,9127,9132,
-    // Festival: Super Adventure Festival - Generation One
+    // Super Adventure Festival - Generation One
     11364,11366,11368,11372,11375,11377,11378,11383,11385,11386,11387,11388,11394,11396,11401,11402,
-    // Festival: Super Adventure Festival - Kaiser
+    // Super Adventure Festival - Kaiser
     6665,6679,6678,6677,6672,6669,6675,6666,6667,6663,6664,6676,6674,6673,6670,6671,
-    // Festival: Dragon Bash - Dragonrender
+    // Dragon Bash - Dragonrender
     11474,11475,11476,11482,11483,11487,11488,11493,11494,11496,11498,11500,11503,11504,11507,11508,
-    // Festival: Dragon Bash - Holographic
+    // Dragon Bash - Holographic
     8804,8805,8806,8810,8812,8813,8819,8821,8828,8831,8836,8839,8840,8842,8845,8846,
-    // Festival: Festival of the Four Winds - Sun-Grown
+    // Festival of the Four Winds - Sun-Grown
     11544,11545,11547,11548,11549,11550,11551,11552,11553,11555,11556,11557,11558,11563,11565,11566,
-    // Festival: Festival of the Four Winds - Zephyrite
+    // Festival of the Four Winds - Zephyrite
     8188,8203,8232,8200,8224,8850,8855,8860,8862,8876,8856,8870,8874,
-    // Festival: Halloween - Grim Machine
+    // Shadow of the Mad King - Grim Machine
     11847,11848,11851,11852,11853,11854,11855,11856,11859,11860,11861,11866,11868,11869,11870,11872,
-    // Festival: Halloween - Haunted
+    // Shadow of the Mad King - Haunted
     7785,7791,7795,7762,7767,7758,7761,7772,7769,7794,7786,7777,7801,7764,7788,7779,
-    // Festival: Halloween - Royal Flame
+    // Shadow of the Mad King - Royal Flame
     8973,8974,8975,8976,8977,8980,8983,8990,8992,8994,8996,8998,9001,9002,9003,9004,
-    // Festival: Halloween
+    // Shadow of the Mad King
     8965,8999,
-    // Festival: Wintersday - Rimed Verdant
+    // A Very Merry Wintersday - Rimed Verdant
     9052,9053,9058,9060,9065,9066,9067,9069,9074,9075,9077,9079,9080,9088,9091,9092,
-    // Festival: Wintersday - Wrapped
+    // A Very Merry Wintersday - Sacred Solstice
+    11937,11938,11940,11942,11944,11945,11953,11954,11958,11964,11965,11967,11969,11973,11975,11976,
+    // A Very Merry Wintersday - Wrapped
     7989,7948,7988,7058,7943,7927,7952,7959,7917,7063,7061,7925,7043,7037,7983,7920,
     // Gem Store - Black Lion Claim Ticket Series 12 - Ley Line
     5504,5505,5506,5507,5508,5509,5510,5511,5512,5513,5514,5515,5500,5501,5502,5503,

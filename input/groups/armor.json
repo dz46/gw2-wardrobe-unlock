@@ -1,7 +1,7 @@
 {
   "topLevelCategories": {
     "Core": {
-      "Starter Armor - Apprentice / Rawhide / Chainmail": [
+      "Starter - Apprentice / Rawhide / Chainmail": [
         3,
         4,
         16,
@@ -123,6 +123,88 @@
         8,
         27,
         92
+      ],
+      "Renown Heart Armor Series 1 - Devout / Rogue / Militia": [
+        874,
+        891,
+        875,
+        876,
+        862,
+        863,
+        86,
+        57,
+        890,
+        58,
+        91,
+        941,
+        883,
+        869,
+        871,
+        872,
+        860,
+        861,
+        859
+      ],
+      "Renown Heart Armor Series 2 - Dry Bones / Duelist / Pit Fighter": [
+        882,
+        901,
+        918,
+        904,
+        907,
+        878,
+        914,
+        887,
+        873,
+        908,
+        909,
+        879,
+        897,
+        899,
+        915,
+        870,
+        905,
+        877
+      ],
+      "Renown Heart Armor Series 3 - Stately / Stalker / Studded Plate": [
+        866,
+        868,
+        885,
+        902,
+        888,
+        894,
+        945,
+        937,
+        938,
+        925,
+        926,
+        927,
+        928,
+        932,
+        917,
+        936,
+        942,
+        943,
+        858
+      ],
+      "Renown Heart Armor Series 4 - Primitive / Buccaneer / Dark Templar": [
+        898,
+        930,
+        916,
+        903,
+        921,
+        1692,
+        900,
+        935,
+        1800,
+        906,
+        922,
+        923,
+        912,
+        929,
+        886,
+        919,
+        911,
+        895
       ],
       "Asura Cultural Armor Series 1 - Adept / Protean / Galvanic": [
         273,
@@ -423,147 +505,6 @@
         518,
         520,
         507
-      ],
-      "Renown Heart Armor Series 1 - Devout / Rogue / Militia": [
-        874,
-        891,
-        875,
-        876,
-        862,
-        863,
-        86,
-        57,
-        890,
-        58,
-        91,
-        941,
-        883,
-        869,
-        871,
-        872,
-        860,
-        861,
-        859
-      ],
-      "Renown Heart Armor Series 2 - Dry Bones / Duelist / Pit Fighter": [
-        882,
-        901,
-        918,
-        904,
-        907,
-        878,
-        914,
-        887,
-        873,
-        908,
-        909,
-        879,
-        897,
-        899,
-        915,
-        870,
-        905,
-        877
-      ],
-      "Renown Heart Armor Series 3 - Stately / Stalker / Studded Plate": [
-        866,
-        868,
-        885,
-        902,
-        888,
-        894,
-        945,
-        937,
-        938,
-        925,
-        926,
-        927,
-        928,
-        932,
-        917,
-        936,
-        942,
-        943,
-        858
-      ],
-      "Renown Heart Armor Series 4 - Primitive / Buccaneer / Dark Templar": [
-        898,
-        930,
-        916,
-        903,
-        921,
-        1692,
-        900,
-        935,
-        1800,
-        906,
-        922,
-        923,
-        912,
-        929,
-        886,
-        919,
-        911,
-        895
-      ],
-      "Order Series 1: Durmand Priory - Priory's Historical": [
-        1376,
-        1377,
-        1378,
-        1379,
-        1380,
-        1381,
-        1382,
-        1383,
-        1384,
-        1385,
-        1386,
-        1387,
-        1388,
-        1389,
-        1390,
-        1391,
-        1392,
-        1393
-      ],
-      "Order Series 2: Order of Whispers - Whisper's Secret": [
-        1412,
-        1413,
-        1414,
-        1415,
-        1416,
-        1417,
-        1418,
-        1419,
-        1420,
-        1421,
-        1422,
-        1423,
-        1424,
-        1425,
-        1426,
-        1427,
-        1428
-      ],
-      "Order Series 3: Vigil - Vigil's Honor": [
-        1408,
-        1409,
-        1410,
-        1411,
-        1394,
-        1395,
-        1396,
-        1397,
-        1398,
-        1399,
-        1400,
-        1401,
-        1402,
-        1403,
-        1404,
-        1405,
-        1406,
-        1407
       ],
       "Standard Crafting Armor Series 1 - Embroidered / Seeker / Chain": [
         165,
@@ -884,6 +825,65 @@
         637,
         638,
         639
+      ],
+      "Order Series 1: Durmand Priory - Priory's Historical": [
+        1376,
+        1377,
+        1378,
+        1379,
+        1380,
+        1381,
+        1382,
+        1383,
+        1384,
+        1385,
+        1386,
+        1387,
+        1388,
+        1389,
+        1390,
+        1391,
+        1392,
+        1393
+      ],
+      "Order Series 2: Order of Whispers - Whisper's Secret": [
+        1412,
+        1413,
+        1414,
+        1415,
+        1416,
+        1417,
+        1418,
+        1419,
+        1420,
+        1421,
+        1422,
+        1423,
+        1424,
+        1425,
+        1426,
+        1427,
+        1428
+      ],
+      "Order Series 3: Vigil - Vigil's Honor": [
+        1408,
+        1409,
+        1410,
+        1411,
+        1394,
+        1395,
+        1396,
+        1397,
+        1398,
+        1399,
+        1400,
+        1401,
+        1402,
+        1403,
+        1404,
+        1405,
+        1406,
+        1407
       ],
       "Apostle / Stalwart / Heavy Scale": [
         1619,
@@ -2306,30 +2306,13 @@
         9765,
         11171,
         11179,
-        11184
+        11184,
+        11952,
+        11957,
+        11961
       ]
     },
     "Bonus Event": {
-      "Hall of Monuments Armor Series - Heritage": [
-        796,
-        797,
-        798,
-        799,
-        801,
-        803,
-        805,
-        806,
-        807,
-        808,
-        809,
-        810,
-        811,
-        812,
-        813,
-        817,
-        818,
-        819
-      ],
       "Decade": [
         10974,
         10976,
@@ -2369,6 +2352,26 @@
         5616,
         5617,
         5599
+      ],
+      "Heritage": [
+        796,
+        797,
+        798,
+        799,
+        801,
+        803,
+        805,
+        806,
+        807,
+        808,
+        809,
+        810,
+        811,
+        812,
+        813,
+        817,
+        818,
+        819
       ],
       "Luminous": [
         8288,
@@ -2953,7 +2956,7 @@
         10965,
         10967
       ],
-      "Standalone Armor - Head": [
+      "Standalone Armor -> Head": [
         833,
         839,
         840,
@@ -3045,7 +3048,7 @@
         11285,
         11330
       ],
-      "Standalone Armor - Head - Ears": [
+      "Standalone Armor -> Head -> Ears": [
         983,
         984,
         985,
@@ -3059,7 +3062,7 @@
         8743,
         8751
       ],
-      "Standalone Armor - Head - Glasses / Sunglasses": [
+      "Standalone Armor -> Head -> Glasses / Sunglasses": [
         967,
         971,
         982,
@@ -3076,7 +3079,7 @@
         1014,
         1018
       ],
-      "Standalone Armor - Head - Hood": [
+      "Standalone Armor -> Head -> Hood": [
         995,
         1025,
         1026,
@@ -3094,9 +3097,12 @@
         11167,
         11418,
         11419,
-        11431
+        11431,
+        11936,
+        11956,
+        11977
       ],
-      "Standalone Armor - Head - Horn / Horns": [
+      "Standalone Armor -> Head -> Horn / Horns": [
         999,
         1000,
         1027,
@@ -3122,7 +3128,7 @@
         10867,
         10865
       ],
-      "Standalone Armor - Head - Mask": [
+      "Standalone Armor -> Head -> Mask": [
         1049,
         1050,
         1051,
@@ -3142,7 +3148,7 @@
         7326,
         7336
       ],
-      "Standalone Armor - Shoulder": [
+      "Standalone Armor -> Shoulder": [
         1137,
         1143,
         1141,
@@ -3168,7 +3174,7 @@
         11411,
         11413
       ],
-      "Standalone Armor - Chest": [
+      "Standalone Armor -> Chest": [
         11479,
         11499,
         11505,
@@ -3176,7 +3182,7 @@
         11863,
         11864
       ],
-      "Standalone Armor - Hand": [
+      "Standalone Armor -> Hand": [
         6700,
         6727,
         6732,
@@ -3199,12 +3205,12 @@
         10896,
         10897
       ],
-      "Standalone Armor - Leg": [
+      "Standalone Armor -> Leg": [
         11842,
         11843,
         11845
       ],
-      "Standalone Armor - Foot": [
+      "Standalone Armor -> Foot": [
         9733,
         9757,
         9779,
@@ -3215,7 +3221,7 @@
         11360,
         11363
       ],
-      "Standalone Armor - Aquatic Head": [
+      "Standalone Armor -> Aquatic Head": [
         1041,
         1044,
         1045

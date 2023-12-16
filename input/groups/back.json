@@ -1,6 +1,8 @@
 {
   "topLevelCategories": {
     "Core": {
+      "Starter": [
+      ],
       "Crafting Discipline Series 1: Tailor": [
         2307,
         2309,
@@ -142,6 +144,14 @@
       ]
     },
     "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
+      "Crafting Discipline Series 9: Scribe": [
+        6512,
+        6402,
+        6341,
+        6503,
+        6361,
+        6495
+      ],
       "Order Series 1: Durmand Priory": [
         6296,
         6170,
@@ -156,14 +166,6 @@
         6243,
         6246,
         6304
-      ],
-      "Crafting Discipline Series 9: Scribe": [
-        6512,
-        6402,
-        6341,
-        6503,
-        6361,
-        6495
       ],
       "Auric Backplate / Luminate's Backplate": [
         6149,
@@ -433,9 +435,10 @@
         10941,
         11051,
         11428,
-        11780
+        11780,
+        11941
       ],
-      "Standalone Back Item - Cape": [
+      "Standalone Back Item -> Cape": [
         9050,
         9072,
         9131,
@@ -467,15 +470,16 @@
         11257,
         11400,
         11435,
-        11716
+        11716,
+        11966
       ],
-      "Standalone Back Item - Quiver": [
+      "Standalone Back Item -> Quiver": [
         2369,
         6449,
         7012,
         8021
       ],
-      "Standalone Back Item - Wings": [
+      "Standalone Back Item -> Wings": [
         5878,
         6003,
         6035,

@@ -243,7 +243,11 @@
         36,
         40
       ],
-      "Standalone Novelty - Chair": [
+      "Mount Chair": [
+        284,
+        302
+      ],
+      "Standalone Novelty -> Chair": [
         24,
         262,
         268,
@@ -251,12 +255,10 @@
         278,
         279,
         280,
-        284,
         286,
         287,
         294,
         301,
-        302,
         303,
         305,
         309,
@@ -272,7 +274,7 @@
         327,
         329
       ],
-      "Standalone Novelty - Musical Instrument": [
+      "Standalone Novelty -> Musical Instrument": [
         2,
         6,
         8,
@@ -281,13 +283,13 @@
         37,
         45
       ],
-      "Standalone Novelty - Held Item": [
+      "Standalone Novelty -> Held Item": [
         15,
         21,
         32,
         53
       ],
-      "Standalone Novelty - Toy": [
+      "Standalone Novelty -> Toy": [
         4,
         5,
         9,
@@ -309,7 +311,7 @@
         265,
         300
       ],
-      "Standalone Novelty - Tonic": [
+      "Standalone Novelty -> Tonic": [
         80,
         103,
         159,

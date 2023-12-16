@@ -1,7 +1,7 @@
 {
   "topLevelCategories": {
     "Core": {
-      "Starter Mount": [
+      "Starter": [
         1,
         2,
         3,
@@ -255,7 +255,7 @@
         276,
         310
       ],
-      "Standalone Mount - Raptor": [
+      "Standalone Mount -> Raptor": [
         17,
         21,
         29,
@@ -283,7 +283,7 @@
         505,
         514
       ],
-      "Standalone Mount - Springer": [
+      "Standalone Mount -> Springer": [
         20,
         38,
         42,
@@ -309,7 +309,7 @@
         481,
         526
       ],
-      "Standalone Mount - Skimmer": [
+      "Standalone Mount -> Skimmer": [
         26,
         36,
         37,
@@ -329,7 +329,7 @@
         368,
         375
       ],
-      "Standalone Mount - Jackal": [
+      "Standalone Mount -> Jackal": [
         22,
         28,
         33,
@@ -359,7 +359,7 @@
         512,
         516
       ],
-      "Standalone Mount - Griffon": [
+      "Standalone Mount -> Griffon": [
         25,
         34,
         40,
@@ -387,7 +387,7 @@
         521,
         522
       ],
-      "Standalone Mount - Roller Beetle": [
+      "Standalone Mount -> Roller Beetle": [
         104,
         105,
         114,
@@ -398,7 +398,7 @@
         239,
         348
       ],
-      "Standalone Mount - Warclaw": [
+      "Standalone Mount -> Warclaw": [
         162,
         163,
         165,
@@ -419,7 +419,7 @@
         484,
         524
       ],
-      "Standalone Mount - Skyscale": [
+      "Standalone Mount -> Skyscale": [
         191,
         193,
         194,
@@ -442,7 +442,7 @@
         513,
         520
       ],
-      "Standalone Mount - Siege Turtle": [
+      "Standalone Mount -> Siege Turtle": [
         416,
         417,
         419,
