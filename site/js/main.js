@@ -452,6 +452,8 @@ function updateThresholdCalculation() {
         filter = function(data) {return data.gwu && data.section == 'weapon';}
     } else if ($('#analyse-selection')[0].value == 'bounty') {
         filter = function(data) {return data.details.sources.includes('bounty');}
+    } else if ($('#analyse-selection')[0].value == 'tp') {
+        filter = function(data) {return data.details.sources.includes('tp');}
     }
 
     $("div[id*=list-entry-]").remove();
