@@ -56,7 +56,7 @@
       ]
     },
     "(Core > LW2) Living World Season 2: Glint's Prophecy": {
-      "Crystal Shard Kite / Prosperity Mine Kite / Ventari Follower Kite": [
+      "Dry Top Kite": [
         11,
         14,
         48
@@ -178,7 +178,7 @@
       ]
     },
     "Festival of the Four Winds (FotFW)": {
-      "Embellished Kite / Mark of Peace Kite / Ornamental Kite": [
+      "Four Winds Kite": [
         1,
         31,
         46
@@ -228,11 +228,14 @@
     "Bonus Event": {
       "Champion's Gizmo": [
       ],
-      "Standalone Novelty": [
+      "Chest Tonic": [
         283,
         288,
+        304
+      ],
+      "Standalone Novelty": [
+        236,
         289,
-        304,
         308
       ]
     },
@@ -316,8 +319,7 @@
         103,
         159,
         172,
-        185,
-        236
+        185
       ]
     }
   }

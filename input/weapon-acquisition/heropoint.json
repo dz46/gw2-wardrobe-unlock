@@ -1,0 +1,11 @@
+{
+  "name": "heropoint",
+  "contents": [
+    // Heart of Thorns - Elite Specialization Series 1 - Tier 1
+    6471,6313,6250,6411,6222,6447,6320,6515,6173,
+    // Path of Fire - Elite Specialization Series 2 - Tier 1
+    7397,7718,7433,7401,7402,7370,7533,7699,7485,
+    // End of Dragons - Elite Specialization Series 3 - Tier 1
+    10245,10246,10424,10442,10463,10466,10566,10634,10642
+  ]
+}
