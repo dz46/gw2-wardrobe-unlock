@@ -3485,7 +3485,23 @@
         9886,
         9889
       ],
-      "Festival Weekly Completion Weapon Series 1 - WIP": [
+      "Festival Weekly Completion Weapon Series 1 - Fortunate": [
+        11984,
+        11985,
+        11986,
+        11987,
+        11989,
+        11997,
+        11998,
+        11999,
+        12000,
+        12001,
+        12002,
+        12004,
+        12005,
+        12008,
+        12009,
+        12010
       ],
       "Festival Champion Weapon Series 1 - Firework": [
         11201,
@@ -3504,6 +3520,11 @@
         11225,
         11230,
         11232
+      ],
+      "Lucky Dragon": [
+        11991,
+        11993,
+        11994
       ],
       "Standalone Weapon": [
         6295,
@@ -5979,7 +6000,8 @@
         11871,
         11932,
         11933,
-        11979
+        11979,
+        11983
       ]
     }
   }

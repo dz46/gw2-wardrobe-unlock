@@ -9,228 +9,228 @@
       { "name": "Savage Scale Package", "combo": { "armor": [11100,11106,11124,11129,11133,11142] } },
       { "name": "Lunar Rabbit Helm and Stompers Package", "combo": { "armor": [11200,11216,11221,11224,11228,11231] } },
       { "name": "Leather Straps Package", "combo": { "armor": [11522,11523,11529,11530,11539,11541] } },
-      // Armor Set - Aetherblade
+      // Armor Set -> Aetherblade
       { "name": "Aetherblade Light Armor Skin", "combo": { "armor": [1314,1317,1320,1323,1309,1310] } },
       { "name": "Aetherblade Medium Armor Skin", "combo": { "armor": [1312,1315,1318,1321,1324,1311] } },
       { "name": "Aetherblade Heavy Armor Skin", "combo": { "armor": [1313,1316,1319,1322,1307,1308] } },
-      // Armor Set - Angler
+      // Armor Set -> Angler
       { "name": "Angler Hat", "combo": { "armor": [10255,10312,10377] } },
       { "name": "Angler Vest", "combo": { "armor": [10291,10484,10643] } },
-      // Armor Set - Astral Ward
+      // Armor Set -> Astral Ward
       { "name": "Astral Ward Helm", "combo": { "armor": [11591,11688,11755] } },
       { "name": "Astral Ward Shoulders", "combo": { "armor": [11628,11637,11786] } },
       { "name": "Astral Ward Coat", "combo": { "armor": [11593,11732,11742] } },
       { "name": "Astral Ward Gloves", "combo": { "armor": [11722,11751,11775] } },
       { "name": "Astral Ward Leggings", "combo": { "armor": [11585,11687,11694] } },
       { "name": "Astral Ward Boots", "combo": { "armor": [11580,11692,11712] } },
-      // Armor Set - Aurene's Crystalline
+      // Armor Set -> Aurene's Crystalline
       { "name": "Aurene's Crystalline Diadem", "combo": { "armor": [9452,9464,9458] } },
       { "name": "Aurene's Crystalline Pauldrons", "combo": { "armor": [11182,11192,11188] } },
       { "name": "Aurene's Crystalline Claws", "combo": { "armor": [9960,9961,9954] } },
-      // Armor Set - Bear Ceremonial
+      // Armor Set -> Bear Ceremonial
       { "name": "Reliquary of the Bear Ceremonial Hood", "combo": { "armor": [9382,9401,9412] } },
       { "name": "Reliquary of the Bear Ceremonial Garb", "combo": { "armor": [9365,9369,9416] } },
       { "name": "Reliquary of the Bear Ceremonial Gown", "combo": { "armor": [9368,9389,9408] } },
       { "name": "Reliquary of the Bear Ceremonial Sandals", "combo": { "armor": [9385,9390,9433] } },
-      // Armor Set - Bestial Tides Tattoo / Fire Bloom Tattoo / Serpentine Tattoo
+      // Armor Set -> Bestial Tides Tattoo / Fire Bloom Tattoo / Serpentine Tattoo
       { "name": "Bestial Tides Tattoo Pack", "combo": { "armor": [11258,11279,11286,11304,11336,11346] } },
       { "name": "Fire Bloom Tattoo Pack", "combo": { "armor": [11259,11270,11302,11314,11328,11331] } },
       { "name": "Serpentine Tattoo Pack", "combo": { "armor": [11267,11291,11305,11307,11308,11349] } },
-      // Armor Set - Carapace > Luminescent
+      // Armor Set -> Carapace > Luminescent
       { "name": "Luminescent Helm Skin", "combo": { "armor": [5713,5728,5738] } },
       { "name": "Luminescent Shoulders Skin", "combo": { "armor": [5717,5732,5740] } },
       { "name": "Luminescent Coat Skin", "combo": { "armor": [5719,5725,5730] } },
       { "name": "Luminescent Gloves Skin", "combo": { "armor": [5720,5721,5729] } },
       { "name": "Luminescent Leggings Skin", "combo": { "armor": [5722,5727,5739] } },
       { "name": "Luminescent Boots Skin", "combo": { "armor": [5718,5723,5731] } },
-      // Armor Set - Corsair
+      // Armor Set -> Corsair
       { "name": "Corsair Turban Box", "combo": { "armor": [7836,7844,7873] } },
       { "name": "Corsair Jerkin Box", "combo": { "armor": [8167,8171,8181] } },
       { "name": "Corsair Leggings", "combo": { "armor": [8349,8401,8413] } },
       { "name": "Corsair Boots Box", "combo": { "armor": [8702,8740,8752] } },
-      // Armor Set - Decade
+      // Armor Set -> Decade
       { "name": "Decade's Star", "combo": { "armor": [11009,11008,11028] } },
       { "name": "Decade's End", "combo": { "armor": [11012,10991,11018] } },
       { "name": "Decade's Heart", "combo": { "armor": [10986,11031,10996] } },
       { "name": "Decade's Reach", "combo": { "armor": [10981,11005,10974] } },
       { "name": "Decade's Saga", "combo": { "armor": [10982,11026,10995] } },
       { "name": "Decade's Path", "combo": { "armor": [10976,10978,10994] } },
-      // Armor Set - Dhuum
+      // Armor Set -> Dhuum
       { "name": "Headgear of Dhuum", "combo": { "armor": [7872,7889,7905] } },
       { "name": "Shoulders of Dhuum", "combo": { "armor": [7871,7895,7911] } },
       { "name": "Gloves of Dhuum", "combo": { "armor": [7874,7854,7848] } },
       { "name": "Boots of Dhuum", "combo": { "armor": [7855,7887,7868] } },
-      // Armor Set - Dragonscale
+      // Armor Set -> Dragonscale
       { "name": "Draconic Headdress Box", "combo": { "armor": [6955,6968,6969] } },
       { "name": "Dragonscale Epaulettes Box", "combo": { "armor": [6951,6964,6970] } },
-      // Armor Set - Etherbound
+      // Armor Set -> Etherbound
       { "name": "Etherbound Helm", "combo": { "armor": [10987,10997,11000] } },
       { "name": "Etherbound Pauldrons", "combo": { "armor": [8960,8961,8959] } },
       { "name": "Etherbound Chestplate", "combo": { "armor": [11030,10980,11029] } },
       { "name": "Etherbound Gauntlets", "combo": { "armor": [8666,8678,8669] } },
       { "name": "Etherbound Legguard", "combo": { "armor": [11010,11001,11011] } },
       { "name": "Etherbound Greaves", "combo": { "armor": [8672,8659,8658] } },
-      // Armor Set - Exalted
+      // Armor Set -> Exalted
       { "name": "Exalted Shoulders", "combo": { "armor": [8621,8617,8618] } },
       { "name": "Exalted Gloves", "combo": { "armor": [8121,8122,8115] } },
-      // Armor Set - Festive
+      // Armor Set -> Festive
       { "name": "Festive Sweater", "combo": { "armor": [9062,9087,9089] } },
       { "name": "Festive Winter Hood", "combo": { "armor": [9731,9742,9765] } },
-      // Armor Set - Flamekissed / Flamewalker / Flamewrath
+      // Armor Set -> Flamekissed / Flamewalker / Flamewrath
       { "name": "Flamekissed Light Armor Skin", "combo": { "armor": [1253,1254,1255,1256,1257,1258] } },
       { "name": "Flamewalker Medium Armor Skin", "combo": { "armor": [1260,1262,1264,1266,1268,1270] } },
       { "name": "Flamewrath Heavy Armor Skin", "combo": { "armor": [1259,1261,1263,1265,1267,1269] } },
-      // Armor Set - Foefire
+      // Armor Set -> Foefire
       { "name": "Foefire Mask", "combo": { "armor": [10182,10198,10211] } },
       { "name": "Foefire Mantle", "combo": { "armor": [7263,7267,7258] } },
       { "name": "Foefire Chestguard", "combo": { "armor": [10123,10125,10126] } },
       { "name": "Foefire Wraps", "combo": { "armor": [7275,7251,7262] } },
       { "name": "Foefire Legwraps", "combo": { "armor": [10120,10133,10127] } },
       { "name": "Foefire Greaves", "combo": { "armor": [7725,7726,7748] } },
-      // Armor Set - Fused
+      // Armor Set -> Fused
       { "name": "Fused Gauntlets", "combo": { "armor": [2012,2015,2017] } },
       { "name": "Fused Shoulders", "combo": { "armor": [10811,10815,10828] } },
-      // Armor Set - Hellfire
+      // Armor Set -> Hellfire
       { "name": "Hellfire Warhelm", "combo": { "armor": [770,773,776] } },
       { "name": "Hellfire Mantle", "combo": { "armor": [775,768,779] } },
       { "name": "Hellfire Cuirass", "combo": { "armor": [5593,5595,5597] } },
       { "name": "Hellfire Vambraces", "combo": { "armor": [771,772,778] } },
       { "name": "Hellfire Legguards", "combo": { "armor": [5594,5596,5598] } },
       { "name": "Hellfire Greaves", "combo": { "armor": [774,777,769] } },
-      // Armor Set - Holographic
+      // Armor Set -> Holographic
       { "name": "Holographic Dragon Helm", "combo": { "armor": [8817,8829,8826] } },
       { "name": "Holographic Dragon Shoulders", "combo": { "armor": [9457,9472,9460] } },
       { "name": "Holographic Dragon Plate", "combo": { "armor": [11484,11486,11510] } },
       { "name": "Holographic Dragon Gloves", "combo": { "armor": [10021,10026,10028] } },
       { "name": "Holographic Dragon Greaves", "combo": { "armor": [10866,10851,10875] } },
-      // Armor Set - Ice Reaver
+      // Armor Set -> Ice Reaver
       { "name": "Ice Reaver Helm", "combo": { "armor": [9997,9996,9989] } },
       { "name": "Ice Reaver Pauldrons", "combo": { "armor": [9554,9551,9559] } },
       { "name": "Ice Reaver Chestguard", "combo": { "armor": [9998,10002,10004] } },
       { "name": "Ice Reaver Gauntlets", "combo": { "armor": [9657,9655,9660] } },
       { "name": "Ice Reaver Legguards", "combo": { "armor": [10000,10001,10003] } },
       { "name": "Ice Reaver Greaves", "combo": { "armor": [9794,9831,9823] } },
-      // Armor Set - Immortal Fire / Immortal Light
+      // Armor Set -> Immortal Fire / Immortal Light
       { "name": "Immortal Halo Package", "combo": { "armor": [9570,9574,9575,9578,9582,9586] } },
       { "name": "Immortal Nimbus Package", "combo": { "armor": [10074,10080,10081,10086,10094,10097] } },
       { "name": "Immortal Ring Package", "combo": { "armor": [10109,10111,10112,10115,10116,10117] } },
-      // Armor Set - Incarnate / Strider / Rampart
+      // Armor Set -> Incarnate / Strider / Rampart
       { "name": "Incarnate Heavy Armor Skin", "combo": { "armor": [1276,1277,1278,1279,1280,1281] } },
       { "name": "Strider's Medium Armor Skin", "combo": { "armor": [1271,1282,1283,1285,1286,1287] } },
       { "name": "Rampart Light Armor Skin", "combo": { "armor": [1272,1273,1274,1275,1288,1289] } },
-      // Armor Set - Infused Aurora
+      // Armor Set -> Infused Aurora
       { "name": "Infused Aurora Chestguard", "combo": { "armor": [11560,11561,11564] } },
       { "name": "Infused Aurora Gloves", "combo": { "armor": [11768,11725,11728] } },
-      // Armor Set - Jackal
+      // Armor Set -> Jackal
       { "name": "Jackal Rune Greaves", "combo": { "armor": [8002,8003,8000] } },
       { "name": "Jackal Rune Gauntlets", "combo": { "armor": [8001,7998,7999] } },
-      // Armor Set - Lawless
+      // Armor Set -> Lawless
       { "name": "Lawless Helmet", "combo": { "armor": [1367,1365,1364] } },
       { "name": "Lawless Shoulders", "combo": { "armor": [1368,1362,1371] } },
       { "name": "Lawless Gloves", "combo": { "armor": [1366,1373,1372] } },
       { "name": "Lawless Boots", "combo": { "armor": [1369,1361,1370] } },
-      // Armor Set - Luminous
+      // Armor Set -> Luminous
       { "name": "Luminous Light Armor Skin", "combo": { "armor": [8239,8240,8261,8282,8283,8284] } },
       { "name": "Luminous Medium Armor Skin", "combo": { "armor": [8249,8270,8281,8288,8290,8294] } },
       { "name": "Luminous Heavy Armor Skin", "combo": { "armor": [8247,8254,8263,8264,8266,8291,8299] } },
-      // Armor Set - Maguuma
+      // Armor Set -> Maguuma
       { "name": "Maguuma's Mantle", "combo": { "armor": [9224,9222,9226] } },
       { "name": "Maguuma's Grasp", "combo": { "armor": [9228,9239,9219] } },
       { "name": "Maguuma's Treads", "combo": { "armor": [9343,9339,9350] } },
-      // Armor Set - Martial Artist
+      // Armor Set -> Martial Artist
       { "name": "Martial Artist's Headband", "combo": { "armor": [10292,10608,10565] } },
       { "name": "Martial Artist's Handwraps", "combo": { "armor": [10299,10386,10578] } },
       { "name": "Martial Artist's Footwraps", "combo": { "armor": [10404,10527,10300] } },
-      // Armor Set - Mask of the Crown / Mask of the Jubilee / Mask of the Queen
+      // Armor Set -> Mask of the Crown / Mask of the Jubilee / Mask of the Queen
       { "name": "Mask of the Crown", "combo": { "armor": [1190,1192,1191] } },
       { "name": "Mask of the Jubilee", "combo": { "armor": [1186,1185,1184] } },
       { "name": "Mask of the Queen", "combo": { "armor": [1189,1188,1187] } },
-      // Armor Set - Monastery
+      // Armor Set -> Monastery
       { "name": "Monastery Headband", "combo": { "armor": [10705,10483,10530] } },
       { "name": "Monastery Shoulderpads", "combo": { "armor": [10726,10492,10243] } },
       { "name": "Monastery Coat", "combo": { "armor": [10703,10695,10754] } },
       { "name": "Monastery Gloves", "combo": { "armor": [10338,10293,10718] } },
       { "name": "Monastery Leggings", "combo": { "armor": [10400,10237,10314] } },
       { "name": "Monastery Shoes", "combo": { "armor": [10419,10580,10365] } },
-      // Armor Set - Phoenix / Magitech / Braham
+      // Armor Set -> Phoenix / Magitech / Braham
       { "name": "Phoenix Light Armor Skin", "combo": { "armor": [1152,1062,1095,1082,1196,1085] } },
       { "name": "Magitech Medium Armor Skin", "combo": { "armor": [1153,1091,1064,1098,1197,1087] } },
       { "name": "Braham's Heavy Armor Skin", "combo": { "armor": [1060,1092,1079,1195,1084,1151] } },
-      // Armor Set - Pirate
+      // Armor Set -> Pirate
       { "name": "Pirate Corsair Hat", "combo": { "armor": [6931,6915,6914] } },
       { "name": "Pirate Hook", "combo": { "armor": [6910,6943,6903] } },
       { "name": "Peg-Leg Boots", "combo": { "armor": [6905,6916,6909] } },
-      // Armor Set - Profane / Krytan / Primeval
+      // Armor Set -> Profane / Krytan / Primeval
       { "name": "Profane Light Armor Skin", "combo": { "armor": [1105,1155,1094,1099,1069,1199] } },
       { "name": "Krytan Medium Armor Skin", "combo": { "armor": [1200,1156,1111,1097,1071,1103] } },
       { "name": "Primeval Heavy Armor Skin", "combo": { "armor": [1154,1090,1093,1066,1102,1198] } },
-      // Armor Set - Racing / Golden Racing
+      // Armor Set -> Racing / Golden Racing
       { "name": "Racing Goggles", "combo": { "armor": [8510,8506,8514] } },
       { "name": "Racing Helmet", "combo": { "armor": [8512,8513,8515] } },
       { "name": "Racing Scarf", "combo": { "armor": [8505,8507,8508] } },
       { "name": "Golden Racing Scarf", "combo": { "armor": [8511,8516,8504] } },
-      // Armor Set - Radiant
+      // Armor Set -> Radiant
       { "name": "Radiant Warhelm", "combo": { "armor": [762,765,758] } },
       { "name": "Radiant Mantle", "combo": { "armor": [763,756,767] } },
       { "name": "Radiant Cuirass", "combo": { "armor": [5592,5588,5589] } },
       { "name": "Radiant Vambraces", "combo": { "armor": [761,766,759] } },
       { "name": "Radiant Legguards", "combo": { "armor": [5591,5587,5590] } },
       { "name": "Radiant Greaves", "combo": { "armor": [760,764,757] } },
-      // Armor Set - Raven
+      // Armor Set -> Raven
       { "name": "Raven Helm", "combo": { "armor": [8497,8463,8488] } },
       { "name": "Raven Gloves", "combo": { "armor": [10193,10167,10212] } },
       { "name": "Raven Mantle", "combo": { "armor": [8469,8500,8491] } },
-      // Armor Set - Raven Ceremonial
+      // Armor Set -> Raven Ceremonial
       { "name": "Reliquary of the Raven Ceremonial Hood", "combo": { "armor": [9158,9177,9162] } },
       { "name": "Reliquary of the Raven Ceremonial Bracers", "combo": { "armor": [9139,9180,9186] } },
       { "name": "Reliquary of the Raven Ceremonial Garb", "combo": { "armor": [9168,9182,9193] } },
       { "name": "Reliquary of the Raven Ceremonial Gown", "combo": { "armor": [9148,9164,9143] } },
       { "name": "Reliquary of the Raven Ceremonial Sandals", "combo": { "armor": [9154,9170,9181] } },
-      // Armor Set - Reality Rig Mk1 / Reality Rig Mk2 / Reality Rig Mk3
+      // Armor Set -> Reality Rig Mk1 / Reality Rig Mk2 / Reality Rig Mk3
       { "name": "Reality Rig Mk1", "combo": { "armor": [10790,10795,10797] } },
       { "name": "Reality Rig Mk2", "combo": { "armor": [10781,10792,10782] } },
       { "name": "Reality Rig Mk3", "combo": { "armor": [10778,10779,10770] } },
-      // Armor Set - Rift Hunter
+      // Armor Set -> Rift Hunter
       { "name": "Rift Hunter Helm", "combo": { "armor": [11653,11763,11816] } },
       { "name": "Rift Hunter Shoulders", "combo": { "armor": [11638,11681,11812] } },
       { "name": "Rift Hunter Coat", "combo": { "armor": [11586,11630,11657] } },
       { "name": "Rift Hunter Gloves", "combo": { "armor": [11572,11665,11759] } },
       { "name": "Rift Hunter Leggings", "combo": { "armor": [11684,11788,11806] } },
       { "name": "Rift Hunter Boots", "combo": { "armor": [11606,11740,11789] } },
-      // Armor Set - Salvaged
+      // Armor Set -> Salvaged
       { "name": "Salvaged Forged Helm", "combo": { "armor": [7821,7814,7806] } },
       { "name": "Salvaged Forged Gloves", "combo": { "armor": [7819,7817,7827] } },
-      // Armor Set - Sanctified
+      // Armor Set -> Sanctified
       { "name": "Sanctified Shoulders", "combo": { "armor": [11727,11749,11667] } },
       { "name": "Sanctified Gloves", "combo": { "armor": [11767,11643,11796] } },
       { "name": "Sanctified Boots", "combo": { "armor": [11713,11654,11777] } },
-      // Armor Set - Scarlet
+      // Armor Set -> Scarlet
       { "name": "Scarlet's Veil Skin", "combo": { "armor": [830,827,838] } },
       { "name": "Scarlet's Spaulders", "combo": { "armor": [2035,2034,2032] } },
       { "name": "Scarlet's Grasp", "combo": { "armor": [792,793,790] } },
-      // Armor Set - Seven Reapers
+      // Armor Set -> Seven Reapers
       { "name": "Seven Reapers Helm", "combo": { "armor": [10129,10131,10124] } },
       { "name": "Seven Reapers Pauldrons", "combo": { "armor": [9894,9890,9891] } },
       { "name": "Seven Reapers Breastplate", "combo": { "armor": [11110,11113,11134] } },
       { "name": "Seven Reapers Grasps", "combo": { "armor": [9376,9447,9384] } },
       { "name": "Seven Reapers Legguards", "combo": { "armor": [11080,11068,11059] } },
       { "name": "Seven Reapers Greaves", "combo": { "armor": [10106,10098,10100] } },
-      // Armor Set - Shadow of the Dragon
+      // Armor Set -> Shadow of the Dragon
       { "name": "Shadow of the Dragon Helmet", "combo": { "armor": [5818,5819,5821] } },
       { "name": "Shadow of the Dragon Shoulders", "combo": { "armor": [5816,5820,5815] } },
       { "name": "Shadow of the Dragon Gloves", "combo": { "armor": [5817,5822,5823] } },
-      // Armor Set - Shatterspark
+      // Armor Set -> Shatterspark
       { "name": "Shatterspark Shoulders", "combo": { "armor": [10008,10007,10006] } },
       { "name": "Shatterspark Gloves", "combo": { "armor": [10018,10031,10016] } },
-      // Armor Set - Stone Summit
+      // Armor Set -> Stone Summit
       { "name": "Stone Summit Helm Box", "combo": { "armor": [9248,9258,9277] } },
       { "name": "Stone Summit Shoulder Box", "combo": { "armor": [9259,9284,9311] } },
       { "name": "Stone Summit Glove Box", "combo": { "armor": [9262,9276,9279] } },
       { "name": "Stone Summit Boot Box", "combo": { "armor": [9307,9316,9327] } },
-      // Armor Set - Swaggering
+      // Armor Set -> Swaggering
       { "name": "Swaggering Hat", "combo": { "armor": [7358,7625,7381] } },
       { "name": "Swaggering Boots", "combo": { "armor": [10052,10055,10057] } },
-      // Armor Set - Special Ops / Special Ops Captain
+      // Armor Set -> Special Ops / Special Ops Captain
       { "name": "Special Ops Helmet", "combo": { "armor": [11327,11338,11315] } },
       { "name": "Special Ops Pauldrons", "combo": { "armor": [11287,11264,11335] } },
       { "name": "Special Ops Harness", "combo": { "armor": [11318,11334,11337] } },
@@ -238,33 +238,33 @@
       { "name": "Special Ops Pants", "combo": { "armor": [11272,11263,11348] } },
       { "name": "Special Ops Boots", "combo": { "armor": [11260,11289,11345] } },
       { "name": "Special Ops Captain's Helmet", "combo": { "armor": [11319,11294,11342] } },
-      // Armor Set - Toxic
+      // Armor Set -> Toxic
       { "name": "Toxic Shoulders", "combo": { "armor": [1327,1326,1325] } },
       { "name": "Toxic Gloves", "combo": { "armor": [1330,1329,1328] } },
       { "name": "Toxic Boots", "combo": { "armor": [9330,9332,9334] } },
-      // Armor Set - Trickster / Viper / Phalanx
+      // Armor Set -> Trickster / Viper / Phalanx
       { "name": "Trickster's Light-Armor Skin", "combo": { "armor": [1331,1332,1333,1334,1335,1336] } },
       { "name": "Viper's Medium-Armor Skin", "combo": { "armor": [1337,1338,1339,1340,1341,1342] } },
       { "name": "Phalanx Heavy-Armor Skin", "combo": { "armor": [1201,1074,1106,1157,1113,1101] } },
-      // Armor Set - Vermilion
+      // Armor Set -> Vermilion
       { "name": "Vermilion Pauldrons", "combo": { "armor": [10822,10814,10817] } },
       { "name": "Vermilion Vambraces", "combo": { "armor": [10839,10838,10840] } },
-      // Armor Set - Water Dragon
+      // Armor Set -> Water Dragon
       { "name": "Water Dragon Helm", "combo": { "armor": [10967,10924,10918] } },
       { "name": "Water Dragon Pauldrons", "combo": { "armor": [10925,10916,10906] } },
       { "name": "Water Dragon Chestguard", "combo": { "armor": [10920,10964,10928] } },
       { "name": "Water Dragon Gauntlets", "combo": { "armor": [10943,10907,10951] } },
       { "name": "Water Dragon Legguards", "combo": { "armor": [10965,10950,10952] } },
       { "name": "Water Dragon Greaves", "combo": { "armor": [10932,10953,10927] } },
-      // Armor Set - Wurmslayer
+      // Armor Set -> Wurmslayer
       { "name": "Wurmslayer's Headgear", "combo": { "armor": [2002,2003,2004] } },
       { "name": "Wurmslayer's Shoulders", "combo": { "armor": [1998,1999,2001] } },
       { "name": "Wurmslayer's Gloves", "combo": { "armor": [1996,1997,2000] } },
-      // Armor Set - Zephyrite
+      // Armor Set -> Zephyrite
       { "name": "Zephyrite Headband", "combo": { "armor": [11559,11562,11567] } },
       { "name": "Zephyrite Shawl", "combo": { "armor": [10923,10959,10930] } },
       { "name": "Zephyrite Traveling Boots", "combo": { "armor": [10107,10103,10102] } },
-      // Armor Set - Zodiac
+      // Armor Set -> Zodiac
       { "name": "Zodiac Light Armor Skin", "combo": { "armor": [1349,1350,1351,1352,1353,1354] } },
       { "name": "Zodiac Medium Armor Skin", "combo": { "armor": [1355,1356,1357,1358,1359,1360] } },
       { "name": "Zodiac Heavy Armor Skin", "combo": { "armor": [1343,1344,1345,1346,1347,1348] } },
@@ -373,6 +373,7 @@
       { "name": "Minister's Hat", "combo": { "armor": [11261,11276,11343] } },
       { "name": "Arcane Spellweaver's Hat", "combo": { "armor": [11540,11532,11534] } },
       { "name": "Visage of Nourys", "combo": { "armor": [11658,11569,11714] } },
+      { "name": "Dragon Descendant's Helm Box", "combo": { "armor": [11990,11992,11995] } },
       // Armor -> Shoulder
       { "name": "Island Shoulders", "combo": { "armor": [1137,1141,1143] } },
       { "name": "Twisted Watchwork Shoulders", "combo": { "armor": [1072,1075,1077] } },
@@ -459,7 +460,7 @@
   {
     "name": "weaponcombo",
     "contents": [
-      // Weapon Set - Cavalier
+      // Weapon Set -> Cavalier
       { "name": "Cavalier Axe Skin", "combo": { "weapon": [6773,6749] } },
       { "name": "Cavalier Dagger Skin", "combo": { "weapon": [6781,6751] } },
       { "name": "Cavalier Mace Skin", "combo": { "weapon": [6766,6747] } },
@@ -476,7 +477,7 @@
       { "name": "Cavalier Rifle Skin", "combo": { "weapon": [6750,6757] } },
       { "name": "Cavalier Short Bow Skin", "combo": { "weapon": [6771,6753] } },
       { "name": "Cavalier Staff Skin", "combo": { "weapon": [6763,6783] } },
-      // Weapon Set - Obsidian
+      // Weapon Set -> Obsidian
       { "name": "Obsidian Axe", "combo": { "weapon": [8324,8302] } },
       { "name": "Obsidian Dagger", "combo": { "weapon": [7921,7946] } },
       { "name": "Obsidian Mace", "combo": { "weapon": [8079,8074] } },
@@ -493,7 +494,7 @@
       { "name": "Obsidian Rifle", "combo": { "weapon": [8306,8323] } },
       { "name": "Obsidian Short Bow", "combo": { "weapon": [8312,8308] } },
       { "name": "Obsidian Staff", "combo": { "weapon": [7949,7953] } },
-      // Weapon Set - Mistforged Obsidian
+      // Weapon Set -> Mistforged Obsidian
       { "name": "Mistforged Obsidian Axe", "combo": { "weapon": [8329,8325] } },
       { "name": "Mistforged Obsidian Dagger", "combo": { "weapon": [7926,7974] } },
       { "name": "Mistforged Obsidian Mace", "combo": { "weapon": [8077,8066] } },
@@ -510,7 +511,7 @@
       { "name": "Mistforged Obsidian Rifle", "combo": { "weapon": [8318,8307] } },
       { "name": "Mistforged Obsidian Short Bow", "combo": { "weapon": [8314,8303] } },
       { "name": "Mistforged Obsidian Staff", "combo": { "weapon": [7961,7977] } },
-      // Weapon Set - Onyx Lion
+      // Weapon Set -> Onyx Lion
       { "name": "Onyx Lion Axe Skin", "combo": { "weapon": [8235,8280] } },
       { "name": "Onyx Lion Dagger Skin", "combo": { "weapon": [8257,8273] } },
       { "name": "Onyx Lion Mace Skin", "combo": { "weapon": [8255,8267] } },
@@ -649,7 +650,8 @@
       { "name": "Infernal Envoy Backpack and Glider Combo", "combo": { "back": [11780], "glider": [125] } },
       { "name": "Sorcerer's Cape Backpack and Glider Combo", "combo": { "back": [11716], "glider": [126] } },
       { "name": "Giant Folding Fan Backpack and Glider Combo", "combo": { "back": [11941], "glider": [129] } },
-      { "name": "Arcane Sigil Backpack and Glider Combo", "combo": { "back": [11982], "glider": [130] } }
+      { "name": "Arcane Sigil Backpack and Glider Combo", "combo": { "back": [11982], "glider": [130] } },
+      { "name": "Elegant Noble's Glider Combo", "combo": { "back": [11996], "glider": [131] } },
     ]
   },
   // -----------------------------
