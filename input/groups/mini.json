@@ -212,7 +212,8 @@
       "Choya": [
         502,
         508,
-        551
+        551,
+        595
       ],
       "Elemental Djinn": [
         503,
@@ -237,6 +238,13 @@
         562,
         575
       ],
+      "Starter Mount": [
+        504,
+        517,
+        521,
+        523,
+        552
+      ],
       "Sunspear Redemption Wish": [
         499,
         512,
@@ -256,13 +264,6 @@
         577,
         581
       ],
-      "Starter Mount": [
-        504,
-        517,
-        521,
-        523,
-        552
-      ],
       "Standalone Miniature": [
         498,
         515,
@@ -276,7 +277,6 @@
         578,
         583,
         584,
-        595,
         500,
         501,
         509,
@@ -304,13 +304,6 @@
       ]
     },
     "(X2 > LW4) Living World Season 4: Rise of Kralkatorrik": {
-      "Branded Minion": [
-        618,
-        719,
-        720,
-        740,
-        744
-      ],
       "Elemental Hydra Head / Elemental Hydra": [
         658,
         668,
@@ -319,6 +312,8 @@
       ],
       "Standalone Miniature": [
         617,
+        618,
+        619,
         620,
         624,
         656,
@@ -331,12 +326,15 @@
         696,
         697,
         698,
+        719,
+        720,
         724,
         726,
+        727,
+        740,
         741,
         742,
-        619,
-        727,
+        744,
         760,
         761,
         762
@@ -453,11 +451,9 @@
       ]
     },
     "Super Adventure Festival (SAB)": {
-      "Princess Miya": [
-        183,
-        184
-      ],
       "Standalone Miniature": [
+        183,
+        184,
         749,
         810,
         811,

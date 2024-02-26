@@ -164,13 +164,11 @@
         6246,
         6304
       ],
-      "Auric Backplate / Luminate's Backplate": [
-        6149,
-        6279
-      ],
       "Standalone Back Item": [
         6135,
+        6149,
         6242,
+        6279,
         6809,
         7114
       ]
@@ -212,11 +210,9 @@
         8058,
         8052
       ],
-      "Banner of the Commander": [
-        8149,
-        8165
-      ],
       "Standalone Back Item": [
+        8149,
+        8165,
         8169
       ]
     },
@@ -241,10 +237,6 @@
       ]
     },
     "(X3) Guild Wars 2: End of Dragons (EoD)": {
-      "Echovald Backpiece": [
-        10457,
-        10647
-      ],
       "Standalone Back Item": [
         10231,
         10247,
@@ -252,8 +244,10 @@
         10344,
         10399,
         10426,
+        10457,
         10458,
         10524,
+        10647,
         10675,
         10898,
         11322,
@@ -352,14 +346,14 @@
       ]
     },
     "Bonus Event": {
-      "Capital City": [
+      "Anniversary Series 1 - Capital City": [
         6890,
         6892,
         6895,
         6898,
         6902
       ],
-      "Decade": [
+      "Anniversary Series 2 - Decade": [
         11025,
         11027
       ],
@@ -371,6 +365,11 @@
       ]
     },
     "Gem Store": {
+      "Baby Mount": [
+        7755,
+        7996,
+        8319
+      ],
       "Forest Archer": [
         10156,
         10159,
@@ -406,13 +405,10 @@
         7285,
         7308,
         7661,
-        7755,
         7811,
-        7996,
         8038,
         8141,
         8184,
-        8319,
         8638,
         8647,
         8649,

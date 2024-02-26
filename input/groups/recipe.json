@@ -1,7 +1,7 @@
 {
   "topLevelCategories": {
     "Core": {
-      "Basic Stats Series 1: Mighty": [
+      "Beginner Stats Series 1: Mighty": [
         996,
         998,
         1005,
@@ -12,9 +12,9 @@
         2718,
         2725
       ],
-      "Basic Stats Series 1: Mighty -> Garnet": [
+      "Beginner Stats Series 1: Mighty -> Garnet": [
       ],
-      "Basic Stats Series 2: Precise": [
+      "Beginner Stats Series 2: Precise": [
         1001,
         1006,
         1871,
@@ -22,9 +22,9 @@
         2721,
         2726
       ],
-      "Basic Stats Series 2: Precise -> Tiger's Eye": [
+      "Beginner Stats Series 2: Precise -> Tiger's Eye": [
       ],
-      "Basic Stats Series 3: Resilient": [
+      "Beginner Stats Series 3: Resilient": [
         1002,
         1007,
         1872,
@@ -32,9 +32,9 @@
         2722,
         2727
       ],
-      "Basic Stats Series 3: Resilient -> Malachite": [
+      "Beginner Stats Series 3: Resilient -> Malachite": [
       ],
-      "Basic Stats Series 4: Vital": [
+      "Beginner Stats Series 4: Vital": [
         999,
         1008,
         1869,
@@ -42,9 +42,9 @@
         2719,
         2728
       ],
-      "Basic Stats Series 4: Vital -> Turquoise": [
+      "Beginner Stats Series 4: Vital -> Turquoise": [
       ],
-      "Basic Stats Series 5: Malign": [
+      "Beginner Stats Series 5: Malign": [
         997,
         1003,
         1867,
@@ -52,9 +52,9 @@
         2717,
         2723
       ],
-      "Basic Stats Series 5: Malign -> Amber": [
+      "Beginner Stats Series 5: Malign -> Amber": [
       ],
-      "Basic Stats Series 6: Healing": [
+      "Beginner Stats Series 6: Healing": [
         1000,
         1004,
         1870,
@@ -62,7 +62,7 @@
         2720,
         2724
       ],
-      "Basic Stats Series 6: Healing -> Pearl": [
+      "Beginner Stats Series 6: Healing -> Pearl": [
       ],
       "Intermediate Stats Series 1: Strong": [
         208,
@@ -4881,9 +4881,9 @@
       ]
     },
     "A Very Merry Wintersday": {
-      "Basic Stats Series 7: Giver": [
+      "Beginner Stats Series 7: Giver": [
       ],
-      "Basic Stats Series 7: Giver -> Snowflake": [
+      "Beginner Stats Series 7: Giver -> Snowflake": [
       ],
       "Intermediate Stats Series 8: Giver": [
         7014,

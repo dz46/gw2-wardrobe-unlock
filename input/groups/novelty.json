@@ -1,15 +1,19 @@
 {
   "topLevelCategories": {
     "Core": {
-      "Anomaly Fragment / Ley-Line Anomaly Tonic": [
-        191,
-        202
-      ],
       "Elemental Potion": [
         72,
         120,
         179,
         231
+      ],
+      "Racing Tonic": [
+        271,
+        272,
+        273,
+        274,
+        275,
+        276
       ],
       "Standalone Novelty": [
         12,
@@ -20,15 +24,11 @@
         122,
         141,
         147,
+        191,
+        202,
         219,
         222,
         237,
-        271,
-        272,
-        273,
-        274,
-        275,
-        276,
         307,
         332
       ]
@@ -106,19 +106,19 @@
       ]
     },
     "(X2) Guild Wars 2: Path of Fire (PoF)": {
-      "Choya Kite": [
+      "Choya Kite / Sand Shark Kite / Skimmer Kite": [
         10,
+        17,
+        22,
         26,
-        43
+        39,
+        43,
+        51
       ],
       "Music Box": [
       ],
       "Standalone Novelty": [
-        17,
-        22,
-        39,
         50,
-        51,
         69,
         218,
         285
@@ -205,6 +205,7 @@
     "A Very Merry Wintersday": {
       "Enchanted Snowball": [
         93,
+        133,
         217
       ],
       "Toy Tonic / Gift Box Tonic / Gift Dolyak Tonic / Toymaker's Tonic": [
@@ -221,7 +222,6 @@
         38,
         42,
         75,
-        133,
         277
       ]
     },
@@ -244,10 +244,6 @@
         13,
         36,
         40
-      ],
-      "Mount Chair": [
-        284,
-        302
       ],
       "Standalone Novelty -> Chair": [
         24,
@@ -276,6 +272,10 @@
         327,
         329
       ],
+      "Standalone Novelty -> Chair -> Mount": [
+        284,
+        302
+      ],
       "Standalone Novelty -> Musical Instrument": [
         2,
         6,
@@ -295,14 +295,8 @@
         4,
         5,
         9,
-        16,
-        19,
-        20,
-        27,
-        33,
         44,
         52,
-        54,
         55,
         78,
         111,
@@ -312,6 +306,14 @@
         226,
         265,
         300
+      ],
+      "Standalone Novelty -> Toy -> Travel": [
+        16,
+        19,
+        20,
+        27,
+        33,
+        54
       ],
       "Standalone Novelty -> Tonic": [
         80,
