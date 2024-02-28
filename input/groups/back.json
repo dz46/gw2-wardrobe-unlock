@@ -255,11 +255,20 @@
       ]
     },
     "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
+      "Banner of the Bastion of Amnytas": [
+        12032,
+        12039,
+        12047,
+        12065,
+        12070,
+        12073
+      ],
       "Standalone Back Item": [
         11741,
         11804,
         11903,
-        11904
+        11904,
+        12081
       ]
     },
     "Lunar New Year (LNY)": {
@@ -469,7 +478,8 @@
         11400,
         11435,
         11716,
-        11966
+        11966,
+        12099
       ],
       "Standalone Back Item -> Quiver": [
         2369,
