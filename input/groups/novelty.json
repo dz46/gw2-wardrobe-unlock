@@ -253,10 +253,12 @@
         278,
         279,
         280,
+        284,
         286,
         287,
         294,
         301,
+        302,
         303,
         305,
         309,
@@ -271,10 +273,6 @@
         326,
         327,
         329
-      ],
-      "Standalone Novelty -> Chair -> Mount": [
-        284,
-        302
       ],
       "Standalone Novelty -> Musical Instrument": [
         2,
@@ -295,8 +293,14 @@
         4,
         5,
         9,
+        16,
+        19,
+        20,
+        27,
+        33,
         44,
         52,
+        54,
         55,
         78,
         111,
@@ -307,20 +311,16 @@
         265,
         300
       ],
-      "Standalone Novelty -> Toy -> Travel": [
-        16,
-        19,
-        20,
-        27,
-        33,
-        54
-      ],
       "Standalone Novelty -> Tonic": [
         80,
         103,
         159,
         172,
-        185,
+        185
+      ]
+    },
+    "Promotional Event": {
+      "Standalone Novelty": [
         236
       ]
     }
