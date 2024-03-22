@@ -1,12 +1,5 @@
 {
   "topLevelCategories": {
-    "Core": {
-      "Starter": [
-      ],
-      "Standalone Emote": [
-        "Bless"
-      ]
-    },
     "(X2 > LW5) Living World Season 5: The Icebrood Saga (IBS)": {
       "Standalone Emote": [
         "rockout",
@@ -25,6 +18,7 @@
     },
     "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
       "Standalone Emote": [
+        "Bless",
         "Heroic",
         "Possessed"
       ]
@@ -38,8 +32,12 @@
       "Standalone Emote": [
         "Serve",
         "Hiss",
+        "Readbook"
+      ]
+    },
+    "Promotional Event": {
+      "Standalone Emote": [
         "MagicJuggle",
-        "Readbook",
         "sipcoffee"
       ]
     }

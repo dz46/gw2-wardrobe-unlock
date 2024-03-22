@@ -12,8 +12,6 @@
         2718,
         2725
       ],
-      "Beginner Stats Series 1: Mighty -> Garnet": [
-      ],
       "Beginner Stats Series 2: Precise": [
         1001,
         1006,
@@ -21,8 +19,6 @@
         1876,
         2721,
         2726
-      ],
-      "Beginner Stats Series 2: Precise -> Tiger's Eye": [
       ],
       "Beginner Stats Series 3: Resilient": [
         1002,
@@ -32,8 +28,6 @@
         2722,
         2727
       ],
-      "Beginner Stats Series 3: Resilient -> Malachite": [
-      ],
       "Beginner Stats Series 4: Vital": [
         999,
         1008,
@@ -41,8 +35,6 @@
         1878,
         2719,
         2728
-      ],
-      "Beginner Stats Series 4: Vital -> Turquoise": [
       ],
       "Beginner Stats Series 5: Malign": [
         997,
@@ -52,8 +44,6 @@
         2717,
         2723
       ],
-      "Beginner Stats Series 5: Malign -> Amber": [
-      ],
       "Beginner Stats Series 6: Healing": [
         1000,
         1004,
@@ -61,8 +51,6 @@
         1874,
         2720,
         2724
-      ],
-      "Beginner Stats Series 6: Healing -> Pearl": [
       ],
       "Intermediate Stats Series 1: Strong": [
         208,
@@ -1083,8 +1071,6 @@
         7033,
         7034
       ],
-      "Advanced Stats Series 14: Apothecary -> Passiflora": [
-      ],
       "Advanced Stats Series 14: Apothecary -> Veldrunner / Ebonmane": [
         7328,
         7356,
@@ -1804,10 +1790,6 @@
       ]
     },
     "(Core > LW1) Living World Season 1: Scarlet's War": {
-      "Advanced Stats Series 16: Sentinel": [
-      ],
-      "Advanced Stats Series 16: Sentinel -> Azurite": [
-      ],
       "Advanced Stats Series 16: Sentinel -> Wei Qi / Tonn": [
         7338,
         7366,
@@ -2374,8 +2356,6 @@
         9792,
         9793,
         9794
-      ],
-      "Standalone Recipe": [
       ],
       "Standalone Recipe -> Nourishment": [
         9708,
@@ -3671,8 +3651,6 @@
         12045,
         12049
       ],
-      "Standalone Recipe": [
-      ],
       "Standalone Recipe -> Nourishment": [
         11855,
         11856,
@@ -3701,8 +3679,6 @@
       ]
     },
     "(X2) Guild Wars 2: Path of Fire (PoF)": {
-      "Advanced Stats Series 31: Harrier": [
-      ],
       "Advanced Stats Series 31: Harrier -> Brandspark": [
         12142,
         12183,
@@ -3750,8 +3726,6 @@
         12426,
         12432
       ],
-      "Advanced Stats Series 32: Grieving": [
-      ],
       "Advanced Stats Series 32: Grieving -> Mournstone": [
         12458,
         12459,
@@ -3798,8 +3772,6 @@
         12422,
         12430,
         12431
-      ],
-      "Advanced Stats Series 33: Marshal": [
       ],
       "Advanced Stats Series 33: Marshal -> Sunset": [
         12151,
@@ -3969,8 +3941,6 @@
         12296,
         12300,
         12308
-      ],
-      "Standalone Recipe": [
       ],
       "Standalone Recipe -> Nourishment": [
         12068,
@@ -4501,8 +4471,6 @@
         13359,
         13361
       ],
-      "Standalone Recipe": [
-      ],
       "Standalone Recipe -> Nourishment": [
         13264,
         13266,
@@ -4564,8 +4532,6 @@
         13861,
         13879,
         13889
-      ],
-      "Advanced Stats Series 38: Ritualist": [
       ],
       "Advanced Stats Series 38: Ritualist -> Polished-Resin": [
         13596,
@@ -4664,6 +4630,24 @@
         13888
       ],
       "Ancient Ritualist Armor / Ancient Tahkayun Armor / Ancient Kraken Armor": [
+        13534,
+        13538,
+        13573,
+        13592,
+        13633,
+        13643,
+        13684,
+        13689,
+        13692,
+        13711,
+        13737,
+        13753,
+        13774,
+        13778,
+        13794,
+        13806,
+        13808,
+        13863
       ],
       "Jade Tech Armor": [
         13525,
@@ -4722,12 +4706,54 @@
         13876
       ],
       "Monastery Armor": [
+        13517,
+        13521,
+        13565,
+        13582,
+        13585,
+        13617,
+        13631,
+        13650,
+        13657,
+        13698,
+        13704,
+        13712,
+        13729,
+        13771,
+        13785,
+        13795,
+        13864,
+        13877
       ],
       "Shadow Serpent Weapon": [
-      ],
-      "Standalone Recipe": [
+        13513,
+        13531,
+        13540,
+        13580,
+        13593,
+        13612,
+        13656,
+        13694,
+        13768,
+        13790,
+        13809,
+        13813,
+        13818,
+        13837,
+        13846,
+        13866
       ],
       "Standalone Recipe -> Jade Bot Power Core": [
+        13542,
+        13550,
+        13584,
+        13628,
+        13658,
+        13723,
+        13751,
+        13780,
+        13821,
+        13841
       ],
       "Standalone Recipe -> Jade Bot Sensory Array": [
         13523,
@@ -4769,10 +4795,35 @@
     },
     "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
       "Consecrated Saryx Weapon": [
+        14045,
+        14046,
+        14048,
+        14051,
+        14053,
+        14054,
+        14055,
+        14058,
+        14059,
+        14060,
+        14061,
+        14062,
+        14063,
+        14064,
+        14065,
+        14066
       ],
       "Kryptis Motivation": [
+        13957,
+        14018,
+        14029
       ],
       "Obsidian Armor": [
+        13946,
+        13948,
+        13972,
+        13983,
+        14005,
+        14034,
         14073,
         14074,
         14075,
@@ -4787,8 +4838,40 @@
         14084
       ],
       "Storm's Eye Weapon": [
+        13943,
+        13950,
+        13953,
+        13954,
+        13955,
+        13962,
+        13966,
+        13968,
+        13973,
+        13976,
+        13980,
+        13986,
+        13997,
+        13999,
+        14012,
+        14013
       ],
       "Stormforged Weapon": [
+        13958,
+        13964,
+        13967,
+        13971,
+        13979,
+        13988,
+        14000,
+        14001,
+        14004,
+        14006,
+        14014,
+        14017,
+        14021,
+        14023,
+        14027,
+        14033
       ],
       "Standalone Recipe": [
         14025,
@@ -4796,8 +4879,6 @@
       ]
     },
     "Lunar New Year (LNY)": {
-      "Standalone Recipe": [
-      ],
       "Standalone Recipe -> Nourishment": [
         13508
       ],
@@ -4806,15 +4887,11 @@
       ]
     },
     "Super Adventure Festival (SAB)": {
-      "Standalone Recipe": [
-      ],
       "Standalone Recipe -> Nourishment": [
         13896
       ]
     },
     "Dragon Bash": {
-      "Standalone Recipe": [
-      ],
       "Standalone Recipe -> Enhancement": [
         13236,
         13238,
@@ -4895,10 +4972,6 @@
       ]
     },
     "A Very Merry Wintersday": {
-      "Beginner Stats Series 7: Giver": [
-      ],
-      "Beginner Stats Series 7: Giver -> Snowflake": [
-      ],
       "Intermediate Stats Series 8: Giver": [
         7014,
         7015,
@@ -4909,8 +4982,6 @@
         7027,
         7028,
         7029
-      ],
-      "Intermediate Stats Series 8: Giver -> Snowflake": [
       ],
       "Advanced Stats Series 15: Giver": [
         6748,
@@ -4925,8 +4996,6 @@
         7032,
         7035,
         12576
-      ],
-      "Advanced Stats Series 15: Giver -> Snowflake": [
       ],
       "Advanced Stats Series 15: Giver -> Tixx": [
         12517,
@@ -5053,8 +5122,6 @@
         12645,
         12646,
         12647
-      ],
-      "Standalone Recipe": [
       ],
       "Standalone Recipe -> Nourishment": [
         7234
