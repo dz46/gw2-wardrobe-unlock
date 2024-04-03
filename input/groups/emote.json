@@ -18,9 +18,13 @@
     },
     "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
       "Standalone Emote": [
-        "Bless",
         "Heroic",
         "Possessed"
+      ]
+    },
+    "Wizard's Vault": {
+      "Standalone Emote": [
+        "Bless"
       ]
     },
     "Gem Store": {
