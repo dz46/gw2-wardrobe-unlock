@@ -2,15 +2,15 @@
   "topLevelCategories": {
     "(X2 > LW5) Living World Season 5: The Icebrood Saga (IBS)": {
       "Standalone Emote": [
+        "playdead",
         "rockout",
         "shiver",
-        "playdead",
         "Shiverplus",
         "Stretch"
       ]
     },
     "(X3) Guild Wars 2: End of Dragons (EoD)": {
-      "Rock / Paper / Scissors": [
+      "Rock, Paper, Scissors": [
         "Paper",
         "Rock",
         "Scissors"
@@ -34,9 +34,9 @@
         "step"
       ],
       "Standalone Emote": [
-        "Serve",
         "Hiss",
-        "Readbook"
+        "Readbook",
+        "Serve"
       ]
     },
     "Promotional Event": {

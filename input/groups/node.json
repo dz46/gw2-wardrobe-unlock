@@ -1,17 +1,17 @@
 {
   "topLevelCategories": {
-    "Core": {
+    "(X0) Guild Wars 2 (GW2)": {
       "Standalone Node": [
         "enchanted_treasure_chest"
       ]
     },
-    "(Core > LW1) Living World Season 1: Scarlet's War": {
+    "(X0 > LW1) Living World Season 1: Scarlet's War": {
       "Standalone Node": [
         "krait_obelisk",
         "sprocket_generator"
       ]
     },
-    "(Core > LW2) Living World Season 2: Glint's Prophecy": {
+    "(X0 > LW2) Living World Season 2: Glint's Prophecy": {
       "Standalone Node": [
         "bandit_chest"
       ]

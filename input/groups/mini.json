@@ -1,6 +1,6 @@
 {
   "topLevelCategories": {
-    "Core": {
+    "(X0) Guild Wars 2 (GW2)": {
       "PvP League Series 1 - Llama": [
         228,
         321,
@@ -25,18 +25,18 @@
         473,
         474
       ],
-      "Mist Champion": [
-        362,
-        366,
-        379,
-        388
-      ],
-      "Old Tom": [
+      "Kitty Golem": [
         344,
         352,
         355,
         360,
         361
+      ],
+      "Mist Champion": [
+        362,
+        366,
+        379,
+        388
       ],
       "Siege Golem": [
         130,
@@ -57,7 +57,7 @@
         890
       ]
     },
-    "(Core > LW1) Living World Season 1: Scarlet's War": {
+    "(X0 > LW1) Living World Season 1: Scarlet's War": {
       "Prototype Assault Knight": [
         877,
         878,
@@ -78,7 +78,7 @@
         223
       ]
     },
-    "(Core > LW2) Living World Season 2: Glint's Prophecy": {
+    "(X0 > LW2) Living World Season 2: Glint's Prophecy": {
       "Mordrem Minion": [
         292,
         303,
@@ -303,7 +303,7 @@
       ]
     },
     "(X2 > LW4) Living World Season 4: Rise of Kralkatorrik": {
-      "Elemental Hydra Head / Elemental Hydra": [
+      "Elemental Hydra": [
         658,
         668,
         669,
@@ -893,7 +893,7 @@
         715,
         717
       ],
-      "Costumed Trick-or-Treater / Ghost Carlotta": [
+      "Costumed Trick-or-Treater": [
         197,
         198,
         199,
@@ -910,14 +910,14 @@
         191,
         192
       ],
-      "Scarlet's Champion / Armored Scarlet Briar": [
+      "Scarlet's Champion": [
         219,
         220,
         224,
         225,
         226
       ],
-      "Spooky / Chainsaw the Skeleton": [
+      "Spooky": [
         107,
         109,
         110,

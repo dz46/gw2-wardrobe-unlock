@@ -1,6 +1,6 @@
 {
   "topLevelCategories": {
-    "Core": {
+    "(X0) Guild Wars 2 (GW2)": {
       "Starter": [
         3870,
         3872,
@@ -328,6 +328,27 @@
         5055,
         5087
       ],
+      "Renown Heart Weapon Series - Modniir": [
+        4608,
+        4643,
+        4645,
+        4613,
+        4647,
+        4618,
+        4587,
+        4651,
+        4524,
+        4652,
+        4655,
+        4592,
+        4594,
+        4595,
+        4660,
+        4662,
+        4631,
+        4632,
+        4634
+      ],
       "Cultural Weapon Series 1 - Adamant Guard": [
         4321,
         4289,
@@ -545,70 +566,7 @@
         3887,
         4156
       ],
-      "Standard Crafting Weapon Series 3 - Steel / Seasoned Wood": [
-        5696,
-        5697,
-        5682,
-        5689,
-        5690,
-        5691,
-        5692,
-        5693,
-        5694,
-        5695,
-        5680,
-        5681,
-        5683,
-        5684,
-        5685,
-        5686,
-        5687,
-        5688,
-        5679
-      ],
-      "Standard Crafting Weapon Series 4 - Darksteel / Hard Wood": [
-        4049,
-        4034,
-        4006,
-        4055,
-        4087,
-        4008,
-        4090,
-        4107,
-        4043,
-        4061,
-        4019,
-        3987,
-        3988,
-        3990,
-        3917,
-        3934,
-        4094,
-        3998,
-        3919
-      ],
-      "Standard Crafting Weapon Series 5 - Mithril / Elder Wood": [
-        4081,
-        4114,
-        4083,
-        4036,
-        4102,
-        4103,
-        3992,
-        4073,
-        4046,
-        4079,
-        3968,
-        3969,
-        3972,
-        3956,
-        3957,
-        4024,
-        4105,
-        3965,
-        3950
-      ],
-      "Standard Crafting Weapon Series 6 - Bandit": [
+      "Standard Crafting Weapon Series 3 - Bandit": [
         4096,
         3905,
         4066,
@@ -630,7 +588,28 @@
         4029,
         3903
       ],
-      "Standard Crafting Weapon Series 7 - Dredge": [
+      "Standard Crafting Weapon Series 4 - Steel / Seasoned Wood": [
+        5696,
+        5697,
+        5682,
+        5689,
+        5690,
+        5691,
+        5692,
+        5693,
+        5694,
+        5695,
+        5680,
+        5681,
+        5683,
+        5684,
+        5685,
+        5686,
+        5687,
+        5688,
+        5679
+      ],
+      "Standard Crafting Weapon Series 5 - Dredge": [
         3936,
         3937,
         4002,
@@ -651,7 +630,28 @@
         4028,
         3966
       ],
-      "Standard Crafting Weapon Series 8 - Ogre": [
+      "Standard Crafting Weapon Series 6 - Darksteel / Hard Wood": [
+        4049,
+        4034,
+        4006,
+        4055,
+        4087,
+        4008,
+        4090,
+        4107,
+        4043,
+        4061,
+        4019,
+        3987,
+        3988,
+        3990,
+        3917,
+        3934,
+        4094,
+        3998,
+        3919
+      ],
+      "Standard Crafting Weapon Series 7 - Ogre": [
         4064,
         4033,
         4065,
@@ -671,6 +671,27 @@
         4025,
         3993,
         4095
+      ],
+      "Standard Crafting Weapon Series 8 - Mithril / Elder Wood": [
+        4081,
+        4114,
+        4083,
+        4036,
+        4102,
+        4103,
+        3992,
+        4073,
+        4046,
+        4079,
+        3968,
+        3969,
+        3972,
+        3956,
+        3957,
+        4024,
+        4105,
+        3965,
+        3950
       ],
       "Standard Crafting Weapon Series 9 - Krait": [
         3973,
@@ -1425,27 +1446,6 @@
         8897,
         8898
       ],
-      "Modniir": [
-        4608,
-        4643,
-        4645,
-        4613,
-        4647,
-        4618,
-        4587,
-        4651,
-        4524,
-        4652,
-        4655,
-        4592,
-        4594,
-        4595,
-        4660,
-        4662,
-        4631,
-        4632,
-        4634
-      ],
       "Mystic": [
         5313,
         5346,
@@ -1828,7 +1828,7 @@
         11537
       ]
     },
-    "(Core > LW1) Living World Season 1: Scarlet's War": {
+    "(X0 > LW1) Living World Season 1: Scarlet's War": {
       "Aetherized Nightmare Court": [
         4513,
         4419,
@@ -1889,7 +1889,7 @@
         5425
       ]
     },
-    "(Core > LW2) Living World Season 2: Glint's Prophecy": {
+    "(X0 > LW2) Living World Season 2: Glint's Prophecy": {
       "Ambrite": [
         5516,
         5517,
@@ -2089,11 +2089,6 @@
         6171,
         6399
       ],
-      "Indomitable / Arbiter": [
-        7097,
-        7101,
-        7125
-      ],
       "Mist": [
         8114,
         8116,
@@ -2105,6 +2100,16 @@
         6325,
         6465,
         6482
+      ],
+      "Mursaat": [
+        7097,
+        7101,
+        7125
+      ],
+      "Prisoner": [
+        7076,
+        7104,
+        7151
       ],
       "Reclaimed": [
         5922,
@@ -2160,6 +2165,12 @@
         6301,
         6335
       ],
+      "Samarog": [
+        7091,
+        7113,
+        7147,
+        7155
+      ],
       "White Mantle": [
         6626,
         6788,
@@ -2203,14 +2214,7 @@
         6642,
         6645,
         6813,
-        6836,
-        7076,
-        7091,
-        7104,
-        7113,
-        7147,
-        7151,
-        7155
+        6836
       ]
     },
     "(X1 > LW3) Living World Season 3: Glint's Legacy": {
@@ -2297,6 +2301,14 @@
         7548,
         7549
       ],
+      "Djinn": [
+        8783,
+        8793,
+        8797,
+        8800,
+        8802,
+        8803
+      ],
       "Dwarven": [
         7361,
         7554,
@@ -2364,14 +2376,6 @@
         7420,
         7484,
         7422
-      ],
-      "Sabir / Adina / Peerless": [
-        8783,
-        8793,
-        8797,
-        8800,
-        8802,
-        8803
       ],
       "Standalone Weapon": [
         7845,
@@ -3154,14 +3158,6 @@
         11466,
         11468
       ],
-      "Repurposed / Xunlai": [
-        11299,
-        11316,
-        11324,
-        11448,
-        11451,
-        11458
-      ],
       "Saltspray": [
         10229,
         10275,
@@ -3202,6 +3198,14 @@
         11325,
         11340,
         11344
+      ],
+      "Xunlai": [
+        11299,
+        11316,
+        11324,
+        11448,
+        11451,
+        11458
       ],
       "Standalone Weapon": [
         10803,
@@ -3538,23 +3542,7 @@
         9987,
         9988
       ],
-      "Festival Weekly Completion Weapon Series 2 - Generation One": [
-        11364,
-        11366,
-        11368,
-        11372,
-        11375,
-        11377,
-        11378,
-        11383,
-        11385,
-        11386,
-        11387,
-        11388,
-        11394,
-        11396,
-        11401,
-        11402
+      "Festival Weekly Completion Weapon Series 2 - ????": [
       ],
       "Festival Champion Weapon Series 2 - Hardlight": [
         10767,
@@ -3573,6 +3561,24 @@
         10796,
         10798,
         10799
+      ],
+      "Generation One": [
+        11364,
+        11366,
+        11368,
+        11372,
+        11375,
+        11377,
+        11378,
+        11383,
+        11385,
+        11386,
+        11387,
+        11388,
+        11394,
+        11396,
+        11401,
+        11402
       ],
       "Glitched Adventure": [
         9336,
@@ -4307,11 +4313,11 @@
         12084,
         12089
       ],
-      "Astral Rewards Weapon Series 4": [
+      "Astral Rewards Weapon Series 4 - ????": [
       ]
     },
     "Gem Store": {
-      "Elite Weapons Series 1 - Immortal": [
+      "Elite Weapon Series 1 - Immortal": [
         6081,
         6082,
         6115,
@@ -4329,7 +4335,7 @@
         6111,
         6079
       ],
-      "Elite Weapons Series 2 - Onyx Lion / Gold Lion": [
+      "Elite Weapon Series 2 - Onyx Lion / Gold Lion": [
         8256,
         8292,
         8293,
@@ -4363,7 +4369,7 @@
         8286,
         8255
       ],
-      "Elite Weapons Series 3 - Mythic": [
+      "Elite Weapon Series 3 - Mythic": [
         9054,
         9055,
         9056,
@@ -4381,7 +4387,7 @@
         9090,
         9093
       ],
-      "Elite Weapons Series 4 - Gold Essence": [
+      "Elite Weapon Series 4 - Gold Essence": [
         10262,
         10296,
         10340,

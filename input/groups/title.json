@@ -1,6 +1,6 @@
 {
   "topLevelCategories": {
-    "Core": {
+    "(X0) Guild Wars 2 (GW2)": {
       "Achiever": [
         162,
         163,
@@ -65,7 +65,7 @@
         298,
         299
       ],
-      "God of the Arena": [
+      "God and Goddess of the Arena": [
         327,
         329,
         331,
@@ -106,6 +106,7 @@
       ],
       "Ultimate Dominator": [
         70,
+        421,
         435,
         436,
         439,
@@ -141,7 +142,6 @@
         90,
         91,
         127,
-        160,
         175,
         184,
         186,
@@ -152,21 +152,16 @@
         205,
         220,
         225,
-        236,
-        239,
         248,
         250,
         275,
         277,
-        290,
         303,
         306,
-        321,
-        325,
-        326,
         343,
         355,
         356,
+        359,
         360,
         364,
         365,
@@ -176,10 +171,13 @@
         420
       ]
     },
-    "(Core > LW1) Living World Season 1: Scarlet's War": {
+    "(X0 > LW1) Living World Season 1: Scarlet's War": {
       "Standalone Title": [
         131,
         133,
+        140,
+        141,
+        142,
         180,
         181,
         182,
@@ -187,14 +185,16 @@
         395
       ]
     },
-    "(Core > LW2) Living World Season 2: Glint's Prophecy": {
-      "Standalone Title": [
+    "(X0 > LW2) Living World Season 2: Glint's Prophecy": {
+      "The Be-All and the End-All": [
         207,
         208,
         209,
-        210,
         211,
-        212,
+        212
+      ],
+      "Standalone Title": [
+        210,
         213
       ]
     },
@@ -223,7 +223,8 @@
         271,
         272,
         274,
-        278
+        278,
+        290
       ]
     },
     "(X2) Guild Wars 2: Path of Fire (PoF)": {
@@ -244,8 +245,7 @@
         300,
         314,
         318,
-        328,
-        330
+        328
       ]
     },
     "(X2 > LW4) Living World Season 4: Rise of Kralkatorrik": {
@@ -257,9 +257,11 @@
         315,
         316,
         317,
+        321,
         322,
         323,
-        324
+        324,
+        325
       ]
     },
     "(X2 > LW5) Living World Season 5: The Icebrood Saga (IBS)": {
@@ -287,12 +289,15 @@
         376,
         379,
         380,
-        382
+        382,
+        385
       ],
       "Facet of Aurene": [
         390,
         391,
         392,
+        393,
+        396,
         397,
         398
       ],
@@ -304,7 +309,9 @@
         383,
         384,
         386,
-        388
+        387,
+        388,
+        389
       ]
     },
     "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
@@ -314,7 +321,9 @@
         403,
         404,
         417,
-        419
+        418,
+        419,
+        456
       ]
     },
     "Super Adventure Festival (SAB)": {
@@ -325,6 +334,8 @@
     },
     "Festival of the Four Winds (FotFW)": {
       "Standalone Title": [
+        160,
+        161,
         185,
         309,
         310
@@ -338,12 +349,16 @@
     },
     "A Very Merry Wintersday": {
       "Standalone Title": [
+        130,
         178,
+        179,
         214,
+        215,
         216,
-        259,
         233,
-        235
+        234,
+        235,
+        259
       ]
     },
     "Bonus Event": {
@@ -359,13 +374,26 @@
         196,
         197
       ],
+      "Legend": [
+        231,
+        237,
+        239,
+        242
+      ],
       "Standalone Title": [
-        280
+        176,
+        183,
+        206,
+        236,
+        280,
+        326,
+        330
       ]
     },
     "Gem Store": {
       "Standalone Title": [
-        18
+        18,
+        405
       ]
     },
     "Promotional Event": {
@@ -381,6 +409,12 @@
         9,
         10
       ],
+      "Community": [
+        362,
+        370,
+        371,
+        372
+      ],
       "God of PvP": [
         252,
         253,
@@ -390,15 +424,23 @@
         257,
         258
       ],
+      "Legend of the Arena": [
+        135,
+        136,
+        137,
+        138,
+        139
+      ],
       "Standalone Title": [
         26,
+        217,
+        279,
         286,
         319,
+        344,
         348,
         351,
-        362,
-        370,
-        372,
+        373,
         400
       ]
     }

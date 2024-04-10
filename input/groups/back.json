@@ -1,6 +1,6 @@
 {
   "topLevelCategories": {
-    "Core": {
+    "(X0) Guild Wars 2 (GW2)": {
       "Crafting Discipline Series 1: Tailor": [
         2307,
         2309,
@@ -112,7 +112,7 @@
         9051
       ]
     },
-    "(Core > LW1) Living World Season 1: Scarlet's War": {
+    "(X0 > LW1) Living World Season 1: Scarlet's War": {
       "Spinal Blades": [
         2337,
         2328,
@@ -133,7 +133,7 @@
         11118
       ]
     },
-    "(Core > LW2) Living World Season 2: Glint's Prophecy": {
+    "(X0 > LW2) Living World Season 2: Glint's Prophecy": {
       "Vine / Mawdrey": [
         5544,
         5545,
@@ -297,7 +297,7 @@
       ]
     },
     "Super Adventure Festival (SAB)": {
-      "Super / King Toad / Storm Wizard / Kaiser Snake / Crimson Assassin": [
+      "Super": [
         2360,
         2361,
         2362,
@@ -376,15 +376,15 @@
       ]
     },
     "Gem Store": {
-      "Baby Mount": [
-        7755,
-        7996,
-        8319
-      ],
       "Forest Archer": [
         10156,
         10159,
         10161
+      ],
+      "Mount Baby": [
+        7755,
+        7996,
+        8319
       ],
       "Plush Charr": [
         2363,
