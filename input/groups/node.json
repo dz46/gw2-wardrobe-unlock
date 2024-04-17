@@ -1,23 +1,23 @@
 {
   "topLevelCategories": {
-    "Core": {
-      "Standalone: Other": [
+    "(X0) Guild Wars 2 (GW2)": {
+      "Standalone Node": [
         "enchanted_treasure_chest"
       ]
     },
-    "(Core > LW1) Living World Season 1: Scarlet's War": {
-      "Standalone: Other": [
+    "(X0 > LW1) Living World Season 1: Scarlet's War": {
+      "Standalone Node": [
         "krait_obelisk",
         "sprocket_generator"
       ]
     },
-    "(Core > LW2) Living World Season 2: Glint's Prophecy": {
-      "Standalone: Other": [
+    "(X0 > LW2) Living World Season 2: Glint's Prophecy": {
+      "Standalone Node": [
         "bandit_chest"
       ]
     },
     "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
-      "Standalone: Other": [
+      "Standalone Node": [
         "airship_cargo",
         "aurilium_node",
         "crystallized_supply_cache",
@@ -25,7 +25,7 @@
       ]
     },
     "(X1 > LW3) Living World Season 3: Glint's Legacy": {
-      "Standalone: Other": [
+      "Standalone Node": [
         "bloodstone_crystals",
         "jade_fragment",
         "orrian_oyster_node",
@@ -35,7 +35,7 @@
       ]
     },
     "(X2 > LW4) Living World Season 4: Rise of Kralkatorrik": {
-      "Standalone: Other": [
+      "Standalone Node": [
         "brandstone_node",
         "difluorite_crystal_cluster_node",
         "dragon_crystal",
@@ -45,7 +45,7 @@
       ]
     },
     "(X2 > LW5) Living World Season 5: The Icebrood Saga (IBS)": {
-      "Standalone: Other": [
+      "Standalone Node": [
         "bound_hatched_chili_pepper_node",
         "eternal_ice_shard_node",
         "prismaticite_node",
@@ -53,32 +53,32 @@
       ]
     },
     "Super Adventure Festival (SAB)": {
-      "Standalone: Other": [
+      "Standalone Node": [
         "bauble_gathering_system"
       ]
     },
     "Dragon Bash": {
-      "Standalone: Other": [
+      "Standalone Node": [
         "commemorative_dragon_pinata"
       ]
     },
     "Festival of the Four Winds (FotFW)": {
-      "Standalone: Other": [
+      "Standalone Node": [
         "quartz_node"
       ]
     },
     "Shadow of the Mad King (Halloween)": {
-      "Standalone: Other": [
+      "Standalone Node": [
         "candy_corn_node",
         "king_sized_candy_corn"
       ]
     },
     "A Very Merry Wintersday": {
-      "Standalone: Other": [
+      "Standalone Node": [
         "wintersday_tree"
       ]
     },
-    "Gem Store": {
+    "Black Lion Trading Company (Gem Store)": {
       "Black Lion Board": [
         "black_lion_expedition_board",
         "black_lion_expedition_board_s4",
@@ -90,7 +90,7 @@
         "garden_plot_02",
         "garden_plot_03"
       ],
-      "Standalone: Other": [
+      "Standalone Node": [
         "advanced_cloth_rack",
         "advanced_leather_rack",
         "basic_cloth_rack",
@@ -117,8 +117,6 @@
         "mithril_ore_node",
         "orichalcum_ore_node",
         "platinum_ore_node"
-      ],
-      "Standalone Node -> Fishing": [
       ]
     }
   }

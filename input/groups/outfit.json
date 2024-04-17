@@ -1,6 +1,6 @@
 {
   "topLevelCategories": {
-    "Core": {
+    "(X0) Guild Wars 2 (GW2)": {
       "Starter": [
         60
       ]
@@ -10,7 +10,7 @@
         12
       ]
     },
-    "Gem Store": {
+    "Black Lion Trading Company (Gem Store)": {
       "Clothing": [
         59,
         61,
@@ -25,7 +25,7 @@
         70,
         71
       ],
-      "Crystal Savant / Crystal Nomad / Crystal Arbiter": [
+      "Crystal": [
         18,
         29,
         35
@@ -36,13 +36,6 @@
         45,
         47,
         49
-      ],
-      "Emblem Clothing": [
-        73,
-        89,
-        90,
-        95,
-        113
       ],
       "Six Gods's Regalia": [
         20,
@@ -73,7 +66,6 @@
         24,
         25,
         26,
-        27,
         28,
         31,
         32,
@@ -145,7 +137,21 @@
         124,
         125,
         126,
-        127
+        127,
+        128,
+        129
+      ]
+    },
+    "Promotional Event": {
+      "Emblem Clothing": [
+        73,
+        89,
+        90,
+        95,
+        113
+      ],
+      "Standalone Outfit": [
+        27
       ]
     }
   }

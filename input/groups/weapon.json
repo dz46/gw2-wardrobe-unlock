@@ -1,6 +1,6 @@
 {
   "topLevelCategories": {
-    "Core": {
+    "(X0) Guild Wars 2 (GW2)": {
       "Starter": [
         3870,
         3872,
@@ -328,43 +328,28 @@
         5055,
         5087
       ],
-      "Champion Loot Bag Weapon Series 1": [
-        4736,
-        4803,
-        4739,
-        4805,
-        4806,
-        4742,
-        4872,
-        4810,
-        4874,
-        4746,
-        4812,
-        4749,
-        4813,
-        4886,
-        4887,
-        4888,
-        4762,
-        4765,
-        4767,
-        4895,
-        4897,
-        4839,
-        4713,
-        4842,
-        4787,
-        4788,
-        4792,
-        4793,
-        4795,
-        4796,
-        4732,
-        4797,
-        4733,
-        4734
+      "Renown Heart Weapon Series - Modniir": [
+        4608,
+        4643,
+        4645,
+        4613,
+        4647,
+        4618,
+        4587,
+        4651,
+        4524,
+        4652,
+        4655,
+        4592,
+        4594,
+        4595,
+        4660,
+        4662,
+        4631,
+        4632,
+        4634
       ],
-      "Cultural Weapon Series 1: Black Citadel - Adamant Guard": [
+      "Cultural Weapon Series 1 - Adamant Guard": [
         4321,
         4289,
         4322,
@@ -385,7 +370,7 @@
         4351,
         4319
       ],
-      "Cultural Weapon Series 2: Divinity's Reach - Seraph": [
+      "Cultural Weapon Series 2 - Seraph": [
         4352,
         4291,
         4324,
@@ -406,7 +391,7 @@
         4317,
         4285
       ],
-      "Cultural Weapon Series 3: Hoelbrak - Wolfborn": [
+      "Cultural Weapon Series 3 - Wolfborn": [
         4293,
         4294,
         4297,
@@ -427,7 +412,7 @@
         4316,
         4286
       ],
-      "Cultural Weapon Series 4: Rata Sum - Peacemaker": [
+      "Cultural Weapon Series 4 - Peacemaker": [
         4288,
         4263,
         4296,
@@ -448,7 +433,7 @@
         4350,
         4287
       ],
-      "Cultural Weapon Series 5: The Grove - Warden": [
+      "Cultural Weapon Series 5 - Warden": [
         4320,
         4257,
         4258,
@@ -470,7 +455,7 @@
         4343,
         4314
       ],
-      "Cultural Weapon Series 6: Lion's Arch - Lionguard": [
+      "Cultural Weapon Series 6 - Lionguard": [
         4609,
         4611,
         4614,
@@ -494,28 +479,7 @@
         4605,
         4639
       ],
-      "Cultural Weapon Series 7: Sharkmaw Caverns - Pirate": [
-        4641,
-        4642,
-        4616,
-        4585,
-        4649,
-        4620,
-        4621,
-        4623,
-        4591,
-        4658,
-        4626,
-        4659,
-        4596,
-        4630,
-        4600,
-        4633,
-        4603,
-        4606,
-        4607
-      ],
-      "Cultural Weapon Series 8: Stronghold of Ebonhawke - Ebon Vanguard": [
+      "Cultural Weapon Series 7 - Ebon Vanguard": [
         4640,
         4610,
         4644,
@@ -537,6 +501,27 @@
         4985,
         4637,
         4638
+      ],
+      "Cultural Weapon Series 8 - Pirate": [
+        4641,
+        4642,
+        4616,
+        4585,
+        4649,
+        4620,
+        4621,
+        4623,
+        4591,
+        4658,
+        4626,
+        4659,
+        4596,
+        4630,
+        4600,
+        4633,
+        4603,
+        4606,
+        4607
       ],
       "Standard Crafting Weapon Series 1 - Bronze / Green Wood": [
         4048,
@@ -581,70 +566,7 @@
         3887,
         4156
       ],
-      "Standard Crafting Weapon Series 3 - Steel / Seasoned Wood": [
-        5696,
-        5697,
-        5682,
-        5689,
-        5690,
-        5691,
-        5692,
-        5693,
-        5694,
-        5695,
-        5680,
-        5681,
-        5683,
-        5684,
-        5685,
-        5686,
-        5687,
-        5688,
-        5679
-      ],
-      "Standard Crafting Weapon Series 4 - Darksteel / Hard Wood": [
-        4049,
-        4034,
-        4006,
-        4055,
-        4087,
-        4008,
-        4090,
-        4107,
-        4043,
-        4061,
-        4019,
-        3987,
-        3988,
-        3990,
-        3917,
-        3934,
-        4094,
-        3998,
-        3919
-      ],
-      "Standard Crafting Weapon Series 5 - Mithril / Elder Wood": [
-        4081,
-        4114,
-        4083,
-        4036,
-        4102,
-        4103,
-        3992,
-        4073,
-        4046,
-        4079,
-        3968,
-        3969,
-        3972,
-        3956,
-        3957,
-        4024,
-        4105,
-        3965,
-        3950
-      ],
-      "Standard Crafting Weapon Series 6 - Bandit": [
+      "Standard Crafting Weapon Series 3 - Bandit": [
         4096,
         3905,
         4066,
@@ -666,7 +588,28 @@
         4029,
         3903
       ],
-      "Standard Crafting Weapon Series 7 - Dredge": [
+      "Standard Crafting Weapon Series 4 - Steel / Seasoned Wood": [
+        5696,
+        5697,
+        5682,
+        5689,
+        5690,
+        5691,
+        5692,
+        5693,
+        5694,
+        5695,
+        5680,
+        5681,
+        5683,
+        5684,
+        5685,
+        5686,
+        5687,
+        5688,
+        5679
+      ],
+      "Standard Crafting Weapon Series 5 - Dredge": [
         3936,
         3937,
         4002,
@@ -687,7 +630,28 @@
         4028,
         3966
       ],
-      "Standard Crafting Weapon Series 8 - Ogre": [
+      "Standard Crafting Weapon Series 6 - Darksteel / Hard Wood": [
+        4049,
+        4034,
+        4006,
+        4055,
+        4087,
+        4008,
+        4090,
+        4107,
+        4043,
+        4061,
+        4019,
+        3987,
+        3988,
+        3990,
+        3917,
+        3934,
+        4094,
+        3998,
+        3919
+      ],
+      "Standard Crafting Weapon Series 7 - Ogre": [
         4064,
         4033,
         4065,
@@ -707,6 +671,27 @@
         4025,
         3993,
         4095
+      ],
+      "Standard Crafting Weapon Series 8 - Mithril / Elder Wood": [
+        4081,
+        4114,
+        4083,
+        4036,
+        4102,
+        4103,
+        3992,
+        4073,
+        4046,
+        4079,
+        3968,
+        3969,
+        3972,
+        3956,
+        3957,
+        4024,
+        4105,
+        3965,
+        3950
       ],
       "Standard Crafting Weapon Series 9 - Krait": [
         3973,
@@ -772,7 +757,7 @@
         4125,
         4223
       ],
-      "Ascended Default Weapon Series 2: Precision / Ferocity - Citrine Antique": [
+      "Ascended Default Weapon Series 2: Precision & Ferocity - Citrine Antique": [
         4130,
         4195,
         4196,
@@ -835,7 +820,7 @@
         4188,
         4254
       ],
-      "Ascended Default Weapon Series 5: Condition Damage / Expertise - Terracotta Antique": [
+      "Ascended Default Weapon Series 5: Condition Damage & Expertise - Terracotta Antique": [
         4224,
         4129,
         4161,
@@ -898,7 +883,7 @@
         4157,
         4191
       ],
-      "Legendary Weapon Series 1 - Experiment": [
+      "Legendary Weapon Series 1 - Tier 1": [
         6157,
         6182,
         6238,
@@ -920,11 +905,11 @@
         6494,
         6525
       ],
-      "Legendary Weapon Series 1 - Experiment > Perfected": [
+      "Legendary Weapon Series 1 - Tier 1 > Tier 2": [
         4693,
         4737
       ],
-      "Legendary Weapon Series 1 - Experiment > Perfected > Precursor": [
+      "Legendary Weapon Series 1 - Tier 1 > Tier 2 > Tier 3": [
         6199,
         6284,
         6286,
@@ -946,7 +931,7 @@
         6509,
         6514
       ],
-      "Legendary Weapon Series 1 - Experiment > Perfected > Precursor > Legendary": [
+      "Legendary Weapon Series 1 - Tier 1 > Tier 2 > Tier 3 > Tier 4": [
         4664,
         4665,
         4666,
@@ -1242,6 +1227,42 @@
         4030,
         4031
       ],
+      "Champion": [
+        4736,
+        4803,
+        4739,
+        4805,
+        4806,
+        4742,
+        4872,
+        4810,
+        4874,
+        4746,
+        4812,
+        4749,
+        4813,
+        4886,
+        4887,
+        4888,
+        4762,
+        4765,
+        4767,
+        4895,
+        4897,
+        4839,
+        4713,
+        4842,
+        4787,
+        4788,
+        4792,
+        4793,
+        4795,
+        4796,
+        4732,
+        4797,
+        4733,
+        4734
+      ],
       "Conjure": [
         4882,
         4885,
@@ -1425,27 +1446,6 @@
         8897,
         8898
       ],
-      "Modniir": [
-        4608,
-        4643,
-        4645,
-        4613,
-        4647,
-        4618,
-        4587,
-        4651,
-        4524,
-        4652,
-        4655,
-        4592,
-        4594,
-        4595,
-        4660,
-        4662,
-        4631,
-        4632,
-        4634
-      ],
       "Mystic": [
         5313,
         5346,
@@ -1595,11 +1595,6 @@
         4715,
         4731,
         4860
-      ],
-      "Riftstalker": [
-        8650,
-        8652,
-        8655
       ],
       "Spirit Weapon": [
         4784,
@@ -1833,18 +1828,7 @@
         11537
       ]
     },
-    "(Core > LW1) Living World Season 1: Scarlet's War": {
-      "Aetherized Arsenite / Aetherized Indigo / Aetherized Vermilion": [
-        11103,
-        11107,
-        11114,
-        11127,
-        11130,
-        11131,
-        11138,
-        11139,
-        11140
-      ],
+    "(X0 > LW1) Living World Season 1: Scarlet's War": {
       "Aetherized Nightmare Court": [
         4513,
         4419,
@@ -1862,6 +1846,17 @@
         4504,
         4540,
         4541
+      ],
+      "Aetherized Prototype": [
+        11103,
+        11107,
+        11114,
+        11127,
+        11130,
+        11131,
+        11138,
+        11139,
+        11140
       ],
       "Dragon's Watch": [
         10825,
@@ -1894,7 +1889,7 @@
         5425
       ]
     },
-    "(Core > LW2) Living World Season 2: Glint's Prophecy": {
+    "(X0 > LW2) Living World Season 2: Glint's Prophecy": {
       "Ambrite": [
         5516,
         5517,
@@ -1941,17 +1936,7 @@
         6074,
         6047
       ],
-      "Champion Loot Bag Weapon Series 2": [
-        6198,
-        6359,
-        6374,
-        6383,
-        6452,
-        6499,
-        6504,
-        6513
-      ],
-      "Legendary Weapon Series 2 - Experiment": [
+      "Legendary Weapon Series 2 - Tier 1": [
         7318,
         7335,
         7207,
@@ -1969,7 +1954,7 @@
         8598,
         8696
       ],
-      "Legendary Weapon Series 2 - Experiment > Perfected": [
+      "Legendary Weapon Series 2 - Tier 1 > Tier 2": [
         7298,
         6285,
         8339,
@@ -1987,7 +1972,7 @@
         8589,
         8729
       ],
-      "Legendary Weapon Series 2 - Experiment > Perfected > Precursor": [
+      "Legendary Weapon Series 2 - Tier 1 > Tier 2 > Tier 3": [
         7306,
         7312,
         8341,
@@ -2005,7 +1990,7 @@
         8600,
         8692
       ],
-      "Legendary Weapon Series 2 - Experiment > Perfected > Precursor > Legendary": [
+      "Legendary Weapon Series 2 - Tier 1 > Tier 2 > Tier 3 > Tier 4": [
         6276,
         7300,
         7206,
@@ -2104,12 +2089,7 @@
         6171,
         6399
       ],
-      "Indomitable / Arbiter": [
-        7097,
-        7101,
-        7125
-      ],
-      "Mist": [
+      "Mistward": [
         8114,
         8116,
         8118
@@ -2120,6 +2100,16 @@
         6325,
         6465,
         6482
+      ],
+      "Mursaat": [
+        7097,
+        7101,
+        7125
+      ],
+      "Prisoner": [
+        7076,
+        7104,
+        7151
       ],
       "Reclaimed": [
         5922,
@@ -2175,6 +2165,12 @@
         6301,
         6335
       ],
+      "Samarog": [
+        7091,
+        7113,
+        7147,
+        7155
+      ],
       "White Mantle": [
         6626,
         6788,
@@ -2197,11 +2193,19 @@
         6141,
         6160,
         6177,
+        6198,
         6307,
+        6359,
+        6374,
+        6383,
         6441,
         6450,
+        6452,
         6458,
         6491,
+        6499,
+        6504,
+        6513,
         6528,
         6531,
         6532,
@@ -2210,14 +2214,7 @@
         6642,
         6645,
         6813,
-        6836,
-        7076,
-        7091,
-        7104,
-        7113,
-        7147,
-        7151,
-        7155
+        6836
       ]
     },
     "(X1 > LW3) Living World Season 3: Glint's Legacy": {
@@ -2268,13 +2265,6 @@
         7439,
         7569
       ],
-      "Champion Loot Bag Weapon Series 3 - Forged": [
-        7584,
-        7492,
-        7562,
-        7677,
-        7470
-      ],
       "Awakened": [
         7520,
         7617,
@@ -2310,6 +2300,14 @@
         7611,
         7548,
         7549
+      ],
+      "Djinn": [
+        8783,
+        8793,
+        8797,
+        8800,
+        8802,
+        8803
       ],
       "Dwarven": [
         7361,
@@ -2354,6 +2352,13 @@
         7453,
         7389
       ],
+      "Forged": [
+        7584,
+        7492,
+        7562,
+        7677,
+        7470
+      ],
       "Funerary": [
         7552,
         7714,
@@ -2371,28 +2376,6 @@
         7420,
         7484,
         7422
-      ],
-      "Sabir / Adina / Peerless": [
-        8783,
-        8793,
-        8797,
-        8800,
-        8802,
-        8803
-      ],
-      "Shiny": [
-        8782,
-        8787,
-        8788,
-        8790,
-        8801
-      ],
-      "Shiny > Ultra Shiny": [
-        8789,
-        8794,
-        8795,
-        8796,
-        8799
       ],
       "Standalone Weapon": [
         7845,
@@ -2492,6 +2475,11 @@
         8039,
         8059,
         8060
+      ],
+      "Riftstalker": [
+        8650,
+        8652,
+        8655
       ],
       "Scion": [
         8684,
@@ -2643,13 +2631,7 @@
         9212,
         9213
       ],
-      "Charr": [
-        8918,
-        8927,
-        8929,
-        8954
-      ],
-      "Charr Dominion": [
+      "Dominion Tribune": [
         9479,
         9480,
         9494,
@@ -2745,6 +2727,12 @@
         9941,
         9942,
         9946
+      ],
+      "High Legion": [
+        8918,
+        8927,
+        8929,
+        8954
       ],
       "Stormcaller": [
         9371,
@@ -2872,28 +2860,7 @@
         10680,
         10691
       ],
-      "Champion Loot Bag Weapon Series 4": [
-        10233,
-        10238,
-        10285,
-        10316,
-        10342,
-        10367,
-        10462,
-        10473,
-        10478,
-        10487,
-        10493,
-        10534,
-        10562,
-        10574,
-        10624,
-        10665,
-        10699,
-        10732,
-        10751
-      ],
-      "Legendary Weapon Series 3: Facet of Aurene - Dragon": [
+      "Legendary Weapon Series 3 - Dragon": [
         10235,
         10249,
         10254,
@@ -2911,7 +2878,7 @@
         10677,
         10698
       ],
-      "Legendary Weapon Series 3: Facet of Aurene - Dragon > Aurene": [
+      "Legendary Weapon Series 3 - Dragon > Aurene": [
         10276,
         10289,
         10322,
@@ -2929,7 +2896,7 @@
         10745,
         10756
       ],
-      "Legendary Weapon Series 3: Facet of Aurene - Dragon > Aurene > Jormag": [
+      "Legendary Weapon Series 3 - Dragon > Aurene > Jormag": [
         10250,
         10294,
         10301,
@@ -2947,7 +2914,7 @@
         10697,
         10747
       ],
-      "Legendary Weapon Series 3: Facet of Aurene - Dragon > Aurene > Kralkatorrik": [
+      "Legendary Weapon Series 3 - Dragon > Aurene > Kralkatorrik": [
         10251,
         10329,
         10355,
@@ -2965,7 +2932,7 @@
         10712,
         10748
       ],
-      "Legendary Weapon Series 3: Facet of Aurene - Dragon > Aurene > Mordremoth": [
+      "Legendary Weapon Series 3 - Dragon > Aurene > Mordremoth": [
         10320,
         10347,
         10353,
@@ -2983,7 +2950,7 @@
         10630,
         10711
       ],
-      "Legendary Weapon Series 3: Facet of Aurene - Dragon > Aurene > Primordus": [
+      "Legendary Weapon Series 3 - Dragon > Aurene > Primordus": [
         10252,
         10287,
         10288,
@@ -3001,7 +2968,7 @@
         10674,
         10696
       ],
-      "Legendary Weapon Series 3: Facet of Aurene - Dragon > Aurene > Soo-Won": [
+      "Legendary Weapon Series 3 - Dragon > Aurene > Soo-Won": [
         10244,
         10259,
         10309,
@@ -3019,7 +2986,7 @@
         10716,
         10720
       ],
-      "Legendary Weapon Series 3: Facet of Aurene - Dragon > Aurene > Zhaitan": [
+      "Legendary Weapon Series 3 - Dragon > Aurene > Zhaitan": [
         10260,
         10266,
         10284,
@@ -3043,6 +3010,27 @@
         11280,
         11284,
         11310
+      ],
+      "Canthan Champion": [
+        10233,
+        10238,
+        10285,
+        10316,
+        10342,
+        10367,
+        10462,
+        10473,
+        10478,
+        10487,
+        10493,
+        10534,
+        10562,
+        10574,
+        10624,
+        10665,
+        10699,
+        10732,
+        10751
       ],
       "Flame Serpent": [
         10047,
@@ -3116,24 +3104,6 @@
         10669,
         10755
       ],
-      "Living Water": [
-        10304,
-        10323,
-        10384,
-        10387,
-        10465,
-        10486,
-        10495,
-        10575,
-        10590,
-        10597,
-        10609,
-        10651,
-        10664,
-        10694,
-        10717,
-        10741
-      ],
       "Luxon Hunter": [
         11271,
         11278,
@@ -3170,14 +3140,6 @@
         11466,
         11468
       ],
-      "Repurposed / Xunlai": [
-        11299,
-        11316,
-        11324,
-        11448,
-        11451,
-        11458
-      ],
       "Saltspray": [
         10229,
         10275,
@@ -3195,6 +3157,24 @@
         10684,
         10709,
         10722
+      ],
+      "Saltspray > Living Water": [
+        10304,
+        10323,
+        10384,
+        10387,
+        10465,
+        10486,
+        10495,
+        10575,
+        10590,
+        10597,
+        10609,
+        10651,
+        10664,
+        10694,
+        10717,
+        10741
       ],
       "Spindrift": [
         10232,
@@ -3219,6 +3199,14 @@
         11340,
         11344
       ],
+      "Xunlai": [
+        11299,
+        11316,
+        11324,
+        11448,
+        11451,
+        11458
+      ],
       "Standalone Weapon": [
         10803,
         10831,
@@ -3226,24 +3214,6 @@
       ]
     },
     "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
-      "Champion Loot Bag Weapon Series 5 - Shattered": [
-        11576,
-        11587,
-        11589,
-        11590,
-        11592,
-        11600,
-        11612,
-        11644,
-        11677,
-        11680,
-        11693,
-        11769,
-        11776,
-        11790,
-        11798,
-        11799
-      ],
       "Abomination": [
         11582,
         11584,
@@ -3262,31 +3232,13 @@
         11805,
         11813
       ],
-      "Astral Ward": [
+      "Bastion of Amnytas": [
         11651,
         11676,
         11701,
         11729,
         11750,
         11815
-      ],
-      "Dark Sanctified": [
-        11873,
-        11889,
-        11893,
-        11895,
-        11896,
-        11899,
-        11902,
-        11907,
-        11908,
-        11912,
-        11918,
-        11920,
-        11926,
-        11927,
-        11928,
-        11931
       ],
       "Eagle Eye": [
         11515,
@@ -3324,24 +3276,6 @@
         11795,
         11803
       ],
-      "Sanctified": [
-        11570,
-        11579,
-        11583,
-        11596,
-        11619,
-        11626,
-        11627,
-        11636,
-        11664,
-        11678,
-        11679,
-        11705,
-        11736,
-        11792,
-        11810,
-        11817
-      ],
       "Saryx": [
         11574,
         11595,
@@ -3377,6 +3311,24 @@
         11925,
         11929,
         11930
+      ],
+      "Shattered": [
+        11576,
+        11587,
+        11589,
+        11590,
+        11592,
+        11600,
+        11612,
+        11644,
+        11677,
+        11680,
+        11693,
+        11769,
+        11776,
+        11790,
+        11798,
+        11799
       ],
       "Sin": [
         11575,
@@ -3443,7 +3395,12 @@
       ],
       "Standalone Weapon": [
         11747,
-        11879
+        11879,
+        12019
+      ]
+    },
+    "(X5) Guild Wars 2: ???? (????)": {
+      "Standalone Weapon": [
       ]
     },
     "Lunar New Year (LNY)": {
@@ -3501,9 +3458,25 @@
         9886,
         9889
       ],
-      "Festival Weekly Completion Weapon Series 1 - WIP": [
+      "Festival Weekly Completion Weapon Series 1 - Fortunate": [
+        11984,
+        11985,
+        11986,
+        11987,
+        11989,
+        11997,
+        11998,
+        11999,
+        12000,
+        12001,
+        12002,
+        12004,
+        12005,
+        12008,
+        12009,
+        12010
       ],
-      "Festival Champion Loot Bag Weapon Series 1 - Firework": [
+      "Festival Champion Weapon Series 1 - Firework": [
         11201,
         11202,
         11203,
@@ -3520,6 +3493,11 @@
         11225,
         11230,
         11232
+      ],
+      "Lucky Dragon": [
+        11991,
+        11993,
+        11994
       ],
       "Standalone Weapon": [
         6295,
@@ -3568,25 +3546,25 @@
         9987,
         9988
       ],
-      "Festival Weekly Completion Weapon Series 2 - Generation One": [
-        11364,
-        11366,
-        11368,
-        11372,
-        11375,
-        11377,
-        11378,
-        11383,
-        11385,
-        11386,
-        11387,
-        11388,
-        11394,
-        11396,
-        11401,
-        11402
+      "Festival Weekly Completion Weapon Series 2 - Golem-Buster": [
+        12108,
+        12109,
+        12110,
+        12111,
+        12112,
+        12114,
+        12115,
+        12120,
+        12121,
+        12122,
+        12123,
+        12124,
+        12125,
+        12126,
+        12128,
+        12131
       ],
-      "Festival Champion Loot Bag Weapon Series 2 - Hardlight": [
+      "Festival Champion Weapon Series 2 - Hardlight": [
         10767,
         10768,
         10771,
@@ -3604,23 +3582,23 @@
         10798,
         10799
       ],
-      "Glitched Adventure": [
-        9336,
-        9338,
-        9340,
-        9341,
-        9342,
-        9344,
-        9345,
-        9346,
-        9348,
-        9351,
-        9353,
-        9354,
-        9356,
-        9358,
-        9359,
-        9360
+      "Generation One": [
+        11364,
+        11366,
+        11368,
+        11372,
+        11375,
+        11377,
+        11378,
+        11383,
+        11385,
+        11386,
+        11387,
+        11388,
+        11394,
+        11396,
+        11401,
+        11402
       ],
       "Kaiser Snake": [
         6663,
@@ -3664,7 +3642,11 @@
         10793,
         11370,
         11376,
-        11405
+        11405,
+        12107,
+        12129,
+        12132,
+        12134
       ],
       "Storm Wizard": [
         5282,
@@ -3684,7 +3666,7 @@
         5309,
         5342
       ],
-      "Super": [
+      "Super Adventure": [
         5344,
         5251,
         5284,
@@ -3701,6 +3683,24 @@
         5308,
         5279,
         5311
+      ],
+      "Super Adventure > Glitched Adventure": [
+        9336,
+        9338,
+        9340,
+        9341,
+        9342,
+        9344,
+        9345,
+        9346,
+        9348,
+        9351,
+        9353,
+        9354,
+        9356,
+        9358,
+        9359,
+        9360
       ]
     },
     "Dragon Bash": {
@@ -3758,7 +3758,7 @@
         11507,
         11508
       ],
-      "Festival Champion Loot Bag Weapon Series 3 - Dragonbone": [
+      "Festival Champion Weapon Series 3 - Dragonbone": [
         10844,
         10845,
         10848,
@@ -3842,7 +3842,7 @@
         11565,
         11566
       ],
-      "Festival Champion Loot Bag Weapon Series 4 - Watchwork": [
+      "Festival Champion Weapon Series 4 - Watchwork": [
         10910,
         10913,
         10915,
@@ -3968,7 +3968,7 @@
         11870,
         11872
       ],
-      "Festival Champion Loot Bag Weapon Series 5 - Chained": [
+      "Festival Champion Weapon Series 5 - Chained": [
         11054,
         11061,
         11064,
@@ -4092,7 +4092,7 @@
         11975,
         11976
       ],
-      "Festival Champion Loot Bag Weapon Series 6 - Snowdrift": [
+      "Festival Champion Weapon Series 6 - Snowdrift": [
         11172,
         11173,
         11174,
@@ -4190,7 +4190,25 @@
       ]
     },
     "Bonus Event": {
-      "Dragon Decade": [
+      "Anniversary Series 1 - Luminous": [
+        7476,
+        7481,
+        7500,
+        7503,
+        7517,
+        7559,
+        7579,
+        7583,
+        7597,
+        7615,
+        7629,
+        7643,
+        7680,
+        7687,
+        7693,
+        7709
+      ],
+      "Anniversary Series 2 - Dragon Decade": [
         10908,
         10909,
         10914,
@@ -4231,23 +4249,19 @@
         8773,
         8781
       ],
-      "Luminous": [
-        7476,
-        7481,
-        7500,
-        7503,
-        7517,
-        7559,
-        7579,
-        7583,
-        7597,
-        7615,
-        7629,
-        7643,
-        7680,
-        7687,
-        7693,
-        7709
+      "Shiny": [
+        8782,
+        8787,
+        8788,
+        8790,
+        8801
+      ],
+      "Shiny > Ultra Shiny": [
+        8789,
+        8794,
+        8795,
+        8796,
+        8799
       ],
       "War Machine": [
         10968,
@@ -4266,28 +4280,68 @@
         11019,
         11020,
         11021
-      ],
-      "Standalone Weapon": [
-        4569,
-        4570,
-        4571,
-        4572,
-        4573,
-        4574,
-        4575,
-        4576,
-        4577,
-        4578,
-        4579,
-        4580,
-        4581,
-        4582,
-        4583,
-        4584
       ]
     },
-    "Gem Store": {
-      "Appearance Pack Series 1 - Immortal": [
+    "Wizard's Vault": {
+      "Astral Rewards Weapon Series 1 - Sanctified": [
+        11570,
+        11579,
+        11583,
+        11596,
+        11619,
+        11626,
+        11627,
+        11636,
+        11664,
+        11678,
+        11679,
+        11705,
+        11736,
+        11792,
+        11810,
+        11817
+      ],
+      "Astral Rewards Weapon Series 2 - Dark Sanctified": [
+        11873,
+        11889,
+        11893,
+        11895,
+        11896,
+        11899,
+        11902,
+        11907,
+        11908,
+        11912,
+        11918,
+        11920,
+        11926,
+        11927,
+        11928,
+        11931
+      ],
+      "Astral Rewards Weapon Series 3 - Solar Astrolabe": [
+        12024,
+        12025,
+        12026,
+        12034,
+        12035,
+        12040,
+        12045,
+        12051,
+        12053,
+        12058,
+        12059,
+        12077,
+        12080,
+        12083,
+        12084,
+        12089
+      ],
+      "Astral Rewards Weapon Series 4 - ????": [
+      ]
+    },
+    "Black Lion Trading Company (Gem Store)": {
+      "Elite Weapon Series 1 - Immortal": [
         6081,
         6082,
         6115,
@@ -4305,7 +4359,7 @@
         6111,
         6079
       ],
-      "Appearance Pack Series 2 - Onyx Lion / Gold Lion": [
+      "Elite Weapon Series 2 - Onyx Lion / Gold Lion": [
         8256,
         8292,
         8293,
@@ -4339,7 +4393,7 @@
         8286,
         8255
       ],
-      "Appearance Pack Series 3 - Mythic": [
+      "Elite Weapon Series 3 - Mythic": [
         9054,
         9055,
         9056,
@@ -4357,7 +4411,7 @@
         9090,
         9093
       ],
-      "Appearance Pack Series 4 - Gold Essence": [
+      "Elite Weapon Series 4 - Gold Essence": [
         10262,
         10296,
         10340,
@@ -5844,11 +5898,34 @@
         11972,
         11974
       ],
+      "Black Lion Claim Ticket Series 82 - Necrotic Essence": [
+        12011,
+        12023,
+        12027,
+        12028,
+        12033,
+        12041,
+        12042,
+        12043,
+        12046,
+        12055,
+        12057,
+        12061,
+        12069,
+        12085,
+        12096,
+        12097
+      ],
       "Consortium": [
         3764,
         3782,
         3805,
         3832
+      ],
+      "Devil-Rending": [
+        10042,
+        11036,
+        12102
       ],
       "Dreamwalker": [
         9049,
@@ -5941,7 +6018,6 @@
         9974,
         9995,
         10040,
-        10042,
         10062,
         10077,
         10113,
@@ -5959,7 +6035,6 @@
         10824,
         10856,
         10961,
-        11036,
         11042,
         11086,
         11160,
@@ -5980,7 +6055,32 @@
         11841,
         11871,
         11932,
-        11933
+        11933,
+        11979,
+        11983,
+        12021,
+        12101,
+        12104
+      ]
+    },
+    "Promotional Event": {
+      "Heritage": [
+        4569,
+        4570,
+        4571,
+        4572,
+        4573,
+        4574,
+        4575,
+        4576,
+        4577,
+        4578,
+        4579,
+        4580,
+        4581,
+        4582,
+        4583,
+        4584
       ]
     }
   }

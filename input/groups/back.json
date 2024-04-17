@@ -1,8 +1,6 @@
 {
   "topLevelCategories": {
-    "Core": {
-      "Starter": [
-      ],
+    "(X0) Guild Wars 2 (GW2)": {
       "Crafting Discipline Series 1: Tailor": [
         2307,
         2309,
@@ -108,14 +106,13 @@
         2344,
         2380,
         5653,
-        6242,
         6253,
         6353,
         6621,
         9051
       ]
     },
-    "(Core > LW1) Living World Season 1: Scarlet's War": {
+    "(X0 > LW1) Living World Season 1: Scarlet's War": {
       "Spinal Blades": [
         2337,
         2328,
@@ -136,7 +133,7 @@
         11118
       ]
     },
-    "(Core > LW2) Living World Season 2: Glint's Prophecy": {
+    "(X0 > LW2) Living World Season 2: Glint's Prophecy": {
       "Vine / Mawdrey": [
         5544,
         5545,
@@ -167,12 +164,11 @@
         6246,
         6304
       ],
-      "Auric Backplate / Luminate's Backplate": [
-        6149,
-        6279
-      ],
       "Standalone Back Item": [
         6135,
+        6149,
+        6242,
+        6279,
         6809,
         7114
       ]
@@ -214,22 +210,20 @@
         8058,
         8052
       ],
-      "Banner of the Commander": [
-        8149,
-        8165
-      ],
       "Standalone Back Item": [
+        8149,
+        8165,
         8169
       ]
     },
     "(X2 > LW5) Living World Season 5: The Icebrood Saga (IBS)": {
-      "Banner of the Charr Legion": [
+      "Banner of the High Legion": [
         8924,
         8931,
         8933,
         8937
       ],
-      "Charr Legion": [
+      "High Legion": [
         9387,
         9407,
         9413,
@@ -243,31 +237,43 @@
       ]
     },
     "(X3) Guild Wars 2: End of Dragons (EoD)": {
-      "Echovald Backpiece": [
-        10457,
-        10647
+      "Club Canach": [
+        10344,
+        10426,
+        10524,
+        10675
       ],
       "Standalone Back Item": [
         10231,
         10247,
         10271,
-        10344,
         10399,
-        10426,
+        10457,
         10458,
-        10524,
-        10675,
+        10647,
         10898,
         11322,
         11268
       ]
     },
     "(X4) Guild Wars 2: Secrets of the Obscure (SotO)": {
+      "Banner of the Bastion of Amnytas": [
+        12032,
+        12039,
+        12047,
+        12065,
+        12070,
+        12073
+      ],
       "Standalone Back Item": [
         11741,
         11804,
-        11903,
-        11904
+        11904,
+        12081
+      ]
+    },
+    "(X5) Guild Wars 2: ???? (????)": {
+      "Standalone Back Item": [
       ]
     },
     "Lunar New Year (LNY)": {
@@ -280,7 +286,8 @@
         9097,
         9883,
         10206,
-        11209
+        11209,
+        12003
       ],
       "Lucky Celestial Lantern > Lucky Great Celestial Lantern": [
         5857,
@@ -291,11 +298,12 @@
         9120,
         9838,
         10183,
-        11206
+        11206,
+        12007
       ]
     },
     "Super Adventure Festival (SAB)": {
-      "Super / King Toad / Storm Wizard / Kaiser Snake / Crimson Assassin": [
+      "Bauble": [
         2360,
         2361,
         2362,
@@ -359,22 +367,30 @@
         6898,
         6902
       ],
-      "Decade": [
-        11025,
-        11027
-      ],
       "Standalone Back Item": [
         2358,
         6618,
-        10059,
-        11840
+        11025,
+        11027,
+        11840,
+        12100
       ]
     },
-    "Gem Store": {
+    "Wizard's Vault": {
+      "Standalone Back Item": [
+        11903
+      ]
+    },
+    "Black Lion Trading Company (Gem Store)": {
       "Forest Archer": [
         10156,
         10159,
         10161
+      ],
+      "Mount Baby": [
+        7755,
+        7996,
+        8319
       ],
       "Plush Charr": [
         2363,
@@ -406,13 +422,10 @@
         7285,
         7308,
         7661,
-        7755,
         7811,
-        7996,
         8038,
         8141,
         8184,
-        8319,
         8638,
         8647,
         8649,
@@ -436,7 +449,9 @@
         11051,
         11428,
         11780,
-        11941
+        11941,
+        11982,
+        11996
       ],
       "Standalone Back Item -> Cape": [
         9050,
@@ -456,14 +471,12 @@
         9717,
         9918,
         10005,
-        10084,
         10088,
         10104,
         10164,
         10192,
         10888,
         10902,
-        11070,
         11116,
         11144,
         11247,
@@ -471,7 +484,10 @@
         11400,
         11435,
         11716,
-        11966
+        11966,
+        12099,
+        12113,
+        12119
       ],
       "Standalone Back Item -> Quiver": [
         2369,
@@ -517,7 +533,15 @@
         10912,
         11125,
         11246,
-        11253
+        11253,
+        12103
+      ]
+    },
+    "Promotional Event": {
+      "Standalone Back Item": [
+        10059,
+        10084,
+        11070
       ]
     }
   }

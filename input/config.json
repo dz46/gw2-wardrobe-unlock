@@ -1162,6 +1162,12 @@
       "vendorItemTypes": ["Consumable"]
     }//,
 //    {
+//      "id": "recipe",
+//      "name": "Other: Recipes",
+//      "source": "recipes",
+//      "unlockUrl": "https://api.guildwars2.com/v2/account/recipes"
+//    }//,
+//    {
 //      "id": "title",
 //      "name": "Other: Titles",
 //      "source": "titles",

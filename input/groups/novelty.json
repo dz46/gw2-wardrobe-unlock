@@ -1,10 +1,6 @@
 {
   "topLevelCategories": {
-    "Core": {
-      "Anomaly Fragment / Ley-Line Anomaly Tonic": [
-        191,
-        202
-      ],
+    "(X0) Guild Wars 2 (GW2)": {
       "Elemental Potion": [
         72,
         120,
@@ -13,7 +9,6 @@
       ],
       "Standalone Novelty": [
         12,
-        29,
         41,
         115,
         121,
@@ -23,17 +18,11 @@
         219,
         222,
         237,
-        271,
-        272,
-        273,
-        274,
-        275,
-        276,
         307,
         332
       ]
     },
-    "(Core > LW1) Living World Season 1: Scarlet's War": {
+    "(X0 > LW1) Living World Season 1: Scarlet's War": {
       "Quaggan Tonic": [
         88,
         131,
@@ -55,17 +44,17 @@
         325
       ]
     },
-    "(Core > LW2) Living World Season 2: Glint's Prophecy": {
-      "Crystal Shard Kite / Prosperity Mine Kite / Ventari Follower Kite": [
-        11,
-        14,
-        48
-      ],
+    "(X0 > LW2) Living World Season 2: Glint's Prophecy": {
       "Mordrem Minion Tonic": [
         81,
         90,
         201,
         243
+      ],
+      "Sandstorm Kite": [
+        11,
+        14,
+        48
       ],
       "Standalone Novelty": [
         117,
@@ -102,29 +91,39 @@
         92,
         132,
         158,
+        191,
+        202,
         255
       ]
     },
     "(X2) Guild Wars 2: Path of Fire (PoF)": {
-      "Choya Kite": [
+      "Casino Blitz Kite": [
         10,
+        17,
+        22,
         26,
-        43
+        39,
+        43,
+        51
       ],
       "Music Box": [
       ],
       "Standalone Novelty": [
-        17,
-        22,
-        39,
         50,
-        51,
         69,
         218,
         285
       ]
     },
     "(X2 > LW4) Living World Season 4: Rise of Kralkatorrik": {
+      "Racing Tonic": [
+        271,
+        272,
+        273,
+        274,
+        275,
+        276
+      ],
       "Standalone Novelty": [
         86,
         89,
@@ -144,7 +143,7 @@
       ]
     },
     "(X3) Guild Wars 2: End of Dragons (EoD)": {
-      "Crustacean Tonic / Fish Tonic": [
+      "Fishing Tonic": [
         335,
         336,
         337,
@@ -169,8 +168,12 @@
         345
       ]
     },
+    "(X5) Guild Wars 2: ???? (????)": {
+      "Standalone Novelty": [
+      ]
+    },
     "Super Adventure Festival (SAB)": {
-      "Super Boom Box / Duskk's Super Boom Box": [
+      "Super Boom Box": [
         3,
         23,
         25,
@@ -178,20 +181,21 @@
       ]
     },
     "Festival of the Four Winds (FotFW)": {
-      "Embellished Kite / Mark of Peace Kite / Ornamental Kite": [
+      "Treasure Hunt Kite": [
         1,
         31,
         46
       ],
       "Standalone Novelty": [
         28,
+        29,
         142,
         150,
         223
       ]
     },
     "Shadow of the Mad King (Halloween)": {
-      "Ignited Wraith Tonic": [
+      "Halloween Enchantment Tonic": [
         84,
         94,
         166,
@@ -205,9 +209,10 @@
     "A Very Merry Wintersday": {
       "Enchanted Snowball": [
         93,
+        133,
         217
       ],
-      "Toy Tonic / Gift Box Tonic / Gift Dolyak Tonic / Toymaker's Tonic": [
+      "Toy Tonic": [
         119,
         136,
         145,
@@ -221,31 +226,32 @@
         38,
         42,
         75,
-        133,
         277
       ]
     },
     "Bonus Event": {
       "Champion's Gizmo": [
       ],
-      "Standalone Novelty": [
+      "Chest Tonic": [
         283,
         288,
+        304
+      ],
+      "Standalone Novelty": [
         289,
-        304,
         308
       ]
     },
-    "Gem Store": {
-      "Aspect Kite / Guild Kite": [
+    "Wizard's Vault": {
+      "Standalone Novelty": [
+      ]
+    },
+    "Black Lion Trading Company (Gem Store)": {
+      "Aspect Kite": [
         7,
         13,
         36,
         40
-      ],
-      "Mount Chair": [
-        284,
-        302
       ],
       "Standalone Novelty -> Chair": [
         24,
@@ -255,10 +261,12 @@
         278,
         279,
         280,
+        284,
         286,
         287,
         294,
         301,
+        302,
         303,
         305,
         309,
@@ -316,7 +324,11 @@
         103,
         159,
         172,
-        185,
+        185
+      ]
+    },
+    "Promotional Event": {
+      "Standalone Novelty": [
         236
       ]
     }

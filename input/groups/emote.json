@@ -1,23 +1,16 @@
 {
   "topLevelCategories": {
-    "Core": {
-      "Starter": [
-      ],
-      "Standalone Emote": [
-        "Bless"
-      ]
-    },
     "(X2 > LW5) Living World Season 5: The Icebrood Saga (IBS)": {
       "Standalone Emote": [
+        "playdead",
         "rockout",
         "shiver",
-        "playdead",
         "Shiverplus",
         "Stretch"
       ]
     },
     "(X3) Guild Wars 2: End of Dragons (EoD)": {
-      "Rock / Paper / Scissors": [
+      "Rock, Paper, Scissors": [
         "Paper",
         "Rock",
         "Scissors"
@@ -29,17 +22,27 @@
         "Possessed"
       ]
     },
-    "Gem Store": {
+    "Wizard's Vault": {
+      "Standalone Emote": [
+        "Bless"
+      ]
+    },
+    "Black Lion Trading Company (Gem Store)": {
       "How to Dance, Volume 1": [
         "geargrind",
         "shuffle",
         "step"
       ],
       "Standalone Emote": [
-        "Serve",
         "Hiss",
-        "MagicJuggle",
         "Readbook",
+        "Serve",
+        "Unleash"
+      ]
+    },
+    "Promotional Event": {
+      "Standalone Emote": [
+        "MagicJuggle",
         "sipcoffee"
       ]
     }

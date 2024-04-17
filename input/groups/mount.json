@@ -1,6 +1,6 @@
 {
   "topLevelCategories": {
-    "Core": {
+    "(X0) Guild Wars 2 (GW2)": {
       "Starter": [
         1,
         2,
@@ -20,7 +20,11 @@
       "Standalone Mount": [
       ]
     },
-    "Gem Store": {
+    "Wizard's Vault": {
+      "Standalone Mount": [
+      ]
+    },
+    "Black Lion Trading Company (Gem Store)": {
       "Mounts Pack Series 1 - Spooky": [
         13,
         14,
@@ -134,6 +138,9 @@
         373,
         430
       ],
+      "Dark Matter": [
+        367
+      ],
       "Darkmist": [
         313,
         350,
@@ -215,7 +222,7 @@
       ],
       "Scaled Hell": [
       ],
-      "Star / Star Blessed": [
+      "Star / Star Blessed / Starlit Sky": [
         12,
         27,
         49,
@@ -275,7 +282,6 @@
         308,
         329,
         344,
-        367,
         450,
         456,
         496,
