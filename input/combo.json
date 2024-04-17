@@ -659,6 +659,7 @@
       { "name": "New Kaineng Cape and Glider Combo", "combo": { "back": [10888], "glider": [114] } },
       { "name": "Undying Shackles Cape and Glider Combo", "combo": { "back": [11400], "glider": [122] } },
       { "name": "Sorcerer's Cape Backpack and Glider Combo", "combo": { "back": [11716], "glider": [126] } },
+      { "name": "Abyss Hunter Cape Backpack and Glider Combo", "combo": { "back": [12113], "glider": [134] } },
       // Back Item + Glider -> Wings
       { "name": "Black Wings Glider Combo", "combo": { "back": [5878], "glider": [1] } },
       { "name": "White Wings Glider Combo", "combo": { "back": [6035], "glider": [3] } },

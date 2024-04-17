@@ -2631,13 +2631,7 @@
         9212,
         9213
       ],
-      "Charr": [
-        8918,
-        8927,
-        8929,
-        8954
-      ],
-      "Charr Dominion": [
+      "Dominion Tribune": [
         9479,
         9480,
         9494,
@@ -2733,6 +2727,12 @@
         9941,
         9942,
         9946
+      ],
+      "High Legion": [
+        8918,
+        8927,
+        8929,
+        8954
       ],
       "Stormcaller": [
         9371,
@@ -3546,7 +3546,23 @@
         9987,
         9988
       ],
-      "Festival Weekly Completion Weapon Series 2 - ????": [
+      "Festival Weekly Completion Weapon Series 2 - Golem-Buster": [
+        12108,
+        12109,
+        12110,
+        12111,
+        12112,
+        12114,
+        12115,
+        12120,
+        12121,
+        12122,
+        12123,
+        12124,
+        12125,
+        12126,
+        12128,
+        12131
       ],
       "Festival Champion Weapon Series 2 - Hardlight": [
         10767,
@@ -3626,7 +3642,11 @@
         10793,
         11370,
         11376,
-        11405
+        11405,
+        12107,
+        12129,
+        12132,
+        12134
       ],
       "Storm Wizard": [
         5282,

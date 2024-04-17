@@ -217,13 +217,13 @@
       ]
     },
     "(X2 > LW5) Living World Season 5: The Icebrood Saga (IBS)": {
-      "Banner of the Charr Legion": [
+      "Banner of the High Legion": [
         8924,
         8931,
         8933,
         8937
       ],
-      "Charr Legion": [
+      "High Legion": [
         9387,
         9407,
         9413,
@@ -303,13 +303,15 @@
       ]
     },
     "Super Adventure Festival (SAB)": {
-      "Standalone Back Item": [
-        2359,
+      "Bauble": [
         2360,
         2361,
         2362,
         6668,
         7201
+      ],
+      "Standalone Back Item": [
+        2359
       ]
     },
     "Dragon Bash": {
@@ -483,7 +485,9 @@
         11435,
         11716,
         11966,
-        12099
+        12099,
+        12113,
+        12119
       ],
       "Standalone Back Item -> Quiver": [
         2369,
