@@ -3,7 +3,7 @@
   // -------- ARMOR COMBO --------
   // -----------------------------
   {
-    "name": "armorcombo",
+    "name": "combo-armor",
     "contents": [
       // Armor Set
       { "name": "Savage Scale Package", "combo": { "armor": [11100,11106,11124,11129,11133,11142] } },
@@ -113,9 +113,9 @@
       { "name": "Fused Gauntlets", "combo": { "armor": [2012,2015,2017] } },
       { "name": "Fused Shoulders", "combo": { "armor": [10811,10815,10828] } },
       // Armor Set - Glorious > Ardent Glorious / Glorious Hero > Mistforged Glorious Hero
-      { "name": "Mistforged Glorious Hero's Raiment", "combo": { "armor": [8480,8517] } },
-      { "name": "Mistforged Glorious Hero's Brigandine", "combo": { "armor": [8496,8542] } },
       { "name": "Mistforged Glorious Hero's Breastplate", "combo": { "armor": [8476,8531] } },
+      { "name": "Mistforged Glorious Hero's Brigandine", "combo": { "armor": [8496,8542] } },
+      { "name": "Mistforged Glorious Hero's Raiment", "combo": { "armor": [8480,8517] } },
       // Armor Set - Hellfire
       { "name": "Hellfire Warhelm", "combo": { "armor": [770,773,776] } },
       { "name": "Hellfire Mantle", "combo": { "armor": [775,768,779] } },
@@ -293,9 +293,9 @@
       { "name": "Toxic Gloves", "combo": { "armor": [1330,1329,1328] } },
       { "name": "Toxic Boots", "combo": { "armor": [9330,9332,9334] } },
       // Armor Set - Triumphant > Triumphant Hero > Mistforged Triumphant Hero
-      { "name": "Sublime Mistforged Triumphant Hero's Raiment", "combo": { "armor": [7250,7257] } },
-      { "name": "Sublime Mistforged Triumphant Hero's Brigandine", "combo": { "armor": [7253,7255] } },
       { "name": "Sublime Mistforged Triumphant Hero's Breastplate", "combo": { "armor": [7265,7271] } },
+      { "name": "Sublime Mistforged Triumphant Hero's Brigandine", "combo": { "armor": [7253,7255] } },
+      { "name": "Sublime Mistforged Triumphant Hero's Raiment", "combo": { "armor": [7250,7257] } },
       // Armor Set - Vermilion
       { "name": "Vermilion Pauldrons", "combo": { "armor": [10822,10814,10817] } },
       { "name": "Vermilion Vambraces", "combo": { "armor": [10839,10838,10840] } },
@@ -486,7 +486,7 @@
   // -------- WEAPON COMBO --------
   // ------------------------------
   {
-    "name": "weaponcombo",
+    "name": "combo-weapon",
     "contents": [
       // Weapon Set - Cavalier / Guild Cavalier
       { "name": "Cavalier Axe Skin", "combo": { "weapon": [6773,6749] } },
@@ -572,7 +572,7 @@
   // -------- BACK ITEM COMBO --------
   // ---------------------------------
   {
-    "name": "backcombo",
+    "name": "combo-back",
     "contents": [
       // Armor Set - Heretical Scholar + Back Item
       { "name": "Heretical Scholar's Cape and Hood Combo", "combo": { "armor": [11936,11977,11956], "back": [11966] } },
@@ -591,7 +591,7 @@
   // -------- GATHERING TOOL COMBO --------
   // --------------------------------------
   {
-    "name": "toolcombo",
+    "name": "combo-tool",
     "contents": [
       // Gathering Tool Set
       { "name": "Infinite Unbound Magic Gathering Tools", "combo": { "tool": [8087,8093,8097] } },
@@ -604,7 +604,7 @@
   // -------- OUTFIT COMBO --------
   // --------------------------------------
   {
-    "name": "outfitcombo",
+    "name": "combo-outfit",
     "contents": [
       // Armor + Outfit
       { "name": "Fallen Balthazar Package", "combo": { "armor": [7782,7800,7804], "outfit": [57] } },
@@ -615,7 +615,7 @@
   // -------- GLIDER COMBO --------
   // ------------------------------
   {
-    "name": "glidercombo",
+    "name": "combo-glider",
     "contents": [
       // Back Item + Glider
       { "name": "The Ascension", "combo": { "back": [6561], "glider": [11] } },
@@ -702,7 +702,7 @@
   // -------- MOUNT COMBO --------
   // -----------------------------
   {
-    "name": "mountcombo",
+    "name": "combo-mount",
     "contents": [
       // Mount Set
       { "name": "Spooky Mounts Pack", "combo": { "mount": [13,14,15,16,19] } },
@@ -736,7 +736,7 @@
   // -------- SKIFF COMBO --------
   // -----------------------------
   {
-    "name": "skiffcombo",
+    "name": "combo-skiff",
     "contents": [
       // Mount + Skiff
       { "name": "Guild Wars 2: End of Dragons—Deluxe Upgrade", "combo": { "mount": [360], "skiff": [413] } }
@@ -746,7 +746,7 @@
   // -------- NOVELTY COMBO --------
   // -------------------------------
   {
-    "name": "noveltycombo",
+    "name": "combo-novelty",
     "contents": [
       // Weapon + Novelty -> Musical Instrument
       { "name": "The Minstrel", "combo": { "weapon": [4672], "novelty": [41] } },
@@ -775,7 +775,7 @@
   // -------- MINIATURE COMBO --------
   // ---------------------------------
   {
-    "name": "minicombo",
+    "name": "combo-mini",
     "contents": [
       // Back Item + Miniature
       { "name": "Ghoul Backpack and Mini Set", "combo": { "back": [6431], "mini": [342] } },
@@ -798,7 +798,7 @@
   // -------- FINISHER COMBO --------
   // --------------------------------
   {
-    "name": "finishercombo",
+    "name": "combo-finisher",
     "contents": [
       // Glider + Miniature + Finisher
       { "name": "Guild Wars 2: Heart of Thorns—Deluxe Upgrade", "combo": { "glider": [5], "mini": [319], "finisher": [60] } }
@@ -808,7 +808,7 @@
   // -------- EMOTE COMBO --------
   // -----------------------------
   {
-    "name": "emotecombo",
+    "name": "combo-emote",
     "contents": [
       // Mount + Emote
       { "name": "Guild Wars 2: Secrets of the Obscure—Deluxe Upgrade", "combo": { "mount": [], "emote": ["MagicJuggle"] } },
@@ -820,7 +820,7 @@
   // -------- RECIPE COMBO --------
   // ------------------------------
   {
-    "name": "recipecombo",
+    "name": "combo-recipe",
     "contents": [
       //Recipe Set
       //Recipe
@@ -830,7 +830,7 @@
   // -------- TITLE COMBO --------
   // -----------------------------
   {
-    "name": "titlecombo",
+    "name": "combo-title",
     "contents": [
       // Title Set - God of the Arena / Goddess of the Arena
       { "name": "Knight and Dame of the Arena", "combo": { "title": [327,329] } },

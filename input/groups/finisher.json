@@ -4,7 +4,7 @@
       "Starter": [
         48
       ],
-      "Rank": [
+      "Spirit Rank": [
         1,
         2,
         3,
@@ -17,7 +17,7 @@
       ]
     },
     "(X1) Guild Wars 2: Heart of Thorns (HoT)": {
-      "Rank > Mordrem": [
+      "Spirit Rank > Mordrem Spirit": [
         63,
         64,
         65,
@@ -42,7 +42,7 @@
       ]
     },
     "Bonus Event": {
-      "WvW Dolyak": [
+      "WvW Rank Dolyak": [
         30,
         31,
         32
@@ -51,7 +51,7 @@
         62
       ]
     },
-    "Gem Store": {
+    "Black Lion Trading Company (Gem Store)": {
       "Standalone Finisher": [
         10,
         11,
@@ -89,21 +89,21 @@
       ]
     },
     "Promotional Event": {
-      "Trophy": [
+      "Nth Place Trophy": [
         22,
         23,
         47
       ],
-      "World Tournament": [
-        49,
-        50,
-        52
-      ],
-      "World Tournament Series": [
+      "Nth Place World Tournament Series": [
         53,
         54,
         55,
         56
+      ],
+      "Regional World Tournament": [
+        49,
+        50,
+        52
       ]
     }
   }

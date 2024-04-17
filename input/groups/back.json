@@ -237,18 +237,20 @@
       ]
     },
     "(X3) Guild Wars 2: End of Dragons (EoD)": {
+      "Club Canach": [
+        10344,
+        10426,
+        10524,
+        10675
+      ],
       "Standalone Back Item": [
         10231,
         10247,
         10271,
-        10344,
         10399,
-        10426,
         10457,
         10458,
-        10524,
         10647,
-        10675,
         10898,
         11322,
         11268
@@ -268,6 +270,10 @@
         11804,
         11904,
         12081
+      ]
+    },
+    "(X5) Guild Wars 2: ???? (????)": {
+      "Standalone Back Item": [
       ]
     },
     "Lunar New Year (LNY)": {
@@ -297,15 +303,13 @@
       ]
     },
     "Super Adventure Festival (SAB)": {
-      "Super": [
+      "Standalone Back Item": [
+        2359,
         2360,
         2361,
         2362,
         6668,
         7201
-      ],
-      "Standalone Back Item": [
-        2359
       ]
     },
     "Dragon Bash": {
@@ -375,7 +379,7 @@
         11903
       ]
     },
-    "Gem Store": {
+    "Black Lion Trading Company (Gem Store)": {
       "Forest Archer": [
         10156,
         10159,

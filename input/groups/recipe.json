@@ -3443,7 +3443,7 @@
         11500,
         11669
       ],
-      "Mist Weapon": [
+      "Mistward Weapon": [
         12668,
         12669,
         12670,
@@ -4878,6 +4878,10 @@
         14035
       ]
     },
+    "(X5) Guild Wars 2: ???? (????)": {
+      "Standalone Recipe": [
+      ]
+    },
     "Lunar New Year (LNY)": {
       "Standalone Recipe -> Nourishment": [
         13508
@@ -5114,7 +5118,7 @@
         12957
       ]
     },
-    "Gem Store": {
+    "Black Lion Trading Company (Gem Store)": {
       "Dedicated Gardener": [
         12642,
         12643,

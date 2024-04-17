@@ -45,16 +45,16 @@
       ]
     },
     "(X0 > LW2) Living World Season 2: Glint's Prophecy": {
-      "Dry Top Kite": [
-        11,
-        14,
-        48
-      ],
       "Mordrem Minion Tonic": [
         81,
         90,
         201,
         243
+      ],
+      "Sandstorm Kite": [
+        11,
+        14,
+        48
       ],
       "Standalone Novelty": [
         117,
@@ -97,7 +97,7 @@
       ]
     },
     "(X2) Guild Wars 2: Path of Fire (PoF)": {
-      "Crystal Oasis Kite": [
+      "Casino Blitz Kite": [
         10,
         17,
         22,
@@ -168,6 +168,10 @@
         345
       ]
     },
+    "(X5) Guild Wars 2: ???? (????)": {
+      "Standalone Novelty": [
+      ]
+    },
     "Super Adventure Festival (SAB)": {
       "Super Boom Box": [
         3,
@@ -177,7 +181,7 @@
       ]
     },
     "Festival of the Four Winds (FotFW)": {
-      "Labyrinthine Cliffs Kite": [
+      "Treasure Hunt Kite": [
         1,
         31,
         46
@@ -191,7 +195,7 @@
       ]
     },
     "Shadow of the Mad King (Halloween)": {
-      "Ignited Wraith Tonic": [
+      "Halloween Enchantment Tonic": [
         84,
         94,
         166,
@@ -242,7 +246,7 @@
       "Standalone Novelty": [
       ]
     },
-    "Gem Store": {
+    "Black Lion Trading Company (Gem Store)": {
       "Aspect Kite": [
         7,
         13,
